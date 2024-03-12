@@ -1,0 +1,614 @@
+Station Map ID,USGS Station Name,USGS Station Number,Date,Sample Type,Data References,Common name,Order ,Family,Sample Size,Total Sample Weight (g),Moisture (percent),"Total mercury, Wet (micrograms/g)","Methylmercury, Wet (micrograms/g)",MeHg/THg (percent),Age
+AR-01,CANYON C BL GOLD RUN TUNNEL OUTLET NR GOLD RUN CA,3.90945E+14,6/27/2002,Environmental,NP,Spiketail Dragonflies,Odonata,Cordulegastridae,2,1.14,75.6,0.057,0.0788,137.4,Immature
+AR-01,CANYON C BL GOLD RUN TUNNEL OUTLET NR GOLD RUN CA,3.90945E+14,6/27/2002,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,5,0.73,77.1,0.057,0.0543,94.8,Immature
+AR-01,CANYON C BL GOLD RUN TUNNEL OUTLET NR GOLD RUN CA,3.90945E+14,6/27/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.87,62.6,0.109,0.0875,80.4,Adult
+AR-02,CANYON C AB GOLD RUN TUNNEL OUTLET NR GOLD RUN CA,3.90945E+14,6/27/2002,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,3,1.94,73.5,0.07,0.044,63.1,Immature
+AR-02,CANYON C AB GOLD RUN TUNNEL OUTLET NR GOLD RUN CA,3.90945E+14,6/27/2002,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,1,0.56,83.5,0.04,0.0408,101.6,Immature
+AR-02,CANYON C AB GOLD RUN TUNNEL OUTLET NR GOLD RUN CA,3.90945E+14,6/27/2002,Environmental,NP,Spiketail Dragonflies,Odonata,Cordulegastridae,3,1.57,82.8,0.036,0.0404,113.5,Immature
+AR-02,CANYON C AB GOLD RUN TUNNEL OUTLET NR GOLD RUN CA,3.90945E+14,6/27/2002,Environmental,NP,Clubtail Dragonflies,Odonata,Gomphidae,9,1.25,73.8,0.081,0.0603,74,Immature
+AR-02,CANYON C AB GOLD RUN TUNNEL OUTLET NR GOLD RUN CA,3.90945E+14,6/27/2002,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,7,1.13,69.8,0.077,0.058,75.3,Immature
+AR-02,CANYON C AB GOLD RUN TUNNEL OUTLET NR GOLD RUN CA,3.90945E+14,6/27/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.78,61.7,0.072,0.0858,119.8,Adult
+AR-02,CANYON C AB GOLD RUN TUNNEL OUTLET NR GOLD RUN CA,3.90945E+14,6/27/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.86,60.2,0.06,0.0537,88.8,Adult
+AR-03,GOLD RUN TUNNEL OUTLET NR COLFAX CA,3.90945E+14,6/27/2002,Environmental,NP,Banana slugs,Gastropoda,Ariolimacidae,3,44.58,83.9,0.085,0.0193,22.6,ND
+AR-03,GOLD RUN TUNNEL OUTLET NR COLFAX CA,3.90945E+14,6/27/2002,Environmental,NP,Predaceous diving beetles,Coleoptera,Dytiscidae,20,1.36,52.5,0.053,0.0401,76,Adult
+AR-03,GOLD RUN TUNNEL OUTLET NR COLFAX CA,3.90945E+14,6/27/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,9,0.58,58.8,0.105,0.0787,74.6,Adult
+AR-05,GOLD RUN MINE POND NR INDIANA RAVINE NR GOLD RUN,3.90932E+14,6/27/2002,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,2,1.16,86.4,0.011,0.0121,112.5,Immature
+AR-05,GOLD RUN MINE POND NR INDIANA RAVINE NR GOLD RUN,3.90932E+14,6/27/2002,Environmental,NP,Predaceous diving beetles,Coleoptera,Dytiscidae,35,1.14,85.1,<0.016,0.0118,ND,Adult
+AR-05,GOLD RUN MINE POND NR INDIANA RAVINE NR GOLD RUN,3.90932E+14,6/27/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.15,63.6,0.075,0.067,88.9,Adult
+BR-60,SF GREENHORN C .8 MI AB GREENHORN C NR NEVADA CITY,3.91405E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Banana slugs,Gastropoda,Ariolimacidae,3,38.46,89.8,0.087,0.0076,9,ND
+BR-60,SF GREENHORN C .8 MI AB GREENHORN C NR NEVADA CITY,3.91405E+14,8/22/2000,Environmental,https://doi.org/10.3133/sir20045251,Dobsonflies,Megaloptera,Corydalidae,3,2.05,75.9,ND,0.048,ND,Immature
+BR-60,SF GREENHORN C .8 MI AB GREENHORN C NR NEVADA CITY,3.91405E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Dobsonflies,Megaloptera,Corydalidae,3,3.96,70.4,0.11,0.03,27,Immature
+BR-60,SF GREENHORN C .8 MI AB GREENHORN C NR NEVADA CITY,3.91405E+14,8/22/2000,Environmental,https://doi.org/10.3133/sir20045251,Predaceous stonefly,Plecoptera,Perlidae,10,2.28,75.2,ND,0.04,ND,Immature
+BR-60,SF GREENHORN C .8 MI AB GREENHORN C NR NEVADA CITY,3.91405E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Predaceous stonefly,Plecoptera,Perlidae,12,1.43,77,0.11,0.059,55,Immature
+BR-60,SF GREENHORN C .8 MI AB GREENHORN C NR NEVADA CITY,3.91405E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Predaceous stonefly,Plecoptera,Perlidae,5,1.07,76.5,0.11,0.081,76,Immature
+BR-60,SF GREENHORN C .8 MI AB GREENHORN C NR NEVADA CITY,3.91405E+14,8/22/2000,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,21,1.33,57.6,ND,0.074,ND,Adult
+BR-60,SF GREENHORN C .8 MI AB GREENHORN C NR NEVADA CITY,3.91405E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,25,1.42,57.4,0.1,0.065,64,Adult
+BR-01,BEAR R A HWY 20 NR EMIGRANT GAP CA,3.91823E+14,9/21/2000,Environmental,https://doi.org/10.3133/sir20045251,Dobsonflies,Megaloptera,Corydalidae,1,1.52,74.9,0.035,0.038,109,Immature
+BR-01,BEAR R A HWY 20 NR EMIGRANT GAP CA,3.91823E+14,9/15/2001,Environmental,https://doi.org/10.3133/sir20045251,Dobsonflies,Megaloptera,Corydalidae,4,3.48,75.7,0.04,0.029,73,Immature
+BR-01,BEAR R A HWY 20 NR EMIGRANT GAP CA,3.91823E+14,9/15/2001,Environmental,https://doi.org/10.3133/sir20045251,Dobsonflies,Megaloptera,Corydalidae,4,0.61,79.6,0.041,0.04,98,Immature
+BR-01,BEAR R A HWY 20 NR EMIGRANT GAP CA,3.91823E+14,8/23/2002,Environmental,https://doi.org/10.3133/sir20045251,Dobsonflies,Megaloptera,Corydalidae,2,3.03,71.2,0.05,0.048,96,ND
+BR-01,BEAR R A HWY 20 NR EMIGRANT GAP CA,3.91823E+14,9/15/2001,Environmental,https://doi.org/10.3133/sir20045251,Darner Dragonflies,Odonata,Aeshnidae,7,3.89,81.9,0.022,0.014,64,Immature
+BR-01,BEAR R A HWY 20 NR EMIGRANT GAP CA,3.91823E+14,8/23/2002,Environmental,https://doi.org/10.3133/sir20045251,Darner Dragonflies,Odonata,Aeshnidae,8,3.63,79.9,0.024,0.026,108,Immature
+BR-01,BEAR R A HWY 20 NR EMIGRANT GAP CA,3.91823E+14,9/15/2001,Environmental,https://doi.org/10.3133/sir20045251,Giant water bugs,Hemiptera,Belostomatidae,1,4.47,72.6,0.022,0.015,68,Adult
+BR-01,BEAR R A HWY 20 NR EMIGRANT GAP CA,3.91823E+14,9/15/2001,Environmental,https://doi.org/10.3133/sir20045251,Predaceous diving beetles,Coleoptera,Dytiscidae,24,1.07,54.8,0.061,0.041,67,Adult
+BR-01,BEAR R A HWY 20 NR EMIGRANT GAP CA,3.91823E+14,9/15/2001,Environmental,https://doi.org/10.3133/sir20045251,Predaceous diving beetles,Coleoptera,Dytiscidae,7,0.59,57.6,0.14,0.15,107,Adult
+BR-01,BEAR R A HWY 20 NR EMIGRANT GAP CA,3.91823E+14,8/23/2002,Environmental,https://doi.org/10.3133/sir20045251,Predaceous diving beetles,Coleoptera,Dytiscidae,11,0.75,56.7,0.14,0.14,100,Adult
+BR-01,BEAR R A HWY 20 NR EMIGRANT GAP CA,3.91823E+14,10/1/1999,Environmental,https://doi.org/10.3133/sir20045251,Predaceous stonefly,Plecoptera,Perlidae,14,1.94,69.2,0.037,0.039,105,Immature
+BR-01,BEAR R A HWY 20 NR EMIGRANT GAP CA,3.91823E+14,9/21/2000,Environmental,https://doi.org/10.3133/sir20045251,Predaceous stonefly,Plecoptera,Perlidae,5,1.2,68.9,ND,0.067,ND,Immature
+BR-01,BEAR R A HWY 20 NR EMIGRANT GAP CA,3.91823E+14,9/15/2001,Environmental,https://doi.org/10.3133/sir20045251,Predaceous stonefly,Plecoptera,Perlidae,12,2.5,69.3,0.076,0.06,79,Immature
+BR-01,BEAR R A HWY 20 NR EMIGRANT GAP CA,3.91823E+14,9/15/2001,Environmental,https://doi.org/10.3133/sir20045251,Predaceous stonefly,Plecoptera,Perlidae,12,1.7,72.2,0.056,0.058,104,Immature
+BR-01,BEAR R A HWY 20 NR EMIGRANT GAP CA,3.91823E+14,8/23/2002,Environmental,https://doi.org/10.3133/sir20045251,Predaceous stonefly,Plecoptera,Perlidae,12,1.5,68.8,0.052,0.044,85,Immature
+BR-01,BEAR R A HWY 20 NR EMIGRANT GAP CA,3.91823E+14,10/1/1999,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,21,1.1,57.2,ND,0.027,ND,Adult
+BR-01,BEAR R A HWY 20 NR EMIGRANT GAP CA,3.91823E+14,9/21/2000,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,26,1.3,76.1,0.028,0.027,96,Adult
+BR-01,BEAR R A HWY 20 NR EMIGRANT GAP CA,3.91823E+14,9/15/2001,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,25,1.3,64.7,0.07,0.05,71,Adult
+BR-01,BEAR R A HWY 20 NR EMIGRANT GAP CA,3.91823E+14,8/23/2002,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,25,1.4,63,0.045,0.041,97,Adult
+BR-10,BOSTON MINE TUNNEL OUTLET NR GRASS VALLEY CA,3.91346E+14,8/31/1999,Environmental,https://doi.org/10.3133/sir20045251,Banana slugs,Gastropoda,Ariolimacidae,3,50.87,84.2,ND,0.033,ND,ND
+BR-10,BOSTON MINE TUNNEL OUTLET NR GRASS VALLEY CA,3.91346E+14,8/21/2000,Environmental,https://doi.org/10.3133/sir20045251,Banana slugs,Gastropoda,Ariolimacidae,3,40.82,81.8,ND,0.0092,ND,ND
+BR-10,BOSTON MINE TUNNEL OUTLET NR GRASS VALLEY CA,3.91346E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Banana slugs,Gastropoda,Ariolimacidae,3,61.19,82.9,ND,0.0081,ND,ND
+BR-10,BOSTON MINE TUNNEL OUTLET NR GRASS VALLEY CA,3.91346E+14,7/22/2002,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,1,2.05,74.3,0.676,0.1866,27.6,Immature
+BR-10,BOSTON MINE TUNNEL OUTLET NR GRASS VALLEY CA,3.91346E+14,7/22/2002,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,1,1.84,73.6,0.591,0.1267,21.4,Immature
+BR-10,BOSTON MINE TUNNEL OUTLET NR GRASS VALLEY CA,3.91346E+14,7/22/2002,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,1,2.22,71.6,0.5,0.2868,57.4,Immature
+BR-10,BOSTON MINE TUNNEL OUTLET NR GRASS VALLEY CA,3.91346E+14,7/22/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.56,64.3,0.653,0.4284,65.6,Adult
+BR-10,BOSTON MINE TUNNEL OUTLET NR GRASS VALLEY CA,3.91346E+14,8/21/2000,Environmental,https://doi.org/10.3133/sir20045251,Spiketail Dragonflies,Odonata,Cordulegastridae,1,1.04,78.6,ND,0.89,ND,Immature
+BR-10,BOSTON MINE TUNNEL OUTLET NR GRASS VALLEY CA,3.91346E+14,8/12/1999,Environmental,https://doi.org/10.3133/sir20045251,Predaceous diving beetles,Coleoptera,Dytiscidae,10,1.01,49.9,ND,0.31,ND,Adult
+BR-10,BOSTON MINE TUNNEL OUTLET NR GRASS VALLEY CA,3.91346E+14,8/12/1999,Environmental,https://doi.org/10.3133/sir20045251,Predaceous diving beetles,Coleoptera,Dytiscidae,10,1.02,48.9,ND,0.22,ND,Adult
+BR-10,BOSTON MINE TUNNEL OUTLET NR GRASS VALLEY CA,3.91346E+14,8/21/2000,Environmental,https://doi.org/10.3133/sir20045251,Predaceous diving beetles,Coleoptera,Dytiscidae,22,2.14,57.3,ND,0.5,ND,Adult
+BR-10,BOSTON MINE TUNNEL OUTLET NR GRASS VALLEY CA,3.91346E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Predaceous diving beetles,Coleoptera,Dytiscidae,7,0.49,53.6,0.61,0.3,49,Adult
+BR-10,BOSTON MINE TUNNEL OUTLET NR GRASS VALLEY CA,3.91346E+14,8/12/1999,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,26,1.36,61.3,ND,0.26,ND,Adult
+BR-10,BOSTON MINE TUNNEL OUTLET NR GRASS VALLEY CA,3.91346E+14,8/21/2000,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,14,0.81,58.3,ND,0.22,ND,Adult
+BR-10,BOSTON MINE TUNNEL OUTLET NR GRASS VALLEY CA,3.91346E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,13,0.73,56.9,0.35,0.24,68,Adult
+BR-14,BOSTON MINE MIDDLE POND NR GRASS VALLEY CA,3.9134E+14,7/22/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.29,56.9,0.15,0.1565,104,Adult
+BR-15,BOSTON MINE UPPER POND NR GOLD RUN CA,3.91336E+14,7/22/2002,Environmental,NP,Predaceous diving beetles,Coleoptera,Dytiscidae,5,1,58.6,0.178,0.159,89.3,Adult
+BR-15,BOSTON MINE UPPER POND NR GOLD RUN CA,3.91336E+14,7/22/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.1,58.1,0.115,0.0846,73.5,Adult
+BR-16,BOSTON MINE WETLANDS POND NR GRASS VALLEY CA,3.91343E+14,8/12/1999,Environmental,https://doi.org/10.3133/sir20045251,Darner Dragonflies,Odonata,Aeshnidae,3,3.84,76.7,0.071,0.07,99,Immature
+BR-16,BOSTON MINE WETLANDS POND NR GRASS VALLEY CA,3.91343E+14,8/21/2000,Environmental,https://doi.org/10.3133/sir20045251,Darner Dragonflies,Odonata,Aeshnidae,8,2.08,82.6,ND,0.032,ND,Immature
+BR-16,BOSTON MINE WETLANDS POND NR GRASS VALLEY CA,3.91343E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Skimmer Dragonflies,Odonata,Libellulidae,8,3.78,82.5,0.016,0.014,89,Immature
+BR-16,BOSTON MINE WETLANDS POND NR GRASS VALLEY CA,3.91343E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Darner Dragonflies,Odonata,Aeshnidae,7,2.45,83.6,0.036,0.034,95,Immature
+BR-16,BOSTON MINE WETLANDS POND NR GRASS VALLEY CA,3.91343E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Darner Dragonflies,Odonata,Aeshnidae,10,2.42,82.1,0.027,0.026,97,Immature
+BR-16,BOSTON MINE WETLANDS POND NR GRASS VALLEY CA,3.91343E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Darner Dragonflies,Odonata,Aeshnidae,7,2.15,82,0.028,0.029,102,Immature
+BR-16,BOSTON MINE WETLANDS POND NR GRASS VALLEY CA,3.91343E+14,8/12/1999,Environmental,https://doi.org/10.3133/sir20045251,Predaceous diving beetles,Coleoptera,Dytiscidae,5,1.1,58.8,ND,0.31,ND,Adult
+BR-16,BOSTON MINE WETLANDS POND NR GRASS VALLEY CA,3.91343E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Predaceous diving beetles,Coleoptera,Dytiscidae,20,1.3,61.5,0.049,0.031,63,Adult
+BR-16,BOSTON MINE WETLANDS POND NR GRASS VALLEY CA,3.91343E+14,8/12/1999,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,50,1.13,62.3,ND,0.061,ND,Adult
+BR-16,BOSTON MINE WETLANDS POND NR GRASS VALLEY CA,3.91343E+14,8/21/2000,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,24,0.58,58.7,ND,0.13,ND,Adult
+BR-02,BEAR R BLW DRUM AFTERBAY NR DUTCH FLAT CA,3.91513E+14,10/7/1999,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,2,0.86,80.6,ND,0.0258,ND,Immature
+BR-03,BEAR R BL DUTCH FLAT AFTERBAY NR DUTCH FLAT CA,11421790,10/7/1999,Environmental,NP,Banana slugs,Gastropoda,Ariolimacidae,3,28.45,86.9,ND,0.0038,ND,ND
+BR-03,BEAR R BL DUTCH FLAT AFTERBAY NR DUTCH FLAT CA,11421790,10/7/1999,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,3,1.1,80.1,ND,0.0237,ND,Immature
+BR-03,BEAR R BL DUTCH FLAT AFTERBAY NR DUTCH FLAT CA,11421790,10/7/1999,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,13,1.7,71.3,ND,0.0304,ND,Immature
+BR-03,BEAR R BL DUTCH FLAT AFTERBAY NR DUTCH FLAT CA,11421790,10/7/1999,Environmental,NP,Water striders,Hemiptera,Gerridae,28,1.46,56.6,ND,0.0694,ND,Adult
+BR-20,BUCKEYE FLAT MINE N DR TO GREENHORN C GRASS VALLEY,3.91446E+14,8/22/2000,Environmental,https://doi.org/10.3133/sir20045251,Banana slugs,Gastropoda,Ariolimacidae,3,43.67,88.7,ND,0.0056,ND,ND
+BR-20,BUCKEYE FLAT MINE N DR TO GREENHORN C GRASS VALLEY,3.91446E+14,8/22/2000,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,25,1.61,68.6,ND,0.093,ND,Adult
+BR-20,BUCKEYE FLAT MINE N DR TO GREENHORN C GRASS VALLEY,3.91446E+14,8/22/2000,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,25,1.62,66,ND,0.087,ND,Adult
+BR-21,BUCKEYE FLAT MINE POND DR .15 MI AB SF GREENHORN C,3.91416E+14,8/22/2000,Environmental,https://doi.org/10.3133/sir20045251,Banana slugs,Gastropoda,Ariolimacidae,3,33.6,89.5,ND,0.014,ND,ND
+BR-21,BUCKEYE FLAT MINE POND DR .15 MI AB SF GREENHORN C,3.91416E+14,9/12/2001,Environmental,https://doi.org/10.3133/sir20045251,Banana slugs,Gastropoda,Ariolimacidae,3,25.34,84.6,ND,0.048,ND,ND
+BR-21,BUCKEYE FLAT MINE POND DR .15 MI AB SF GREENHORN C,3.91416E+14,8/22/2000,Environmental,https://doi.org/10.3133/sir20045251,Spiketail Dragonflies,Odonata,Cordulegastridae,3,2.62,83.6,0.1,0.092,90,Immature
+BR-21,BUCKEYE FLAT MINE POND DR .15 MI AB SF GREENHORN C,3.91416E+14,9/12/2001,Environmental,https://doi.org/10.3133/sir20045251,Darner Dragonflies,Odonata,Aeshnidae,2,1.18,83.5,0.065,0.047,72,Immature
+BR-21,BUCKEYE FLAT MINE POND DR .15 MI AB SF GREENHORN C,3.91416E+14,9/12/2001,Environmental,https://doi.org/10.3133/sir20045251,Clubtail Dragonflies,Odonata,Gomphidae,5,0.96,81.8,0.12,0.1,83,Immature
+BR-21,BUCKEYE FLAT MINE POND DR .15 MI AB SF GREENHORN C,3.91416E+14,9/12/2001,Environmental,https://doi.org/10.3133/sir20045251,Darner Dragonflies,Odonata,Aeshnidae,4,1.12,81.6,0.063,0.063,100,Immature
+BR-21,BUCKEYE FLAT MINE POND DR .15 MI AB SF GREENHORN C,3.91416E+14,8/22/2000,Environmental,https://doi.org/10.3133/sir20045251,Predaceous diving beetles,Coleoptera,Dytiscidae,26,1.75,55.2,ND,0.12,ND,Adult
+BR-21,BUCKEYE FLAT MINE POND DR .15 MI AB SF GREENHORN C,3.91416E+14,9/12/2001,Environmental,https://doi.org/10.3133/sir20045251,Predaceous diving beetles,Coleoptera,Dytiscidae,9,0.7,53.3,0.089,0.05,57,Adult
+BR-21,BUCKEYE FLAT MINE POND DR .15 MI AB SF GREENHORN C,3.91416E+14,8/22/2000,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,32,2.02,62.8,0.14,0.16,111,Adult
+BR-21,BUCKEYE FLAT MINE POND DR .15 MI AB SF GREENHORN C,3.91416E+14,9/12/2001,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,25,1.79,58.9,0.18,0.11,59,Adult
+BR-21,BUCKEYE FLAT MINE POND DR .15 MI AB SF GREENHORN C,3.91416E+14,9/12/2001,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,25,1.77,61.8,0.15,0.12,80,Adult
+BR-22,BUCKEYE FLAT MINE S DR TO SF GRNHRN C GRASS VALLEY,3.91415E+14,8/26/1999,Environmental,https://doi.org/10.3133/sir20045251,Darner Dragonflies,Odonata,Aeshnidae,4,2.86,79.3,ND,1.6,ND,Immature
+BR-22,BUCKEYE FLAT MINE S DR TO SF GRNHRN C GRASS VALLEY,3.91415E+14,8/22/2000,Environmental,https://doi.org/10.3133/sir20045251,Darner Dragonflies,Odonata,Aeshnidae,3,0.99,83.2,ND,0.32,ND,Immature
+BR-22,BUCKEYE FLAT MINE S DR TO SF GRNHRN C GRASS VALLEY,3.91415E+14,9/12/2001,Environmental,https://doi.org/10.3133/sir20045251,Darner Dragonflies,Odonata,Aeshnidae,4,1.95,78.4,0.087,0.079,91,Immature
+BR-22,BUCKEYE FLAT MINE S DR TO SF GRNHRN C GRASS VALLEY,3.91415E+14,9/12/2001,Environmental,https://doi.org/10.3133/sir20045251,Darner Dragonflies,Odonata,Aeshnidae,10,0.76,83.6,0.11,0.1,92,Immature
+BR-22,BUCKEYE FLAT MINE S DR TO SF GRNHRN C GRASS VALLEY,3.91415E+14,8/22/2000,Environmental,https://doi.org/10.3133/sir20045251,Predaceous diving beetles,Coleoptera,Dytiscidae,40,1.52,50.8,0.18,0.17,94,Adult
+BR-22,BUCKEYE FLAT MINE S DR TO SF GRNHRN C GRASS VALLEY,3.91415E+14,9/12/2001,Environmental,https://doi.org/10.3133/sir20045251,Predaceous diving beetles,Coleoptera,Dytiscidae,11,0.76,50.6,0.11,0.078,68,Adult
+BR-22,BUCKEYE FLAT MINE S DR TO SF GRNHRN C GRASS VALLEY,3.91415E+14,9/12/2001,Environmental,https://doi.org/10.3133/sir20045251,Predaceous diving beetles,Coleoptera,Dytiscidae,29,0.96,50.1,0.15,0.12,78,Adult
+BR-22,BUCKEYE FLAT MINE S DR TO SF GRNHRN C GRASS VALLEY,3.91415E+14,8/26/1999,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,32,1.93,59.7,0.52,0.55,107,Adult
+BR-22,BUCKEYE FLAT MINE S DR TO SF GRNHRN C GRASS VALLEY,3.91415E+14,8/22/2000,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,25,1.65,60.6,ND,0.16,ND,Adult
+BR-22,BUCKEYE FLAT MINE S DR TO SF GRNHRN C GRASS VALLEY,3.91415E+14,9/12/2001,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,25,1.56,60.2,0.19,0.12,64,Adult
+BR-22,BUCKEYE FLAT MINE S DR TO SF GRNHRN C GRASS VALLEY,3.91415E+14,9/12/2001,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,25,1.53,63.1,0.15,0.11,73,Adult
+BR-24,BUCKEYE FLAT MINE MAIN DR .45 MI AB GREENHORN C,3.91425E+14,8/22/2000,Environmental,https://doi.org/10.3133/sir20045251,Banana slugs,Gastropoda,Ariolimacidae,3,50.45,81.5,ND,0.006,ND,ND
+BR-24,BUCKEYE FLAT MINE MAIN DR .45 MI AB GREENHORN C,3.91425E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Banana slugs,Gastropoda,Ariolimacidae,3,46.64,84.5,ND,0.007,ND,ND
+BR-24,BUCKEYE FLAT MINE MAIN DR .45 MI AB GREENHORN C,3.91425E+14,8/22/2000,Environmental,https://doi.org/10.3133/sir20045251,Predaceous diving beetles,Coleoptera,Dytiscidae,40,1.47,48,ND,0.11,ND,Adult
+BR-24,BUCKEYE FLAT MINE MAIN DR .45 MI AB GREENHORN C,3.91425E+14,8/22/2000,Environmental,https://doi.org/10.3133/sir20045251,Predaceous diving beetles,Coleoptera,Dytiscidae,12,0.79,47.2,ND,0.06,ND,Adult
+BR-24,BUCKEYE FLAT MINE MAIN DR .45 MI AB GREENHORN C,3.91425E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Predaceous diving beetles,Coleoptera,Dytiscidae,15,0.96,51.6,0.08,0.029,36,Adult
+BR-24,BUCKEYE FLAT MINE MAIN DR .45 MI AB GREENHORN C,3.91425E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Predaceous diving beetles,Coleoptera,Dytiscidae,30,1.14,52.5,0.082,0.038,47,Adult
+BR-24,BUCKEYE FLAT MINE MAIN DR .45 MI AB GREENHORN C,3.91425E+14,8/22/2000,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,34,1.78,65.3,ND,0.068,ND,Adult
+BR-24,BUCKEYE FLAT MINE MAIN DR .45 MI AB GREENHORN C,3.91425E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,25,1.64,60.5,0.12,0.13,106,Adult
+BR-25,BUCKEYE FLAT MINE UPPER DRAIN TO GREENHORN C,3.91453E+14,10/19/2001,Environmental,https://doi.org/10.3133/sir20045251,Banana slugs,Gastropoda,Ariolimacidae,3,47.97,80.9,0.039,0.013,33,ND
+BR-25,BUCKEYE FLAT MINE UPPER DRAIN TO GREENHORN C,3.91453E+14,10/19/2001,Environmental,https://doi.org/10.3133/sir20045251,Predaceous diving beetles,Coleoptera,Dytiscidae,10,0.75,55,0.13,0.078,61,Adult
+BR-25,BUCKEYE FLAT MINE UPPER DRAIN TO GREENHORN C,3.91453E+14,10/19/2001,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,25,1.62,58.1,0.13,0.081,61,Adult
+BR-27,BUCKEYE FLAT MINE DR .1 MI AB GREENHORN C,3.91418E+14,9/29/1999,Environmental,https://doi.org/10.3133/sir20045251,Predaceous diving beetles,Coleoptera,Dytiscidae,20,1.77,55.1,0.036,0.03,82,Adult
+BR-27,BUCKEYE FLAT MINE DR .1 MI AB GREENHORN C,3.91418E+14,9/29/1999,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,20,1.39,55.9,ND,0.09,ND,Adult
+BR-31,GREENHORN C BLW SAILOR FLAT DRAIN NR NEVADA CITY,3.91553E+14,9/29/1999,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,20,1.08,56,ND,0.076,ND,Adult
+BR-32,GREENHORN C ABV SAILOR FLAT DRAIN NR NEVADA CITY,3.91542E+14,9/29/1999,Environmental,https://doi.org/10.3133/sir20045251,Dobsonflies,Megaloptera,Corydalidae,4,2.84,75.6,ND,0.027,ND,Immature
+BR-32,GREENHORN C ABV SAILOR FLAT DRAIN NR NEVADA CITY,3.91542E+14,9/29/1999,Environmental,https://doi.org/10.3133/sir20045251,Dobsonflies,Megaloptera,Corydalidae,3,1.4,76.6,ND,0.033,ND,Immature
+BR-32,GREENHORN C ABV SAILOR FLAT DRAIN NR NEVADA CITY,3.91542E+14,9/29/1999,Environmental,https://doi.org/10.3133/sir20045251,Predaceous stonefly,Plecoptera,Perlidae,10,2.01,74.3,ND,0.026,ND,Immature
+BR-32,GREENHORN C ABV SAILOR FLAT DRAIN NR NEVADA CITY,3.91542E+14,9/29/1999,Environmental,https://doi.org/10.3133/sir20045251,Predaceous stonefly,Plecoptera,Perlidae,10,2.36,72.4,ND,0.045,ND,Immature
+BR-32,GREENHORN C ABV SAILOR FLAT DRAIN NR NEVADA CITY,3.91542E+14,9/29/1999,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,24,1.31,59,ND,0.08,ND,Adult
+BR-33,GREENHORN C BLW BUCKEYE DRAIN NR NEVADA CITY CA,3.91411E+14,9/29/1999,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,25,1.53,61.2,ND,0.089,ND,Adult
+BR-36,GREENHORN C AB SF GREENHORN C NR NEVADA CITY CA,3.91401E+14,9/14/2001,Environmental,https://doi.org/10.3133/sir20045251,Predaceous stonefly,Plecoptera,Perlidae,25,0.95,79.8,0.13,0.084,65,Immature
+BR-38,GREENHORN C BL SF GREENHORN C NR NEVADA CITY CA,3.91347E+14,9/14/2001,Environmental,https://doi.org/10.3133/sir20045251,Spiketail Dragonflies,Odonata,Cordulegastridae,1,1.27,86.4,0.021,0.014,65,Immature
+BR-38,GREENHORN C BL SF GREENHORN C NR NEVADA CITY CA,3.91347E+14,9/14/2001,Environmental,https://doi.org/10.3133/sir20045251,Predaceous stonefly,Plecoptera,Perlidae,11,0.9,78,0.15,0.094,64,Immature
+BR-39,GREENHORN C .2 MI BL THE NARROWS,3.91329E+14,10/17/2001,Environmental,https://doi.org/10.3133/sir20045251,Dobsonflies,Megaloptera,Corydalidae,1,0.73,63.4,0.1,0.067,64,Immature
+BR-39,GREENHORN C .2 MI BL THE NARROWS,3.91329E+14,10/17/2001,Environmental,https://doi.org/10.3133/sir20045251,Spiketail Dragonflies,Odonata,Cordulegastridae,1,1.21,82.2,0.058,0.056,97,Immature
+BR-39,GREENHORN C .2 MI BL THE NARROWS,3.91329E+14,10/17/2001,Environmental,https://doi.org/10.3133/sir20045251,Darner Dragonflies,Odonata,Aeshnidae,4,1.4,84.6,0.1,0.1,108,Immature
+BR-39,GREENHORN C .2 MI BL THE NARROWS,3.91329E+14,10/17/2001,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,25,1.39,59,0.1,0.091,90,Adult
+BR-40,GREENHORN C A YOU BET RD BRDG NR NEVADA CITY CA,3.91116E+14,8/31/1999,Environmental,https://doi.org/10.3133/sir20045251,Predaceous stonefly,Plecoptera,Perlidae,13,1.21,73,ND,0.047,ND,Immature
+BR-40,GREENHORN C A YOU BET RD BRDG NR NEVADA CITY CA,3.91116E+14,8/31/1999,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,23,1.54,53.2,ND,0.11,ND,Adult
+BR-42,MISSOURI CYN C TRIB NR CHICAGO PARK CA,3.91253E+14,9/25/2000,Environmental,https://doi.org/10.3133/sir20045251,Predaceous diving beetles,Coleoptera,Dytiscidae,20,1.45,55,ND,0.1,ND,Adult
+BR-42,MISSOURI CYN C TRIB NR CHICAGO PARK CA,3.91253E+14,9/25/2000,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,30,1.86,57.1,ND,0.34,ND,Adult
+BR-43,NF MF MISSOURI CYN NR CHICAGO PARK CA,3.91258E+14,9/25/2000,Environmental,https://doi.org/10.3133/sir20045251,Banana slugs,Gastropoda,Ariolimacidae,3,43.67,87.6,ND,0.036,ND,ND
+BR-43,NF MF MISSOURI CYN NR CHICAGO PARK CA,3.91258E+14,9/15/2001,Environmental,https://doi.org/10.3133/sir20045251,Banana slugs,Gastropoda,Ariolimacidae,3,26.56,82.9,ND,0.02,ND,ND
+BR-43,NF MF MISSOURI CYN NR CHICAGO PARK CA,3.91258E+14,9/25/2000,Environmental,https://doi.org/10.3133/sir20045251,Dobsonflies,Megaloptera,Corydalidae,3,0.84,82.6,ND,0.39,ND,Immature
+BR-43,NF MF MISSOURI CYN NR CHICAGO PARK CA,3.91258E+14,9/25/2000,Environmental,https://doi.org/10.3133/sir20045251,Spiketail Dragonflies,Odonata,Cordulegastridae,1,0.92,82.6,ND,0.36,ND,Immature
+BR-43,NF MF MISSOURI CYN NR CHICAGO PARK CA,3.91258E+14,9/15/2001,Environmental,https://doi.org/10.3133/sir20045251,Clubtail Dragonflies,Odonata,Gomphidae,12,2.88,80.7,0.37,0.34,92,Immature
+BR-43,NF MF MISSOURI CYN NR CHICAGO PARK CA,3.91258E+14,9/15/2001,Environmental,https://doi.org/10.3133/sir20045251,Darner Dragonflies,Odonata,Aeshnidae,3,1.69,82,0.32,0.29,93,Immature
+BR-43,NF MF MISSOURI CYN NR CHICAGO PARK CA,3.91258E+14,9/15/2001,Environmental,https://doi.org/10.3133/sir20045251,Spiketail Dragonflies,Odonata,Cordulegastridae,2,2.42,83.7,0.28,0.26,94,Immature
+BR-43,NF MF MISSOURI CYN NR CHICAGO PARK CA,3.91258E+14,9/25/2000,Environmental,https://doi.org/10.3133/sir20045251,Predaceous diving beetles,Coleoptera,Dytiscidae,20,1.32,55.2,ND,0.21,ND,Adult
+BR-43,NF MF MISSOURI CYN NR CHICAGO PARK CA,3.91258E+14,9/25/2000,Environmental,https://doi.org/10.3133/sir20045251,Predaceous diving beetles,Coleoptera,Dytiscidae,20,1.31,55,ND,0.14,ND,Adult
+BR-43,NF MF MISSOURI CYN NR CHICAGO PARK CA,3.91258E+14,9/15/2001,Environmental,https://doi.org/10.3133/sir20045251,Predaceous diving beetles,Coleoptera,Dytiscidae,25,1.8,56,0.23,0.17,73,Adult
+BR-43,NF MF MISSOURI CYN NR CHICAGO PARK CA,3.91258E+14,9/25/2000,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,30,1.78,55.9,ND,0.27,ND,Adult
+BR-43,NF MF MISSOURI CYN NR CHICAGO PARK CA,3.91258E+14,9/15/2001,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,25,1.65,60.6,0.3,0.17,58,Adult
+BR-44,MISSOURI CYN C 1.6 MI AB GREENHORN C NR CHICAGO PK,3.91254E+14,9/25/2000,Environmental,https://doi.org/10.3133/sir20045251,Banana slugs,Gastropoda,Ariolimacidae,3,35.94,87.6,ND,0.024,ND,ND
+BR-44,MISSOURI CYN C 1.6 MI AB GREENHORN C NR CHICAGO PK,3.91254E+14,9/25/2000,Environmental,https://doi.org/10.3133/sir20045251,Predaceous diving beetles,Coleoptera,Dytiscidae,20,1.34,58.4,ND,0.11,ND,Adult
+BR-44,MISSOURI CYN C 1.6 MI AB GREENHORN C NR CHICAGO PK,3.91254E+14,9/25/2000,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,30,1.85,56.6,ND,0.2,ND,Adult
+BR-45,MISSOURI CYN C 1.2 MI AB GREENHORN C NR CHICAGO PK,3.91259E+14,8/31/1999,Environmental,https://doi.org/10.3133/sir20045251,Banana slugs,Gastropoda,Ariolimacidae,2,36.87,82.2,ND,0.0014,ND,ND
+BR-45,MISSOURI CYN C 1.2 MI AB GREENHORN C NR CHICAGO PK,3.91259E+14,8/21/2000,Environmental,https://doi.org/10.3133/sir20045251,Banana slugs,Gastropoda,Ariolimacidae,3,105.94,79.5,ND,0.0031,ND,ND
+BR-45,MISSOURI CYN C 1.2 MI AB GREENHORN C NR CHICAGO PK,3.91259E+14,9/15/2001,Environmental,https://doi.org/10.3133/sir20045251,Banana slugs,Gastropoda,Ariolimacidae,3,39.53,80.3,ND,0.0035,ND,ND
+BR-45,MISSOURI CYN C 1.2 MI AB GREENHORN C NR CHICAGO PK,3.91259E+14,8/31/1999,Environmental,https://doi.org/10.3133/sir20045251,Dobsonflies,Megaloptera,Corydalidae,1,1.43,70.5,ND,0.18,ND,Immature
+BR-45,MISSOURI CYN C 1.2 MI AB GREENHORN C NR CHICAGO PK,3.91259E+14,8/21/2000,Environmental,https://doi.org/10.3133/sir20045251,Dobsonflies,Megaloptera,Corydalidae,1,4.13,67.2,ND,0.2,ND,Immature
+BR-45,MISSOURI CYN C 1.2 MI AB GREENHORN C NR CHICAGO PK,3.91259E+14,8/21/2000,Environmental,https://doi.org/10.3133/sir20045251,Dobsonflies,Megaloptera,Corydalidae,1,3.95,70,ND,0.19,ND,Immature
+BR-45,MISSOURI CYN C 1.2 MI AB GREENHORN C NR CHICAGO PK,3.91259E+14,9/15/2001,Environmental,https://doi.org/10.3133/sir20045251,Dobsonflies,Megaloptera,Corydalidae,1,4.98,68,0.14,0.078,56,Immature
+BR-45,MISSOURI CYN C 1.2 MI AB GREENHORN C NR CHICAGO PK,3.91259E+14,8/31/1999,Environmental,https://doi.org/10.3133/sir20045251,Spiketail Dragonflies,Odonata,Cordulegastridae,7,2.97,81.6,ND,0.12,ND,Immature
+BR-45,MISSOURI CYN C 1.2 MI AB GREENHORN C NR CHICAGO PK,3.91259E+14,8/21/2000,Environmental,https://doi.org/10.3133/sir20045251,Spiketail Dragonflies,Odonata,Cordulegastridae,6,3.99,85.1,ND,0.084,ND,Immature
+BR-45,MISSOURI CYN C 1.2 MI AB GREENHORN C NR CHICAGO PK,3.91259E+14,9/15/2001,Environmental,https://doi.org/10.3133/sir20045251,Clubtail Dragonflies,Odonata,Gomphidae,14,3.29,79,0.12,0.1,81,Immature
+BR-45,MISSOURI CYN C 1.2 MI AB GREENHORN C NR CHICAGO PK,3.91259E+14,9/15/2001,Environmental,https://doi.org/10.3133/sir20045251,Spiketail Dragonflies,Odonata,Cordulegastridae,5,5.15,85.1,0.074,0.074,100,Immature
+BR-45,MISSOURI CYN C 1.2 MI AB GREENHORN C NR CHICAGO PK,3.91259E+14,8/31/1999,Environmental,https://doi.org/10.3133/sir20045251,Giant water bugs,Hemiptera,Belostomatidae,1,3.27,66.4,0.33,0.34,102,Adult
+BR-45,MISSOURI CYN C 1.2 MI AB GREENHORN C NR CHICAGO PK,3.91259E+14,8/21/2000,Environmental,https://doi.org/10.3133/sir20045251,Giant water bugs,Hemiptera,Belostomatidae,1,3.95,63.9,ND,0.47,ND,Adult
+BR-45,MISSOURI CYN C 1.2 MI AB GREENHORN C NR CHICAGO PK,3.91259E+14,8/21/2000,Environmental,https://doi.org/10.3133/sir20045251,Predaceous stonefly,Plecoptera,Perlidae,10,0.44,75.1,ND,0.14,ND,Immature
+BR-45,MISSOURI CYN C 1.2 MI AB GREENHORN C NR CHICAGO PK,3.91259E+14,9/15/2001,Environmental,https://doi.org/10.3133/sir20045251,Predaceous stonefly,Plecoptera,Perlidae,16,0.39,72.7,0.23,0.19,84,Immature
+BR-45,MISSOURI CYN C 1.2 MI AB GREENHORN C NR CHICAGO PK,3.91259E+14,8/31/1999,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,21,1.13,61.8,ND,0.1,ND,Adult
+BR-45,MISSOURI CYN C 1.2 MI AB GREENHORN C NR CHICAGO PK,3.91259E+14,8/21/2000,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,22,1.25,65.8,ND,0.3,ND,Adult
+BR-45,MISSOURI CYN C 1.2 MI AB GREENHORN C NR CHICAGO PK,3.91259E+14,8/21/2000,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,25,1.47,64.5,ND,0.12,ND,Adult
+BR-45,MISSOURI CYN C 1.2 MI AB GREENHORN C NR CHICAGO PK,3.91259E+14,9/15/2001,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,25,1.5,62.4,0.1,0.069,72,Adult
+BR-46,COON HOLLOW C DR TUNNEL OUTLET NR DUTCH FLAT CA,3.91239E+14,9/26/2000,Environmental,https://doi.org/10.3133/sir20045251,Darner Dragonflies,Odonata,Aeshnidae,6,0.92,83.5,ND,0.085,ND,Immature
+BR-46,COON HOLLOW C DR TUNNEL OUTLET NR DUTCH FLAT CA,3.91239E+14,9/26/2000,Environmental,https://doi.org/10.3133/sir20045251,Darner Dragonflies,Odonata,Aeshnidae,6,1.2,85.1,ND,0.031,ND,Immature
+BR-46,COON HOLLOW C DR TUNNEL OUTLET NR DUTCH FLAT CA,3.91239E+14,9/26/2000,Environmental,https://doi.org/10.3133/sir20045251,Predaceous diving beetles,Coleoptera,Dytiscidae,23,1.54,53.6,ND,0.11,ND,Adult
+BR-46,COON HOLLOW C DR TUNNEL OUTLET NR DUTCH FLAT CA,3.91239E+14,9/26/2000,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,30,1.84,57.2,ND,0.15,ND,Adult
+BR-46,COON HOLLOW C DR TUNNEL OUTLET NR DUTCH FLAT CA,3.91239E+14,9/26/2000,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,30,1.8,58.6,ND,0.14,ND,Adult
+BR-48,POORE MINE UPPER POND NR GRASS VALLEY CA,3.91351E+14,5/15/2002,Environmental,NP,Skimmer Dragonflies,Odonata,Libellulidae,3,0.62,80.6,0.036,0.0444,121.8,Immature
+BR-48,POORE MINE UPPER POND NR GRASS VALLEY CA,3.91351E+14,5/15/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.53,67.2,0.054,0.0479,88,Adult
+BR-49,POORE MINE LOWER POND NR GRASS VALLEY CA,3.91351E+14,5/15/2002,Environmental,NP,Predaceous diving beetles,Coleoptera,Dytiscidae,40,1.3,60.5,0.114,0.1003,87.9,Adult
+BR-49,POORE MINE LOWER POND NR GRASS VALLEY CA,3.91351E+14,5/15/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,18,1.2,64.8,0.037,0.0408,111.5,Adult
+BR-05,BEAR R A DOG BAR RD NR WEIMAR CA,3.90346E+14,9/20/1999,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,8,1.2,78.3,ND,0.0417,ND,Immature
+BR-05,BEAR R A DOG BAR RD NR WEIMAR CA,3.90346E+14,9/20/1999,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,5,1.07,74.7,ND,0.042,ND,Immature
+BR-05,BEAR R A DOG BAR RD NR WEIMAR CA,3.90346E+14,10/6/2000,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,9,2.37,76.5,ND,0.0623,ND,Immature
+BR-05,BEAR R A DOG BAR RD NR WEIMAR CA,3.90346E+14,10/6/2000,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,8,1.11,73.6,ND,0.0634,ND,Immature
+BR-05,BEAR R A DOG BAR RD NR WEIMAR CA,3.90346E+14,10/17/2001,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,5,1.5,76,0.24,0.2244,93.5,Immature
+BR-05,BEAR R A DOG BAR RD NR WEIMAR CA,3.90346E+14,9/20/1999,Environmental,NP,Water striders,Hemiptera,Gerridae,20,1.11,64.4,ND,0.1061,ND,Adult
+BR-05,BEAR R A DOG BAR RD NR WEIMAR CA,3.90346E+14,10/6/2000,Environmental,NP,Water striders,Hemiptera,Gerridae,30,1.57,64.9,ND,0.1281,ND,Adult
+BR-05,BEAR R A DOG BAR RD NR WEIMAR CA,3.90346E+14,10/17/2001,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.14,65,0.165,0.1645,100,Adult
+BR-52,POORE MINE TUNNEL EFFLUENT NR GRASS VALLEY CA,3.91347E+14,7/22/2002,Environmental,NP,Banana slugs,Gastropoda,Ariolimacidae,3,54.49,85.3,0.02,0.0081,40,ND
+BR-52,POORE MINE TUNNEL EFFLUENT NR GRASS VALLEY CA,3.91347E+14,7/22/2002,Environmental,NP,Spiketail Dragonflies,Odonata,Cordulegastridae,2,2.19,82.4,0.042,0.0417,100,Immature
+BR-52,POORE MINE TUNNEL EFFLUENT NR GRASS VALLEY CA,3.91347E+14,7/22/2002,Environmental,NP,Spiketail Dragonflies,Odonata,Cordulegastridae,2,1.89,81.5,0.028,0.0289,102.6,Immature
+BR-52,POORE MINE TUNNEL EFFLUENT NR GRASS VALLEY CA,3.91347E+14,7/22/2002,Environmental,NP,Clubtail Dragonflies,Odonata,Gomphidae,5,0.49,69.5,0.096,0.0735,76.3,Immature
+BR-52,POORE MINE TUNNEL EFFLUENT NR GRASS VALLEY CA,3.91347E+14,7/22/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,11,0.72,54.4,0.074,0.0689,93.2,Adult
+BR-52,POORE MINE TUNNEL EFFLUENT NR GRASS VALLEY CA,3.91347E+14,8/13/1999,Environmental,https://doi.org/10.3133/sir20045251,Banana slugs,Gastropoda,Ariolimacidae,3,53.86,83.6,ND,0.001,ND,ND
+BR-52,POORE MINE TUNNEL EFFLUENT NR GRASS VALLEY CA,3.91347E+14,8/21/2000,Environmental,https://doi.org/10.3133/sir20045251,Banana slugs,Gastropoda,Ariolimacidae,3,50.97,85.6,ND,0.0072,ND,ND
+BR-52,POORE MINE TUNNEL EFFLUENT NR GRASS VALLEY CA,3.91347E+14,10/17/2001,Environmental,https://doi.org/10.3133/sir20045251,Banana slugs,Gastropoda,Ariolimacidae,3,50.35,85.5,ND,0.01,ND,ND
+BR-52,POORE MINE TUNNEL EFFLUENT NR GRASS VALLEY CA,3.91347E+14,10/17/2001,Environmental,https://doi.org/10.3133/sir20045251,Dobsonflies,Megaloptera,Corydalidae,1,2.27,76.9,0.06,0.039,65,Immature
+BR-52,POORE MINE TUNNEL EFFLUENT NR GRASS VALLEY CA,3.91347E+14,8/13/1999,Environmental,https://doi.org/10.3133/sir20045251,Spiketail Dragonflies,Odonata,Cordulegastridae,9,1.27,81.4,ND,0.022,ND,Immature
+BR-52,POORE MINE TUNNEL EFFLUENT NR GRASS VALLEY CA,3.91347E+14,8/21/2000,Environmental,https://doi.org/10.3133/sir20045251,Spiketail Dragonflies,Odonata,Cordulegastridae,2,1.86,82.6,ND,0.037,ND,Immature
+BR-52,POORE MINE TUNNEL EFFLUENT NR GRASS VALLEY CA,3.91347E+14,10/17/2001,Environmental,https://doi.org/10.3133/sir20045251,Spiketail Dragonflies,Odonata,Cordulegastridae,5,4.63,81.4,0.036,0.027,75,Immature
+BR-52,POORE MINE TUNNEL EFFLUENT NR GRASS VALLEY CA,3.91347E+14,8/13/1999,Environmental,https://doi.org/10.3133/sir20045251,Predaceous stonefly,Plecoptera,Perlidae,7,1.08,71.4,ND,0.044,ND,Immature
+BR-52,POORE MINE TUNNEL EFFLUENT NR GRASS VALLEY CA,3.91347E+14,10/17/2001,Environmental,https://doi.org/10.3133/sir20045251,Predaceous stonefly,Plecoptera,Perlidae,6,0.52,70.1,0.043,0.036,84,Immature
+BR-52,POORE MINE TUNNEL EFFLUENT NR GRASS VALLEY CA,3.91347E+14,8/21/2000,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,22,1.21,66.2,ND,0.16,ND,Adult
+BR-52,POORE MINE TUNNEL EFFLUENT NR GRASS VALLEY CA,3.91347E+14,10/17/2001,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,25,1.5,59.6,0.13,0.12,92,Adult
+BR-53,POORE MINE SEEP ABV GRND SLUICE NR GRASS VALLEY CA,3.91352E+14,9/26/2000,Environmental,https://doi.org/10.3133/sir20045251,Banana slugs,Gastropoda,Ariolimacidae,3,50.19,84.2,ND,0.017,ND,ND
+BR-53,POORE MINE SEEP ABV GRND SLUICE NR GRASS VALLEY CA,3.91352E+14,9/26/2000,Environmental,https://doi.org/10.3133/sir20045251,Predaceous diving beetles,Coleoptera,Dytiscidae,20,1.45,54.5,ND,0.034,ND,Adult
+BR-53,POORE MINE SEEP ABV GRND SLUICE NR GRASS VALLEY CA,3.91352E+14,9/26/2000,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,20,1.16,57.6,ND,0.13,ND,Adult
+BR-56,POORE MINE C AB TUNNEL NR GRASS VALLEY CA,3.91346E+14,9/26/2000,Environmental,https://doi.org/10.3133/sir20045251,Banana slugs,Gastropoda,Ariolimacidae,3,28.83,84.1,ND,0.006,ND,ND
+BR-56,POORE MINE C AB TUNNEL NR GRASS VALLEY CA,3.91346E+14,9/26/2000,Environmental,https://doi.org/10.3133/sir20045251,Clubtail Dragonflies,Odonata,Gomphidae,5,1.28,78.5,ND,0.049,ND,Immature
+BR-56,POORE MINE C AB TUNNEL NR GRASS VALLEY CA,3.91346E+14,9/26/2000,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,25,1.68,53.8,ND,0.11,ND,Adult
+BR-56,POORE MINE C AB TUNNEL NR GRASS VALLEY CA,3.91346E+14,9/26/2000,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,25,1.52,53.8,ND,0.11,ND,Adult
+BR-06,BEAR R BL WOLF C NR LUCAS HILL CA,3.90107E+14,8/24/2000,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,3,5.32,69.8,ND,0.1495,ND,Immature
+BR-06,BEAR R BL WOLF C NR LUCAS HILL CA,3.90107E+14,8/24/2000,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,3,1.98,76.2,ND,0.1176,ND,Immature
+BR-06,BEAR R BL WOLF C NR LUCAS HILL CA,3.90107E+14,10/18/2001,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,3,4.28,69.8,0.248,0.1724,69.5,Immature
+BR-06,BEAR R BL WOLF C NR LUCAS HILL CA,3.90107E+14,10/18/2001,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,3,1.88,78.1,0.165,0.1445,87.8,Immature
+BR-06,BEAR R BL WOLF C NR LUCAS HILL CA,3.90107E+14,10/18/2001,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,3,0.82,79.5,0.123,0.1244,101.2,Immature
+BR-06,BEAR R BL WOLF C NR LUCAS HILL CA,3.90107E+14,10/18/2001,Environmental,NP,Skimmer Dragonflies,Odonata,Libellulidae,7,1.14,84.3,0.081,0.0835,103.5,Immature
+BR-06,BEAR R BL WOLF C NR LUCAS HILL CA,3.90107E+14,8/24/2000,Environmental,NP,Water striders,Hemiptera,Gerridae,23,1.2,56.3,0.243,0.2679,110.3,Adult
+BR-61,SF GREENHORN C .7 MI AB GREENHORN C NR NEVADA CITY,3.91401E+14,8/22/2000,Environmental,https://doi.org/10.3133/sir20045251,Banana slugs,Gastropoda,Ariolimacidae,3,70.67,86.8,ND,0.0043,ND,ND
+BR-61,SF GREENHORN C .7 MI AB GREENHORN C NR NEVADA CITY,3.91401E+14,8/22/2000,Environmental,https://doi.org/10.3133/sir20045251,Dobsonflies,Megaloptera,Corydalidae,3,1.65,75.3,ND,0.068,ND,Immature
+BR-61,SF GREENHORN C .7 MI AB GREENHORN C NR NEVADA CITY,3.91401E+14,8/22/2000,Environmental,https://doi.org/10.3133/sir20045251,Predaceous stonefly,Plecoptera,Perlidae,10,2.52,71.7,ND,0.14,ND,Immature
+BR-61,SF GREENHORN C .7 MI AB GREENHORN C NR NEVADA CITY,3.91401E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Predaceous stonefly,Plecoptera,Perlidae,6,1.31,70.4,0.23,0.17,73,Immature
+BR-61,SF GREENHORN C .7 MI AB GREENHORN C NR NEVADA CITY,3.91401E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Predaceous stonefly,Plecoptera,Perlidae,12,1.05,75,0.15,0.12,81,Immature
+BR-61,SF GREENHORN C .7 MI AB GREENHORN C NR NEVADA CITY,3.91401E+14,8/22/2000,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,36,2.28,58,ND,0.16,ND,Adult
+BR-61,SF GREENHORN C .7 MI AB GREENHORN C NR NEVADA CITY,3.91401E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,25,1.52,62.4,0.25,0.17,69,Adult
+BR-61,SF GREENHORN C .7 MI AB GREENHORN C NR NEVADA CITY,3.91401E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,25,1.53,59.7,0.25,0.21,84,Adult
+BR-62,SF GREENHORN C BLW BOSTON MINE NR NEVADA CITY CA,3.91351E+14,7/22/2002,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,2,0.99,75,0.308,0.1698,55.2,Immature
+BR-62,SF GREENHORN C BLW BOSTON MINE NR NEVADA CITY CA,3.91351E+14,7/22/2002,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,1,0.72,81.7,0.28,0.2178,77.8,Immature
+BR-62,SF GREENHORN C BLW BOSTON MINE NR NEVADA CITY CA,3.91351E+14,7/22/2002,Environmental,NP,Spiketail Dragonflies,Odonata,Cordulegastridae,5,3.23,74.5,0.186,0.1571,84.3,Immature
+BR-62,SF GREENHORN C BLW BOSTON MINE NR NEVADA CITY CA,3.91351E+14,7/22/2002,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,10,1.29,70.3,0.374,0.3386,90.5,Immature
+BR-62,SF GREENHORN C BLW BOSTON MINE NR NEVADA CITY CA,3.91351E+14,7/22/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.6,52.9,0.238,0.1686,70.9,Adult
+BR-62,SF GREENHORN C BLW BOSTON MINE NR NEVADA CITY CA,3.91351E+14,8/21/2000,Environmental,https://doi.org/10.3133/sir20045251,Dobsonflies,Megaloptera,Corydalidae,1,0.6,77.8,ND,0.21,ND,Immature
+BR-62,SF GREENHORN C BLW BOSTON MINE NR NEVADA CITY CA,3.91351E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Spiketail Dragonflies,Odonata,Cordulegastridae,1,0.92,72.8,0.35,0.33,95,Immature
+BR-62,SF GREENHORN C BLW BOSTON MINE NR NEVADA CITY CA,3.91351E+14,9/28/1999,Environmental,https://doi.org/10.3133/sir20045251,Predaceous stonefly,Plecoptera,Perlidae,14,1.61,73.1,ND,0.2,ND,Immature
+BR-62,SF GREENHORN C BLW BOSTON MINE NR NEVADA CITY CA,3.91351E+14,8/21/2000,Environmental,https://doi.org/10.3133/sir20045251,Predaceous stonefly,Plecoptera,Perlidae,11,1.27,72.5,0.4,0.31,79,Immature
+BR-62,SF GREENHORN C BLW BOSTON MINE NR NEVADA CITY CA,3.91351E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Predaceous stonefly,Plecoptera,Perlidae,10,0.53,78.6,0.47,0.52,109,Immature
+BR-62,SF GREENHORN C BLW BOSTON MINE NR NEVADA CITY CA,3.91351E+14,9/28/1999,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,20,1.22,57.1,ND,0.18,ND,Adult
+BR-62,SF GREENHORN C BLW BOSTON MINE NR NEVADA CITY CA,3.91351E+14,8/21/2000,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,28,1.57,62.6,ND,0.22,ND,Adult
+BR-62,SF GREENHORN C BLW BOSTON MINE NR NEVADA CITY CA,3.91351E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,25,1.29,63.5,0.2,0.21,107,Adult
+BR-63,TOM JERRY MINE DRAINAGE POND NR NEVADA CITY CA,3.91628E+14,7/30/2002,Environmental,NP,Spiketail Dragonflies,Odonata,Cordulegastridae,3,2.91,84.1,0.021,0.0181,85.7,Immature
+BR-63,TOM JERRY MINE DRAINAGE POND NR NEVADA CITY CA,3.91628E+14,7/30/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,20,1.25,59.4,0.058,0.056,96.5,Adult
+BR-63,TOM JERRY MINE DRAINAGE POND NR NEVADA CITY CA,3.91628E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Spiketail Dragonflies,Odonata,Cordulegastridae,4,2.62,83,0.016,0.014,90,Immature
+BR-63,TOM JERRY MINE DRAINAGE POND NR NEVADA CITY CA,3.91628E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Spiketail Dragonflies,Odonata,Cordulegastridae,3,2.49,78.2,0.019,0.018,97,Immature
+BR-63,TOM JERRY MINE DRAINAGE POND NR NEVADA CITY CA,3.91628E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Darner Dragonflies,Odonata,Aeshnidae,5,1.47,82.4,0.021,0.022,106,Immature
+BR-63,TOM JERRY MINE DRAINAGE POND NR NEVADA CITY CA,3.91628E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Spiketail Dragonflies,Odonata,Cordulegastridae,3,3.03,87.1,0.019,0.022,115,Immature
+BR-63,TOM JERRY MINE DRAINAGE POND NR NEVADA CITY CA,3.91628E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Predaceous diving beetles,Coleoptera,Dytiscidae,30,1.07,50.9,0.07,0.055,78,Adult
+BR-63,TOM JERRY MINE DRAINAGE POND NR NEVADA CITY CA,3.91628E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,16,1.03,54.5,0.066,0.066,99,Adult
+BR-66,TOM JERRY MINE DR A TUNNEL OUTLET NR NEVADA CITY,3.91627E+14,7/30/2002,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,1,3.57,68.5,0.275,0.1755,63.7,Immature
+BR-66,TOM JERRY MINE DR A TUNNEL OUTLET NR NEVADA CITY,3.91627E+14,7/30/2002,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,1,0.72,73.2,0.02,0.0244,124.3,Immature
+BR-66,TOM JERRY MINE DR A TUNNEL OUTLET NR NEVADA CITY,3.91627E+14,7/30/2002,Environmental,NP,Spiketail Dragonflies,Odonata,Cordulegastridae,1,1.27,78.1,0.263,0.2475,94.2,Immature
+BR-66,TOM JERRY MINE DR A TUNNEL OUTLET NR NEVADA CITY,3.91627E+14,7/30/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.37,66.2,0.1,0.0879,87.5,Adult
+BR-66,TOM JERRY MINE DR A TUNNEL OUTLET NR NEVADA CITY,3.91627E+14,8/23/2000,Environmental,https://doi.org/10.3133/sir20045251,Dobsonflies,Megaloptera,Corydalidae,1,1.44,73.4,ND,0.047,ND,Immature
+BR-66,TOM JERRY MINE DR A TUNNEL OUTLET NR NEVADA CITY,3.91627E+14,8/23/2000,Environmental,https://doi.org/10.3133/sir20045251,Spiketail Dragonflies,Odonata,Cordulegastridae,4,1.76,82.2,ND,0.18,ND,Immature
+BR-66,TOM JERRY MINE DR A TUNNEL OUTLET NR NEVADA CITY,3.91627E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Spiketail Dragonflies,Odonata,Cordulegastridae,3,1.84,83.8,0.29,0.31,107,Immature
+BR-66,TOM JERRY MINE DR A TUNNEL OUTLET NR NEVADA CITY,3.91627E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Spiketail Dragonflies,Odonata,Cordulegastridae,5,0.87,84.2,0.34,0.41,120,Immature
+BR-66,TOM JERRY MINE DR A TUNNEL OUTLET NR NEVADA CITY,3.91627E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Spiketail Dragonflies,Odonata,Cordulegastridae,3,2.33,84.3,0.033,0.036,108,Immature
+BR-66,TOM JERRY MINE DR A TUNNEL OUTLET NR NEVADA CITY,3.91627E+14,8/23/2000,Environmental,https://doi.org/10.3133/sir20045251,Predaceous diving beetles,Coleoptera,Dytiscidae,20,1.88,53.5,ND,0.18,ND,Adult
+BR-66,TOM JERRY MINE DR A TUNNEL OUTLET NR NEVADA CITY,3.91627E+14,8/23/2000,Environmental,https://doi.org/10.3133/sir20045251,Predaceous diving beetles,Coleoptera,Dytiscidae,9,0.63,55.5,ND,0.041,ND,Adult
+BR-66,TOM JERRY MINE DR A TUNNEL OUTLET NR NEVADA CITY,3.91627E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Predaceous diving beetles,Coleoptera,Dytiscidae,13,1.16,57.6,0.18,0.11,61,Adult
+BR-66,TOM JERRY MINE DR A TUNNEL OUTLET NR NEVADA CITY,3.91627E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Predaceous diving beetles,Coleoptera,Dytiscidae,15,1.01,49.9,0.12,0.083,69,Adult
+BR-66,TOM JERRY MINE DR A TUNNEL OUTLET NR NEVADA CITY,3.91627E+14,8/23/2000,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,22,1.22,64.3,ND,0.13,ND,Adult
+BR-66,TOM JERRY MINE DR A TUNNEL OUTLET NR NEVADA CITY,3.91627E+14,8/23/2000,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,30,1.86,65.8,ND,0.073,ND,Adult
+BR-66,TOM JERRY MINE DR A TUNNEL OUTLET NR NEVADA CITY,3.91627E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,17,1.13,53.8,0.25,0.31,127,Adult
+BR-66,TOM JERRY MINE DR A TUNNEL OUTLET NR NEVADA CITY,3.91627E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,25,1.64,57.2,0.09,0.064,71,Adult
+BR-67,TOM JERRY MINE DR A TUNNEL INLET NR NEVADA CITY CA,3.91627E+14,7/30/2002,Environmental,NP,Spiketail Dragonflies,Odonata,Cordulegastridae,3,3.4,83.1,0.058,0.0588,100.6,Immature
+BR-67,TOM JERRY MINE DR A TUNNEL INLET NR NEVADA CITY CA,3.91627E+14,7/30/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.45,58.4,0.086,0.0928,107.7,Adult
+BR-67,TOM JERRY MINE DR A TUNNEL INLET NR NEVADA CITY CA,3.91627E+14,7/30/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,24,1.36,63.1,0.079,0.0889,113.1,Adult
+BR-67,TOM JERRY MINE DR A TUNNEL INLET NR NEVADA CITY CA,3.91627E+14,8/23/2000,Environmental,https://doi.org/10.3133/sir20045251,Banana slugs,Gastropoda,Ariolimacidae,3,41.66,87.9,ND,0.015,ND,ND
+BR-67,TOM JERRY MINE DR A TUNNEL INLET NR NEVADA CITY CA,3.91627E+14,8/23/2000,Environmental,https://doi.org/10.3133/sir20045251,Banana slugs,Gastropoda,Ariolimacidae,3,34.86,85.9,ND,0.0036,ND,ND
+BR-67,TOM JERRY MINE DR A TUNNEL INLET NR NEVADA CITY CA,3.91627E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Banana slugs,Gastropoda,Ariolimacidae,3,40.9,82,ND,0.0076,ND,ND
+BR-67,TOM JERRY MINE DR A TUNNEL INLET NR NEVADA CITY CA,3.91627E+14,9/13/2001,Environmental,https://doi.org/10.3133/sir20045251,Banana slugs,Gastropoda,Ariolimacidae,3,43.56,88.2,ND,0.017,ND,ND
+BR-69,SAILOR FLAT MINE MAIN DR GULCH 01 NR QUAKER HILL,3.9162E+14,8/24/1999,Environmental,https://doi.org/10.3133/sir20045251,Predaceous diving beetles,Coleoptera,Dytiscidae,25,1.76,51.7,0.039,0.032,83,Adult
+BR-69,SAILOR FLAT MINE MAIN DR GULCH 01 NR QUAKER HILL,3.9162E+14,8/24/1999,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,22,1.41,53.8,ND,0.089,ND,Adult
+BR-69,SAILOR FLAT MINE MAIN DR GULCH 01 NR QUAKER HILL,3.9162E+14,8/24/1999,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,21,1.31,56.8,ND,0.075,ND,Adult
+BR-70,STARR PIT POND NR GRASS VALLEY CA,3.91327E+14,8/12/1999,Environmental,https://doi.org/10.3133/sir20045251,Darner Dragonflies,Odonata,Aeshnidae,2,1.83,86.4,ND,0.011,ND,Immature
+BR-70,STARR PIT POND NR GRASS VALLEY CA,3.91327E+14,8/21/2000,Environmental,https://doi.org/10.3133/sir20045251,Darner Dragonflies,Odonata,Aeshnidae,6,4.32,79.1,ND,0.015,ND,Immature
+BR-70,STARR PIT POND NR GRASS VALLEY CA,3.91327E+14,8/21/2000,Environmental,https://doi.org/10.3133/sir20045251,Darner Dragonflies,Odonata,Aeshnidae,16,1.72,82.8,ND,0.015,ND,Immature
+BR-70,STARR PIT POND NR GRASS VALLEY CA,3.91327E+14,8/21/2000,Environmental,https://doi.org/10.3133/sir20045251,Skimmer Dragonflies,Odonata,Libellulidae,5,2.4,85.5,ND,0.013,ND,Immature
+BR-70,STARR PIT POND NR GRASS VALLEY CA,3.91327E+14,8/21/2000,Environmental,https://doi.org/10.3133/sir20045251,Predaceous diving beetles,Coleoptera,Dytiscidae,11,2.29,62.6,ND,0.23,ND,Adult
+BR-70,STARR PIT POND NR GRASS VALLEY CA,3.91327E+14,8/12/1999,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,15,0.58,51.7,ND,0.1,ND,Adult
+BR-70,STARR PIT POND NR GRASS VALLEY CA,3.91327E+14,8/21/2000,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,35,0.98,63.9,ND,0.1,ND,Adult
+BR-73,STARR MINE TUNNEL OUTLET NR GRASS VALLEY CA,3.9133E+14,8/21/2000,Environmental,https://doi.org/10.3133/sir20045251,Banana slugs,Gastropoda,Ariolimacidae,2,52.97,81.5,ND,0.0052,ND,ND
+BR-73,STARR MINE TUNNEL OUTLET NR GRASS VALLEY CA,3.9133E+14,8/21/2000,Environmental,https://doi.org/10.3133/sir20045251,Spiketail Dragonflies,Odonata,Cordulegastridae,3,2.1,85,ND,0.042,ND,Immature
+BR-73,STARR MINE TUNNEL OUTLET NR GRASS VALLEY CA,3.9133E+14,8/21/2000,Environmental,https://doi.org/10.3133/sir20045251,Water striders,Hemiptera,Gerridae,9,0.48,57.5,ND,0.1,ND,Adult
+BR-78,POLAR STAR MINE TUNNEL DISCHARGE NR DUTCH FLAT CA,3.91247E+14,9/20/1999,Environmental,NP,Banana slugs,Gastropoda,Ariolimacidae,3,45.06,84.6,ND,0.0134,ND,ND
+BR-78,POLAR STAR MINE TUNNEL DISCHARGE NR DUTCH FLAT CA,3.91247E+14,9/30/1999,Environmental,NP,Water striders,Hemiptera,Gerridae,15,0.82,60,ND,0.1692,ND,Adult
+BR-08,BEAR R A PLEASANT GROVE RD NR SHERIDAN CA,3.85904E+14,10/6/2000,Environmental,NP,Skimmer Dragonflies,Odonata,Libellulidae,20,3.3,82,ND,0.1453,ND,Immature
+BR-08,BEAR R A PLEASANT GROVE RD NR SHERIDAN CA,3.85904E+14,10/19/2001,Environmental,NP,Skimmer Dragonflies,Odonata,Libellulidae,16,2.32,81.5,0.095,0.1032,108.6,Immature
+BR-08,BEAR R A PLEASANT GROVE RD NR SHERIDAN CA,3.85904E+14,10/1/1999,Environmental,NP,Giant water bugs,Hemiptera,Belostomatidae,10,2.12,65.2,ND,0.033,ND,Immature
+BR-08,BEAR R A PLEASANT GROVE RD NR SHERIDAN CA,3.85904E+14,10/6/2000,Environmental,NP,Giant water bugs,Hemiptera,Belostomatidae,15,3.58,72.4,ND,0.0673,ND,Adult
+BR-08,BEAR R A PLEASANT GROVE RD NR SHERIDAN CA,3.85904E+14,10/19/2001,Environmental,NP,Giant water bugs,Hemiptera,Belostomatidae,15,3.43,69.3,0.032,0.0296,92.7,Adult
+BR-08,BEAR R A PLEASANT GROVE RD NR SHERIDAN CA,3.85904E+14,10/1/1999,Environmental,NP,Water striders,Hemiptera,Gerridae,22,0.69,49.8,ND,0.0803,ND,Adult
+BR-08,BEAR R A PLEASANT GROVE RD NR SHERIDAN CA,3.85904E+14,10/6/2000,Environmental,NP,Water striders,Hemiptera,Gerridae,28,0.86,59.1,ND,0.0667,ND,Adult
+BR-08,BEAR R A PLEASANT GROVE RD NR SHERIDAN CA,3.85904E+14,10/19/2001,Environmental,NP,Water striders,Hemiptera,Gerridae,12,0.43,51.2,0.292,0.2079,71.1,Adult
+BR-80,NF STEEPHOLLOW C NR BLUE CYN CA,3.91642E+14,8/25/1999,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,3,2.77,73.1,ND,0.1245,ND,Immature
+BR-80,NF STEEPHOLLOW C NR BLUE CYN CA,3.91642E+14,8/25/1999,Environmental,NP,Spiketail Dragonflies,Odonata,Cordulegastridae,2,1.92,76,ND,0.049,ND,Immature
+BR-80,NF STEEPHOLLOW C NR BLUE CYN CA,3.91642E+14,8/25/1999,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,12,2.28,75.6,ND,0.0529,ND,Immature
+BR-80,NF STEEPHOLLOW C NR BLUE CYN CA,3.91642E+14,8/25/1999,Environmental,NP,Water striders,Hemiptera,Gerridae,27,1.38,59.6,ND,0.0679,ND,Adult
+BR-90,SOUTHERN CROSS MINE TUNNEL DISCHARGE NR DUTCH FLAT,3.91241E+14,9/30/1999,Environmental,NP,Water striders,Hemiptera,Gerridae,15,0.78,56.3,ND,0.0734,ND,Adult
+BR-91,STEEPHOLLOW C A LOWELL HILL BRDG NR NEVADA CITY CA,3.91146E+14,9/20/1999,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,3,2.01,78.6,ND,0.0556,ND,Immature
+BR-91,STEEPHOLLOW C A LOWELL HILL BRDG NR NEVADA CITY CA,3.91146E+14,9/12/2000,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,1,1.65,69.2,0.173,0.1537,88.6,Immature
+BR-91,STEEPHOLLOW C A LOWELL HILL BRDG NR NEVADA CITY CA,3.91146E+14,10/17/2001,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,2,1.55,75.5,0.124,0.1073,86.7,Immature
+BR-91,STEEPHOLLOW C A LOWELL HILL BRDG NR NEVADA CITY CA,3.91146E+14,7/22/2002,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,3,4.1,71.4,0.1,0.0724,72.7,Immature
+BR-91,STEEPHOLLOW C A LOWELL HILL BRDG NR NEVADA CITY CA,3.91146E+14,9/20/1999,Environmental,NP,Spiketail Dragonflies,Odonata,Cordulegastridae,3,3.28,84.5,ND,0.0561,ND,Immature
+BR-91,STEEPHOLLOW C A LOWELL HILL BRDG NR NEVADA CITY CA,3.91146E+14,9/12/2000,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,16,1.52,81.3,0.05,0.0531,106,Immature
+BR-91,STEEPHOLLOW C A LOWELL HILL BRDG NR NEVADA CITY CA,3.91146E+14,10/17/2001,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,10,2.63,82.2,0.069,0.0635,91.5,Immature
+BR-91,STEEPHOLLOW C A LOWELL HILL BRDG NR NEVADA CITY CA,3.91146E+14,10/17/2001,Environmental,NP,Spiketail Dragonflies,Odonata,Cordulegastridae,2,2.13,86.3,0.038,0.0388,102.5,Immature
+BR-91,STEEPHOLLOW C A LOWELL HILL BRDG NR NEVADA CITY CA,3.91146E+14,10/17/2001,Environmental,NP,Clubtail Dragonflies,Odonata,Gomphidae,4,1.06,75.1,0.093,0.0919,98.7,Immature
+BR-91,STEEPHOLLOW C A LOWELL HILL BRDG NR NEVADA CITY CA,3.91146E+14,7/22/2002,Environmental,NP,Spiketail Dragonflies,Odonata,Cordulegastridae,3,1.7,78.9,0.067,0.0599,89.9,Immature
+BR-91,STEEPHOLLOW C A LOWELL HILL BRDG NR NEVADA CITY CA,3.91146E+14,7/22/2002,Environmental,NP,Clubtail Dragonflies,Odonata,Gomphidae,4,0.6,67.8,0.093,0.0766,82.6,Immature
+BR-91,STEEPHOLLOW C A LOWELL HILL BRDG NR NEVADA CITY CA,3.91146E+14,9/12/2000,Environmental,NP,Giant water bugs,Hemiptera,Belostomatidae,1,3.61,74,ND,0.1711,ND,Adult
+BR-91,STEEPHOLLOW C A LOWELL HILL BRDG NR NEVADA CITY CA,3.91146E+14,9/20/1999,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,11,1.77,76.1,0.078,0.0875,112.6,Immature
+BR-91,STEEPHOLLOW C A LOWELL HILL BRDG NR NEVADA CITY CA,3.91146E+14,9/12/2000,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,5,1.05,70.7,ND,0.0984,ND,Immature
+BR-91,STEEPHOLLOW C A LOWELL HILL BRDG NR NEVADA CITY CA,3.91146E+14,9/12/2000,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,20,2.67,77.3,ND,0.077,ND,Immature
+BR-91,STEEPHOLLOW C A LOWELL HILL BRDG NR NEVADA CITY CA,3.91146E+14,10/17/2001,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,5,1.16,76.6,0.125,0.1196,95.9,Immature
+BR-91,STEEPHOLLOW C A LOWELL HILL BRDG NR NEVADA CITY CA,3.91146E+14,7/22/2002,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,7,1.2,69.9,0.121,0.1132,93.3,Immature
+BR-91,STEEPHOLLOW C A LOWELL HILL BRDG NR NEVADA CITY CA,3.91146E+14,7/22/2002,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,15,1.3,74.3,0.105,0.1056,100.5,Immature
+BR-91,STEEPHOLLOW C A LOWELL HILL BRDG NR NEVADA CITY CA,3.91146E+14,9/20/1999,Environmental,NP,Water striders,Hemiptera,Gerridae,21,1.2,63.4,ND,0.0856,ND,Adult
+BR-91,STEEPHOLLOW C A LOWELL HILL BRDG NR NEVADA CITY CA,3.91146E+14,9/12/2000,Environmental,NP,Water striders,Hemiptera,Gerridae,30,1.62,68.9,ND,0.1042,ND,Adult
+BR-91,STEEPHOLLOW C A LOWELL HILL BRDG NR NEVADA CITY CA,3.91146E+14,10/17/2001,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.26,58.9,0.204,0.1504,73.8,Adult
+BR-91,STEEPHOLLOW C A LOWELL HILL BRDG NR NEVADA CITY CA,3.91146E+14,7/22/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.2,71.5,0.119,0.1143,96.2,Adult
+BR-95,YOU BET MINE OUTLET TO MAIN DRAIN TNNL NR GOLD RUN,3.91215E+14,8/26/1999,Environmental,NP,Predaceous diving beetles,Coleoptera,Dytiscidae,15,1.1,50,ND,0.0387,ND,Adult
+BR-95,YOU BET MINE OUTLET TO MAIN DRAIN TNNL NR GOLD RUN,3.91215E+14,8/26/1999,Environmental,NP,Water striders,Hemiptera,Gerridae,24,1.36,60.5,ND,0.0818,ND,Adult
+BR-96,YOU BET MINE INLET TO MAIN DRAIN TNNL NR GOLD RUN,3.91223E+14,8/31/1999,Environmental,NP,Predaceous diving beetles,Coleoptera,Dytiscidae,30,1.2,61.6,ND,0.0488,ND,Adult
+BR-96,YOU BET MINE INLET TO MAIN DRAIN TNNL NR GOLD RUN,3.91223E+14,8/26/1999,Environmental,NP,Water striders,Hemiptera,Gerridae,24,1.44,55.9,ND,0.0547,ND,Adult
+BR-97,WF WILCOX DR TUNNEL OUTLET NR CHICAGO PARK CA,3.91208E+14,9/25/2000,Environmental,NP,Predaceous diving beetles,Coleoptera,Dytiscidae,20,1.33,56.3,0.108,0.0756,70.3,Adult
+BR-97,WF WILCOX DR TUNNEL OUTLET NR CHICAGO PARK CA,3.91208E+14,9/25/2000,Environmental,NP,Water striders,Hemiptera,Gerridae,30,1.65,52.6,0.124,0.1123,90.8,Adult
+BR-98,WF WILCOX DR TUNNEL INLET NR CHICAGO PARK CA,3.9121E+14,9/25/2000,Environmental,NP,Predaceous diving beetles,Coleoptera,Dytiscidae,17,1.26,55.9,0.052,0.0525,100.2,Adult
+BR-98,WF WILCOX DR TUNNEL INLET NR CHICAGO PARK CA,3.9121E+14,9/25/2000,Environmental,NP,Water striders,Hemiptera,Gerridae,30,1.73,55.5,0.086,0.0797,92.3,Adult
+BR-99,YOU BET MINE SW DRAINAGE TUNNEL NR GOLD RUN CA,3.91144E+14,9/2/1999,Environmental,NP,Banana slugs,Gastropoda,Ariolimacidae,1,18.65,83.5,ND,0.0238,ND,ND
+BR-99,YOU BET MINE SW DRAINAGE TUNNEL NR GOLD RUN CA,3.91144E+14,9/2/1999,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,1,4.86,63.2,0.247,0.1317,53.3,Immature
+BR-99,YOU BET MINE SW DRAINAGE TUNNEL NR GOLD RUN CA,3.91144E+14,9/2/1999,Environmental,NP,Predaceous diving beetles,Coleoptera,Dytiscidae,19,0.9,54.3,ND,0.0969,ND,Adult
+BR-99,YOU BET MINE SW DRAINAGE TUNNEL NR GOLD RUN CA,3.91144E+14,9/12/2000,Environmental,NP,Predaceous diving beetles,Coleoptera,Dytiscidae,30,1.79,52.8,ND,0.0647,ND,Adult
+BR-99,YOU BET MINE SW DRAINAGE TUNNEL NR GOLD RUN CA,3.91144E+14,9/12/2000,Environmental,NP,Predaceous diving beetles,Coleoptera,Dytiscidae,30,1.74,52.6,ND,0.0929,ND,Adult
+BR-99,YOU BET MINE SW DRAINAGE TUNNEL NR GOLD RUN CA,3.91144E+14,7/22/2002,Environmental,NP,Predaceous diving beetles,Coleoptera,Dytiscidae,7,0.43,50.8,0.14,0.0974,69.7,Adult
+BR-99,YOU BET MINE SW DRAINAGE TUNNEL NR GOLD RUN CA,3.91144E+14,9/12/2000,Environmental,NP,Water striders,Hemiptera,Gerridae,18,1.04,72.9,ND,0.2022,ND,Adult
+BR-99,YOU BET MINE SW DRAINAGE TUNNEL NR GOLD RUN CA,3.91144E+14,10/17/2001,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.54,59.8,0.238,0.1717,72,Adult
+BR-99,YOU BET MINE SW DRAINAGE TUNNEL NR GOLD RUN CA,3.91144E+14,7/22/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,20,1.16,62.9,0.195,0.1376,70.7,Adult
+DC-01,DEER C US SCOTTS FLAT RES A SAWMILL NR NEVADA CITY,3.91745E+14,10/5/1999,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,4,3.02,79.1,0.028,0.0263,94.7,Immature
+DC-01,DEER C US SCOTTS FLAT RES A SAWMILL NR NEVADA CITY,3.91745E+14,10/5/1999,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,9,1.5,74.3,ND,0.0396,ND,Immature
+DC-01,DEER C US SCOTTS FLAT RES A SAWMILL NR NEVADA CITY,3.91745E+14,10/5/1999,Environmental,NP,Water striders,Hemiptera,Gerridae,19,0.81,62.3,ND,0.0558,ND,Adult
+DC-04,DEER C NR WILLOW VALLEY RD NR NEVADA CITY CA,3.91602E+14,10/5/1999,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,3,3.15,79.3,ND,0.065,ND,Immature
+DC-04,DEER C NR WILLOW VALLEY RD NR NEVADA CITY CA,3.91602E+14,10/5/1999,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,7,3.05,80,0.074,0.0696,94.6,Immature
+DC-04,DEER C NR WILLOW VALLEY RD NR NEVADA CITY CA,3.91602E+14,10/6/2000,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,3,2.21,76.6,ND,0.0704,ND,Immature
+DC-04,DEER C NR WILLOW VALLEY RD NR NEVADA CITY CA,3.91602E+14,10/6/2000,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,5,1.63,81.1,ND,0.0616,ND,Immature
+DC-04,DEER C NR WILLOW VALLEY RD NR NEVADA CITY CA,3.91602E+14,10/18/2001,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,2,3,70.2,0.095,0.0554,58.3,Immature
+DC-04,DEER C NR WILLOW VALLEY RD NR NEVADA CITY CA,3.91602E+14,10/6/2000,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,3,1.22,82.1,ND,0.0625,ND,Immature
+DC-04,DEER C NR WILLOW VALLEY RD NR NEVADA CITY CA,3.91602E+14,10/6/2000,Environmental,NP,Spiketail Dragonflies,Odonata,Cordulegastridae,1,1.06,76.2,ND,0.0802,ND,Immature
+DC-04,DEER C NR WILLOW VALLEY RD NR NEVADA CITY CA,3.91602E+14,10/6/2000,Environmental,NP,Clubtail Dragonflies,Odonata,Gomphidae,6,1.6,77.8,ND,0.1059,ND,Immature
+DC-04,DEER C NR WILLOW VALLEY RD NR NEVADA CITY CA,3.91602E+14,10/18/2001,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,6,2.4,82.7,0.056,0.0547,98.1,Immature
+DC-04,DEER C NR WILLOW VALLEY RD NR NEVADA CITY CA,3.91602E+14,10/5/1999,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,10,2.62,70,ND,0.0738,ND,Immature
+DC-04,DEER C NR WILLOW VALLEY RD NR NEVADA CITY CA,3.91602E+14,10/6/2000,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,10,2.63,74.8,ND,0.0499,ND,Immature
+DC-04,DEER C NR WILLOW VALLEY RD NR NEVADA CITY CA,3.91602E+14,10/18/2001,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,10,1.99,70.5,0.07,0.0569,81.8,Immature
+DC-04,DEER C NR WILLOW VALLEY RD NR NEVADA CITY CA,3.91602E+14,10/5/1999,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.16,61.4,ND,0.078,ND,Adult
+DC-04,DEER C NR WILLOW VALLEY RD NR NEVADA CITY CA,3.91602E+14,10/6/2000,Environmental,NP,Water striders,Hemiptera,Gerridae,30,1.53,65.1,ND,0.0799,ND,Adult
+DC-04,DEER C NR WILLOW VALLEY RD NR NEVADA CITY CA,3.91602E+14,10/18/2001,Environmental,NP,Water striders,Hemiptera,Gerridae,18,0.81,67.5,0.077,0.0744,97,Adult
+DC-05,DEER C BL DEER C FALLS NR ROUGH AND READY CA,3.9144E+14,8/24/2000,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,3,2.33,79.8,0.142,0.146,102.8,Immature
+DC-05,DEER C BL DEER C FALLS NR ROUGH AND READY CA,3.9144E+14,8/24/2000,Environmental,NP,Clubtail Dragonflies,Odonata,Gomphidae,6,1.45,71.2,ND,0.1443,ND,Immature
+DC-05,DEER C BL DEER C FALLS NR ROUGH AND READY CA,3.9144E+14,8/24/2000,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,12,1.92,69.9,ND,0.1746,ND,Immature
+DC-05,DEER C BL DEER C FALLS NR ROUGH AND READY CA,3.9144E+14,8/24/2000,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,12,1.28,71,ND,0.1192,ND,Immature
+DC-05,DEER C BL DEER C FALLS NR ROUGH AND READY CA,3.9144E+14,8/24/2000,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.32,57.9,ND,0.2147,ND,Adult
+DC-09,LITTLE DEER C A PIONEER PARK NR NEVADA CITY CA,3.91534E+14,8/23/2000,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,2,0.46,73.8,ND,0.1195,ND,Immature
+DC-09,LITTLE DEER C A PIONEER PARK NR NEVADA CITY CA,3.91534E+14,8/23/2000,Environmental,NP,Clubtail Dragonflies,Odonata,Gomphidae,12,1.33,79.1,ND,0.1409,ND,Immature
+DC-09,LITTLE DEER C A PIONEER PARK NR NEVADA CITY CA,3.91534E+14,10/19/2001,Environmental,NP,Spiketail Dragonflies,Odonata,Cordulegastridae,6,6.48,79.8,0.101,0.0986,97.8,Immature
+DC-09,LITTLE DEER C A PIONEER PARK NR NEVADA CITY CA,3.91534E+14,10/19/2001,Environmental,NP,Clubtail Dragonflies,Odonata,Gomphidae,6,1.64,73.6,0.158,0.1399,88.3,Immature
+DC-09,LITTLE DEER C A PIONEER PARK NR NEVADA CITY CA,3.91534E+14,10/5/1999,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,6,1.75,73.2,ND,0.142,ND,Immature
+DC-09,LITTLE DEER C A PIONEER PARK NR NEVADA CITY CA,3.91534E+14,8/23/2000,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,9,1.65,71.4,ND,0.1161,ND,Immature
+DC-09,LITTLE DEER C A PIONEER PARK NR NEVADA CITY CA,3.91534E+14,10/19/2001,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,10,1.88,72.7,0.132,0.1313,99.4,Immature
+DC-09,LITTLE DEER C A PIONEER PARK NR NEVADA CITY CA,3.91534E+14,10/5/1999,Environmental,NP,Water striders,Hemiptera,Gerridae,24,1.5,59.6,ND,0.1406,ND,Adult
+DC-09,LITTLE DEER C A PIONEER PARK NR NEVADA CITY CA,3.91534E+14,8/23/2000,Environmental,NP,Water striders,Hemiptera,Gerridae,30,1.82,67.2,0.118,0.1096,92.8,Adult
+DC-09,LITTLE DEER C A PIONEER PARK NR NEVADA CITY CA,3.91534E+14,10/18/2001,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.23,61.3,0.149,0.1533,102.6,Adult
+LY-11,WETLANDS POND NE OF S POND IN YUBA GOLDFIELDS,3.913E+14,7/17/2003,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,1,1.4,73,0.249,0.214,85.9,Immature
+LY-11,WETLANDS POND NE OF S POND IN YUBA GOLDFIELDS,3.913E+14,7/17/2003,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,6,2.36,79.5,0.17,0.158,92.9,Immature
+LY-11,WETLANDS POND NE OF S POND IN YUBA GOLDFIELDS,3.913E+14,7/17/2003,Environmental,NP,Skimmer Dragonflies,Odonata,Libellulidae,4,0.98,78.1,0.138,0.134,97.1,Immature
+LY-11,WETLANDS POND NE OF S POND IN YUBA GOLDFIELDS,3.913E+14,7/17/2003,Environmental,NP,Water striders,Hemiptera,Gerridae,21,1,54.9,0.313,0.304,97.1,Adult
+LY-12,LARGE POND E OF BIG SEEP IN YUBA GOLDFIELDS,3.91304E+14,7/18/2003,Environmental,NP,Water striders,Hemiptera,Gerridae,17,1.09,55.8,0.08,0.0849,106.7,Adult
+LY-14,BIG SEEP SECTION 27 IN YUBA GOLDFIELDS,3.91305E+14,7/17/2003,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,1,0.85,71,0.189,0.157,83.1,Immature
+LY-14,BIG SEEP SECTION 27 IN YUBA GOLDFIELDS,3.91305E+14,7/17/2003,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,1,0.73,73.2,0.239,0.199,83.3,Immature
+LY-14,BIG SEEP SECTION 27 IN YUBA GOLDFIELDS,3.91305E+14,7/17/2003,Environmental,NP,Skimmer Dragonflies,Odonata,Libellulidae,1,0.63,71.6,0.145,0.124,85.5,Immature
+LY-14,BIG SEEP SECTION 27 IN YUBA GOLDFIELDS,3.91305E+14,7/17/2003,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,4,1.06,73.4,0.041,0.0516,125.9,Immature
+LY-14,BIG SEEP SECTION 27 IN YUBA GOLDFIELDS,3.91305E+14,7/17/2003,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,12,1,71.4,0.046,0.0438,95.2,Immature
+LY-15,T POND OUTLET IN YUBA GOLDFIELDS NR HAMMONTON CA,3.9125E+14,7/17/2003,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,1,0.74,82.9,0.041,0.0373,91.2,Immature
+LY-15,T POND OUTLET IN YUBA GOLDFIELDS NR HAMMONTON CA,3.9125E+14,7/17/2003,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,1,0.78,75.4,0.059,0.0509,87,Immature
+LY-15,T POND OUTLET IN YUBA GOLDFIELDS NR HAMMONTON CA,3.9125E+14,7/17/2003,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,2,2.22,69.1,0.051,0.0386,76.1,Immature
+LY-15,T POND OUTLET IN YUBA GOLDFIELDS NR HAMMONTON CA,3.9125E+14,7/17/2003,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,3,2.27,70.4,0.048,0.0438,91.3,Immature
+SY-10,SCOTCHMAN C BL FALLS NR WASHINGTON CA,3.92119E+14,7/29/2002,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,8,3.39,79.9,0.066,0.0597,90.5,Immature
+SY-10,SCOTCHMAN C BL FALLS NR WASHINGTON CA,3.92119E+14,7/29/2002,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,1,1.08,77.5,0.055,0.0511,93.4,Immature
+SY-10,SCOTCHMAN C BL FALLS NR WASHINGTON CA,3.92119E+14,7/29/2002,Environmental,NP,Spiketail Dragonflies,Odonata,Cordulegastridae,9,1.35,83.9,0.092,0.066,71.9,Immature
+SY-10,SCOTCHMAN C BL FALLS NR WASHINGTON CA,3.92119E+14,7/29/2002,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,10,2.06,73.8,0.072,0.06,83,Immature
+SY-10,SCOTCHMAN C BL FALLS NR WASHINGTON CA,3.92119E+14,7/29/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.58,67.5,0.14,0.1482,106,Adult
+SY-12,ALPHA PIT MARSH NR WASHINGTON CA,3.92003E+14,7/29/2002,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,6,7.59,79.7,0.035,0.0349,100.6,Immature
+SY-12,ALPHA PIT MARSH NR WASHINGTON CA,3.92003E+14,7/29/2002,Environmental,NP,Giant water bugs,Hemiptera,Belostomatidae,3,8.42,83.1,0.148,0.169,114.2,Adult
+SY-12,ALPHA PIT MARSH NR WASHINGTON CA,3.92003E+14,7/29/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,40,1.19,66.7,0.086,0.0736,85.3,Adult
+SY-13,ALPHA MINE PIT LK NR WASHINGTON CA,3.92007E+14,8/23/2000,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,15,1.19,80.3,ND,0.0121,ND,Immature
+SY-13,ALPHA MINE PIT LK NR WASHINGTON CA,3.92007E+14,10/18/2001,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,10,1.71,86.1,0.009,0.0073,82.2,Immature
+SY-13,ALPHA MINE PIT LK NR WASHINGTON CA,3.92007E+14,10/18/2001,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,10,1.6,86.5,0.007,0.0057,77.9,Immature
+SY-13,ALPHA MINE PIT LK NR WASHINGTON CA,3.92007E+14,7/29/2002,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,2,1.27,89.1,0.013,0.0106,82.4,Immature
+SY-13,ALPHA MINE PIT LK NR WASHINGTON CA,3.92007E+14,8/23/2000,Environmental,NP,Giant water bugs,Hemiptera,Belostomatidae,1,4.17,75,ND,0.2105,ND,Adult
+SY-13,ALPHA MINE PIT LK NR WASHINGTON CA,3.92007E+14,8/23/2000,Environmental,NP,Giant water bugs,Hemiptera,Belostomatidae,1,4.69,72.1,ND,0.3292,ND,Adult
+SY-13,ALPHA MINE PIT LK NR WASHINGTON CA,3.92007E+14,10/18/2001,Environmental,NP,Giant water bugs,Hemiptera,Belostomatidae,1,3.87,72.1,0.278,0.2818,101.3,Adult
+SY-13,ALPHA MINE PIT LK NR WASHINGTON CA,3.92007E+14,10/18/2001,Environmental,NP,Giant water bugs,Hemiptera,Belostomatidae,1,4.02,77.6,0.358,0.3226,90,Adult
+SY-13,ALPHA MINE PIT LK NR WASHINGTON CA,3.92007E+14,7/29/2002,Environmental,NP,Giant water bugs,Hemiptera,Belostomatidae,3,11.15,77,0.057,0.0738,130.5,Adult
+SY-13,ALPHA MINE PIT LK NR WASHINGTON CA,3.92007E+14,7/29/2002,Environmental,NP,Giant water bugs,Hemiptera,Belostomatidae,3,7.75,81.5,0.047,0.0422,89.4,Adult
+SY-13,ALPHA MINE PIT LK NR WASHINGTON CA,3.92007E+14,8/23/2000,Environmental,NP,Predaceous diving beetles,Coleoptera,Dytiscidae,15,3.19,63.4,0.127,0.1109,87.3,Adult
+SY-13,ALPHA MINE PIT LK NR WASHINGTON CA,3.92007E+14,10/18/2001,Environmental,NP,Predaceous diving beetles,Coleoptera,Dytiscidae,15,3.47,68.4,0.1,0.0932,93.7,Adult
+SY-13,ALPHA MINE PIT LK NR WASHINGTON CA,3.92007E+14,10/18/2001,Environmental,NP,Predaceous diving beetles,Coleoptera,Dytiscidae,15,3.12,68,0.125,0.1043,83.4,Adult
+SY-13,ALPHA MINE PIT LK NR WASHINGTON CA,3.92007E+14,10/18/2001,Environmental,NP,Predaceous diving beetles,Coleoptera,Dytiscidae,30,1.23,63.8,0.147,0.1549,105.4,Adult
+SY-13,ALPHA MINE PIT LK NR WASHINGTON CA,3.92007E+14,7/29/2002,Environmental,NP,Predaceous diving beetles,Coleoptera,Dytiscidae,20,4.58,65.2,0.071,0.0609,85.4,Adult
+SY-13,ALPHA MINE PIT LK NR WASHINGTON CA,3.92007E+14,7/29/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,13,0.35,68.2,0.121,0.0525,43.5,Adult
+SY-15,ANCHO ERIE DRAINAGE A POORMAN C NR WASHINGTON CA,3.92512E+14,7/31/2002,Environmental,NP,Banana slugs,Gastropoda,Ariolimacidae,3,13.56,88,0.053,0.012,22.5,ND
+SY-15,ANCHO ERIE DRAINAGE A POORMAN C NR WASHINGTON CA,3.92512E+14,7/31/2002,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,6,1.68,71.2,0.073,0.0922,126,Immature
+SY-16,POORMAN C BL ANCHO ERIE MINE DRAIN NR WASHINGTON,3.92513E+14,7/31/2002,Environmental,NP,Banana slugs,Gastropoda,Ariolimacidae,1,17.86,82.9,0.018,0.007,38.5,ND
+SY-16,POORMAN C BL ANCHO ERIE MINE DRAIN NR WASHINGTON,3.92513E+14,7/31/2002,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,3,2.7,75.1,0.088,0.0403,46,Immature
+SY-16,POORMAN C BL ANCHO ERIE MINE DRAIN NR WASHINGTON,3.92513E+14,7/31/2002,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,1,0.91,75,0.087,0.0695,80.1,Immature
+SY-16,POORMAN C BL ANCHO ERIE MINE DRAIN NR WASHINGTON,3.92513E+14,7/31/2002,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,10,2.65,73.3,0.041,0.0323,78.1,Immature
+SY-16,POORMAN C BL ANCHO ERIE MINE DRAIN NR WASHINGTON,3.92513E+14,7/31/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.77,54.4,0.119,0.1254,105.4,Adult
+SY-18,HUMBUG C AB LEDU MINE NR NORTH BLOOMFIELD CA,3.92152E+14,5/15/2002,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,3,1.63,77,0.09,0.058,64.1,Immature
+SY-18,HUMBUG C AB LEDU MINE NR NORTH BLOOMFIELD CA,3.92152E+14,5/15/2002,Environmental,NP,Spiketail Dragonflies,Odonata,Cordulegastridae,1,1.4,72.1,0.113,0.1133,100.5,Immature
+SY-18,HUMBUG C AB LEDU MINE NR NORTH BLOOMFIELD CA,3.92152E+14,5/15/2002,Environmental,NP,Clubtail Dragonflies,Odonata,Gomphidae,5,1.55,73.4,0.109,0.0944,86.4,Immature
+SY-18,HUMBUG C AB LEDU MINE NR NORTH BLOOMFIELD CA,3.92152E+14,5/15/2002,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,5,1.9,73.7,0.062,0.056,90.3,Immature
+SY-18,HUMBUG C AB LEDU MINE NR NORTH BLOOMFIELD CA,3.92152E+14,5/15/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.48,58.3,0.189,0.1355,71.7,Adult
+SY-19,LEDU MINE TUNNEL DISCHARGE NR NORTH BLOOMFIELD CA,3.92151E+14,5/15/2002,Environmental,NP,Predaceous diving beetles,Coleoptera,Dytiscidae,16,1.01,52.1,0.087,0.081,93.4,Adult
+SY-19,LEDU MINE TUNNEL DISCHARGE NR NORTH BLOOMFIELD CA,3.92151E+14,5/15/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.59,56.3,0.15,0.1342,89.2,Adult
+SY-22,MALAKOFF DIGGINGS FLOODED RED SHAFT NR N BLMFLD,3.92155E+14,9/3/1999,Environmental,NP,Banana slugs,Gastropoda,Ariolimacidae,3,22.85,86.1,ND,0.0021,ND,ND
+SY-24,MALAKOFF DIGGINGS POND NR NORTH BLOOMFIELD CA,3.92201E+14,8/20/1999,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,5,6.94,78.2,0.124,0.1339,107.5,Immature
+SY-24,MALAKOFF DIGGINGS POND NR NORTH BLOOMFIELD CA,3.92201E+14,8/20/1999,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,5,6.35,81.3,0.109,0.1288,118.6,Immature
+SY-25,MALAKOFF DIGGINGS LK CITY TNNL DISCH NR N BLMFLD,3.92111E+14,8/20/1999,Environmental,NP,Banana slugs,Gastropoda,Ariolimacidae,2,21.55,76.7,ND,0.0027,ND,ND
+SY-25,MALAKOFF DIGGINGS LK CITY TNNL DISCH NR N BLMFLD,3.92111E+14,8/20/1999,Environmental,NP,Spiketail Dragonflies,Odonata,Cordulegastridae,2,2.37,81.4,ND,0.0493,ND,Immature
+SY-25,MALAKOFF DIGGINGS LK CITY TNNL DISCH NR N BLMFLD,3.92111E+14,8/20/1999,Environmental,NP,Water striders,Hemiptera,Gerridae,21,1.12,72.3,ND,0.0379,ND,Adult
+SY-27,MALAKOFF DIGGINGS N BLMFLD TNNL DISCH NR N BLMFLD,3.92051E+14,8/20/1999,Environmental,NP,Banana slugs,Gastropoda,Ariolimacidae,2,18.47,77.1,ND,0.0033,ND,ND
+SY-27,MALAKOFF DIGGINGS N BLMFLD TNNL DISCH NR N BLMFLD,3.92051E+14,8/20/1999,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,1,1.91,68.8,ND,0.1529,ND,Immature
+SY-27,MALAKOFF DIGGINGS N BLMFLD TNNL DISCH NR N BLMFLD,3.92051E+14,8/20/1999,Environmental,NP,Spiketail Dragonflies,Odonata,Cordulegastridae,9,1.22,80.9,ND,0.0554,ND,Immature
+SY-27,MALAKOFF DIGGINGS N BLMFLD TNNL DISCH NR N BLMFLD,3.92051E+14,8/20/1999,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,11,1.09,71.9,ND,0.0318,ND,Immature
+SY-29,RELIEF HILL DEEP BLUE TNNL OUTFLOW NR N BLOOMFIELD,3.92126E+14,9/1/1999,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,1,0.86,80.3,ND,0.0526,ND,Immature
+SY-29,RELIEF HILL DEEP BLUE TNNL OUTFLOW NR N BLOOMFIELD,3.92126E+14,9/1/1999,Environmental,NP,Water striders,Hemiptera,Gerridae,10,0.6,58.3,ND,0.0942,ND,Adult
+SY-29,RELIEF HILL DEEP BLUE TNNL OUTFLOW NR N BLOOMFIELD,3.92126E+14,7/30/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.46,67.4,0.06,0.0629,104.3,Adult
+SY-30,RELIEF HILL HYDR PIT MINE DR TNNL NR N BLOOMFIELD,3.92111E+14,9/1/1999,Environmental,NP,Water striders,Hemiptera,Gerridae,27,1.85,55.3,0.048,0.0469,98.1,Adult
+SY-30,RELIEF HILL HYDR PIT MINE DR TNNL NR N BLOOMFIELD,3.92111E+14,7/30/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.47,63,0.06,0.0429,72,Adult
+SY-31,RELIEF HILL UPPER POND NR NORTH BLOOMFIELD CA,3.9212E+14,7/30/2002,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,3,2.28,82,0.018,0.0178,101.1,Immature
+SY-31,RELIEF HILL UPPER POND NR NORTH BLOOMFIELD CA,3.9212E+14,7/30/2002,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,3,1.74,83.6,0.016,0.013,82,Immature
+SY-31,RELIEF HILL UPPER POND NR NORTH BLOOMFIELD CA,3.9212E+14,7/30/2002,Environmental,NP,Predaceous diving beetles,Coleoptera,Dytiscidae,10,2.42,64,0.057,0.0533,93.7,Adult
+SY-31,RELIEF HILL UPPER POND NR NORTH BLOOMFIELD CA,3.9212E+14,7/30/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.51,58.2,0.105,0.1062,101.2,Adult
+SY-04,OMEGA DR GULCH A SCOTCHMAN C NR WASHINGTON CA,3.92045E+14,9/2/1999,Environmental,NP,Banana slugs,Gastropoda,Ariolimacidae,3,44.7,87.6,ND,0.0034,ND,ND
+SY-04,OMEGA DR GULCH A SCOTCHMAN C NR WASHINGTON CA,3.92045E+14,9/2/1999,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,5,2.7,78.9,ND,0.0549,ND,Immature
+SY-04,OMEGA DR GULCH A SCOTCHMAN C NR WASHINGTON CA,3.92045E+14,9/2/1999,Environmental,NP,Predaceous diving beetles,Coleoptera,Dytiscidae,13,1.2,54.3,ND,0.0599,ND,Adult
+SY-04,OMEGA DR GULCH A SCOTCHMAN C NR WASHINGTON CA,3.92045E+14,9/2/1999,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,14,1.52,77.1,ND,0.0417,ND,Adult
+SY-04,OMEGA DR GULCH A SCOTCHMAN C NR WASHINGTON CA,3.92045E+14,9/2/1999,Environmental,NP,Water striders,Hemiptera,Gerridae,13,0.72,59.2,ND,0.1167,ND,Adult
+SY-43,S YUBA R A EAGLE LAKES RD NR EMIGRANT GAP CA,3.91948E+14,9/30/1999,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,1,0.99,78.4,ND,0.0311,ND,Immature
+SY-43,S YUBA R A EAGLE LAKES RD NR EMIGRANT GAP CA,3.91948E+14,9/30/1999,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,10,1.33,74.2,0.025,0.0323,128.7,Immature
+SY-43,S YUBA R A EAGLE LAKES RD NR EMIGRANT GAP CA,3.91948E+14,9/30/1999,Environmental,NP,Water striders,Hemiptera,Gerridae,26,1.42,55.2,ND,0.0502,ND,Adult
+SY-47,S YUBA R A EDWARDS CROSSING NR NEVADA CITY CA,3.91949E+14,10/6/2000,Environmental,NP,Banana slugs,Gastropoda,Ariolimacidae,3,36.77,87.9,ND,0.0074,ND,ND
+SY-47,S YUBA R A EDWARDS CROSSING NR NEVADA CITY CA,3.91949E+14,10/18/2001,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,3,2.14,78.5,0.078,0.0621,79.8,Immature
+SY-47,S YUBA R A EDWARDS CROSSING NR NEVADA CITY CA,3.91949E+14,9/28/1999,Environmental,NP,Spiketail Dragonflies,Odonata,Cordulegastridae,3,1.3,84.6,ND,0.0571,ND,Immature
+SY-47,S YUBA R A EDWARDS CROSSING NR NEVADA CITY CA,3.91949E+14,10/6/2000,Environmental,NP,Clubtail Dragonflies,Odonata,Gomphidae,7,2.49,80.2,ND,0.0275,ND,Immature
+SY-47,S YUBA R A EDWARDS CROSSING NR NEVADA CITY CA,3.91949E+14,10/18/2001,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,9,2.63,83.6,0.13,0.1333,102.3,Immature
+SY-47,S YUBA R A EDWARDS CROSSING NR NEVADA CITY CA,3.91949E+14,10/18/2001,Environmental,NP,Spiketail Dragonflies,Odonata,Cordulegastridae,2,1.82,86.1,0.138,0.1446,104.6,Immature
+SY-47,S YUBA R A EDWARDS CROSSING NR NEVADA CITY CA,3.91949E+14,10/18/2001,Environmental,NP,Clubtail Dragonflies,Odonata,Gomphidae,6,2.51,80.1,0.065,0.0593,90.6,Immature
+SY-47,S YUBA R A EDWARDS CROSSING NR NEVADA CITY CA,3.91949E+14,9/28/1999,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,8,1.71,72.8,0.068,0.0726,106.8,Immature
+SY-47,S YUBA R A EDWARDS CROSSING NR NEVADA CITY CA,3.91949E+14,10/6/2000,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,10,2.16,76.4,0.062,0.0597,95.8,Immature
+SY-47,S YUBA R A EDWARDS CROSSING NR NEVADA CITY CA,3.91949E+14,10/18/2001,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,10,1.97,73.4,0.111,0.0971,87.3,Immature
+SY-47,S YUBA R A EDWARDS CROSSING NR NEVADA CITY CA,3.91949E+14,9/28/1999,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.27,56.8,ND,0.0881,ND,Adult
+SY-47,S YUBA R A EDWARDS CROSSING NR NEVADA CITY CA,3.91949E+14,10/6/2000,Environmental,NP,Water striders,Hemiptera,Gerridae,30,1.65,63.5,0.088,0.0752,85.8,Adult
+SY-47,S YUBA R A EDWARDS CROSSING NR NEVADA CITY CA,3.91949E+14,10/18/2001,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.4,62.2,0.153,0.1021,66.8,Adult
+SY-05,SCOTCHMAN C AB OMEGA DR GULCH NR WASHINGTON CA,3.92042E+14,9/2/1999,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,13,1.67,75.7,ND,0.0474,ND,Immature
+SY-05,SCOTCHMAN C AB OMEGA DR GULCH NR WASHINGTON CA,3.92042E+14,9/2/1999,Environmental,NP,Water striders,Hemiptera,Gerridae,23,1.23,64.8,ND,0.0736,ND,Adult
+SY-52,BLUE HOLE LK A SAILOR FLAT MINE NR NEVADA CITY CA,3.91937E+14,8/24/1999,Environmental,NP,Giant water bugs,Hemiptera,Belostomatidae,1,3.19,73.1,0.066,0.0468,71,Adult
+SY-52,BLUE HOLE LK A SAILOR FLAT MINE NR NEVADA CITY CA,3.91937E+14,8/24/1999,Environmental,NP,Predaceous diving beetles,Coleoptera,Dytiscidae,19,4.1,60.1,0.078,0.0818,105.1,Adult
+SY-53,SAILOR FLAT MINE NR ENTERPRISE CR NR NEVADA CITY,3.91935E+14,8/24/1999,Environmental,NP,Water striders,Hemiptera,Gerridae,17,1.17,58.3,ND,0.0909,ND,Adult
+SY-55,BIRCHVILLE MARSH NR FRENCH CORRAL CA,3.9193E+14,7/23/2002,Environmental,NP,Predaceous diving beetles,Coleoptera,Dytiscidae,3,5.81,56.5,0.014,0.0153,111.8,Adult
+SY-56,BIRCHVILLE POND NR FRENCH CORRAL CA,3.91937E+14,7/23/2002,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,4,4.16,78.8,0.027,0.029,108.7,Immature
+SY-56,BIRCHVILLE POND NR FRENCH CORRAL CA,3.91937E+14,7/23/2002,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,4,2.18,82.3,0.021,0.0234,111.9,Immature
+SY-56,BIRCHVILLE POND NR FRENCH CORRAL CA,3.91937E+14,7/23/2002,Environmental,NP,Skimmer Dragonflies,Odonata,Libellulidae,2,0.72,79.5,0.044,0.0301,69,Immature
+SY-56,BIRCHVILLE POND NR FRENCH CORRAL CA,3.91937E+14,7/23/2002,Environmental,NP,Predaceous diving beetles,Coleoptera,Dytiscidae,3,6.26,52.8,0.006,0.0076,118.2,Adult
+SY-56,BIRCHVILLE POND NR FRENCH CORRAL CA,3.91937E+14,7/23/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,14,0.47,60.9,0.071,0.063,88.5,Adult
+SY-59,POORMAN C AB ANCHO ERIE MINE DRAIN NR WASHINGTON,3.92515E+14,7/31/2002,Environmental,NP,Banana slugs,Gastropoda,Ariolimacidae,3,47.18,84.4,0.009,0.0031,36.1,ND
+SY-59,POORMAN C AB ANCHO ERIE MINE DRAIN NR WASHINGTON,3.92515E+14,7/31/2002,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,4,3.37,76.5,0.063,0.0353,56,Immature
+SY-59,POORMAN C AB ANCHO ERIE MINE DRAIN NR WASHINGTON,3.92515E+14,7/31/2002,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,4,1.39,72.1,0.061,0.048,78.9,Immature
+SY-59,POORMAN C AB ANCHO ERIE MINE DRAIN NR WASHINGTON,3.92515E+14,7/31/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.51,66.1,0.18,0.0783,43.5,Adult
+SY-08,SCOTCHMAN C A THE FALLS NR WASHINGTON CA,3.92116E+14,9/2/1999,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,1,0.85,81.7,ND,0.0547,ND,Immature
+SY-08,SCOTCHMAN C A THE FALLS NR WASHINGTON CA,3.92116E+14,7/29/2002,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,4,2.45,76.7,0.095,0.092,97.3,Immature
+SY-08,SCOTCHMAN C A THE FALLS NR WASHINGTON CA,3.92116E+14,9/2/1999,Environmental,NP,Spiketail Dragonflies,Odonata,Cordulegastridae,5,2.43,77.1,ND,0.0449,ND,Immature
+SY-08,SCOTCHMAN C A THE FALLS NR WASHINGTON CA,3.92116E+14,7/29/2002,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,2,2.01,76.4,0.046,0.0455,99.5,Immature
+SY-08,SCOTCHMAN C A THE FALLS NR WASHINGTON CA,3.92116E+14,7/29/2002,Environmental,NP,Spiketail Dragonflies,Odonata,Cordulegastridae,4,2.31,78.7,0.046,0.0426,92.2,Immature
+SY-08,SCOTCHMAN C A THE FALLS NR WASHINGTON CA,3.92116E+14,9/2/1999,Environmental,NP,Giant water bugs,Hemiptera,Belostomatidae,1,3.27,70.5,0.267,0.159,59.6,Adult
+SY-08,SCOTCHMAN C A THE FALLS NR WASHINGTON CA,3.92116E+14,9/2/1999,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,14,3.39,69.7,ND,0.0688,ND,Immature
+SY-08,SCOTCHMAN C A THE FALLS NR WASHINGTON CA,3.92116E+14,7/29/2002,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,8,1.79,69.4,0.065,0.0367,56.6,Immature
+SY-08,SCOTCHMAN C A THE FALLS NR WASHINGTON CA,3.92116E+14,7/29/2002,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,8,1.09,72.7,0.072,0.0317,44.1,Immature
+SY-08,SCOTCHMAN C A THE FALLS NR WASHINGTON CA,3.92116E+14,9/2/1999,Environmental,NP,Water striders,Hemiptera,Gerridae,32,1.81,63.8,0.083,0.1097,132.9,Adult
+SY-08,SCOTCHMAN C A THE FALLS NR WASHINGTON CA,3.92116E+14,7/29/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.46,66.2,0.091,0.0848,93,Adult
+TR-01,EF TRINITY R A HORSE HEAVEN MDW NR MT SHASTA CA,4.10928E+14,8/14/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.18,68.8,0.042,0.0337,80.6,Adult
+TR-10,EASTMAN GULCH NR LEWISTON CA,4.0452E+14,7/18/2000,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,1,1.02,70.9,ND,0.0646,ND,Immature
+TR-10,EASTMAN GULCH NR LEWISTON CA,4.0452E+14,7/18/2000,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,1,0.68,81.7,ND,0.0871,ND,Immature
+TR-10,EASTMAN GULCH NR LEWISTON CA,4.0452E+14,7/18/2000,Environmental,NP,Spiketail Dragonflies,Odonata,Cordulegastridae,3,2.09,91.1,0.033,0.036,109,Immature
+TR-10,EASTMAN GULCH NR LEWISTON CA,4.0452E+14,7/18/2000,Environmental,NP,Clubtail Dragonflies,Odonata,Gomphidae,10,1.97,75.5,ND,0.0943,ND,Immature
+TR-10,EASTMAN GULCH NR LEWISTON CA,4.0452E+14,7/18/2000,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,11,1.06,70.7,ND,0.0289,ND,Immature
+TR-10,EASTMAN GULCH NR LEWISTON CA,4.0452E+14,7/18/2000,Environmental,NP,Water striders,Hemiptera,Gerridae,26,1.74,66.4,0.079,0.0692,87.6,Adult
+TR-11,TRINITY R A BIG FLAT DAY USE AREA NR BIG BAR CA,4.04427E+14,8/27/2002,Environmental,NP,Clubtail Dragonflies,Odonata,Gomphidae,4,1.14,80.9,0.052,0.0325,62.3,Immature
+TR-11,TRINITY R A BIG FLAT DAY USE AREA NR BIG BAR CA,4.04427E+14,8/27/2002,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,7,1.67,73,0.024,0.0175,73.9,Immature
+TR-11,TRINITY R A BIG FLAT DAY USE AREA NR BIG BAR CA,4.04427E+14,8/27/2002,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,11,1.43,73,0.023,0.0214,93,Immature
+TR-11,TRINITY R A BIG FLAT DAY USE AREA NR BIG BAR CA,4.04427E+14,8/27/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.32,60.4,0.055,0.0491,89.9,Adult
+TR-12,TRINITY R A HAYDEN FLAT NR BIG BAR CA,4.04656E+14,8/27/2002,Environmental,NP,Clubtail Dragonflies,Odonata,Gomphidae,6,1.61,77.7,0.025,0.0294,115.8,Immature
+TR-12,TRINITY R A HAYDEN FLAT NR BIG BAR CA,4.04656E+14,8/27/2002,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,9,3.34,70.4,0.028,0.0231,83,Immature
+TR-12,TRINITY R A HAYDEN FLAT NR BIG BAR CA,4.04656E+14,8/27/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.36,59.6,0.045,0.0412,91.1,Adult
+TR-13,CANYON C BL CONRAD GULCH NR JUNCTION CITY CA,4.04723E+14,8/27/2002,Environmental,NP,Clubtail Dragonflies,Odonata,Gomphidae,10,2.13,78.6,0.018,0.0096,54.2,Immature
+TR-13,CANYON C BL CONRAD GULCH NR JUNCTION CITY CA,4.04723E+14,8/27/2002,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,8,1.23,75.8,0.061,0.0499,81.4,Immature
+TR-13,CANYON C BL CONRAD GULCH NR JUNCTION CITY CA,4.04723E+14,8/27/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.61,58.6,0.056,0.0513,91.2,Adult
+TR-13,CANYON C BL CONRAD GULCH NR JUNCTION CITY CA,4.04723E+14,8/27/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.45,62.6,0.046,0.043,94.3,Adult
+TR-14,EF OF NF TRINITY R .53 MI AB BARNEY GULCH,4.0494E+14,8/27/2002,Environmental,NP,Clubtail Dragonflies,Odonata,Gomphidae,8,1.75,77.3,0.147,0.0163,11.1,Immature
+TR-14,EF OF NF TRINITY R .53 MI AB BARNEY GULCH,4.0494E+14,8/27/2002,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,15,1.57,77,0.056,0.0405,72.7,Immature
+TR-14,EF OF NF TRINITY R .53 MI AB BARNEY GULCH,4.0494E+14,8/27/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.31,64.4,0.057,0.0513,89.4,Adult
+TR-15,NEW R A DENNY CAMPGROUND NR DENNY CA,4.05557E+14,8/26/2002,Environmental,NP,Clubtail Dragonflies,Odonata,Gomphidae,8,1.8,78.1,0.019,0.0207,110.7,Immature
+TR-15,NEW R A DENNY CAMPGROUND NR DENNY CA,4.05557E+14,8/26/2002,Environmental,NP,Clubtail Dragonflies,Odonata,Gomphidae,10,0.85,76.8,0.029,0.0306,106.5,Immature
+TR-15,NEW R A DENNY CAMPGROUND NR DENNY CA,4.05557E+14,8/26/2002,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,6,1.16,71.2,0.036,0.0354,99.2,Immature
+TR-15,NEW R A DENNY CAMPGROUND NR DENNY CA,4.05557E+14,8/26/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.33,61.5,0.05,0.0447,89.2,Adult
+TR-16,EASTMAN DREDGE POND NO 3 NR LEWISTON CA,4.04516E+14,7/18/2000,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,4,0.88,98.7,ND,0.0012,ND,Immature
+TR-16,EASTMAN DREDGE POND NO 3 NR LEWISTON CA,4.04516E+14,7/18/2000,Environmental,NP,Water striders,Hemiptera,Gerridae,27,1.54,66.1,ND,0.0441,ND,Adult
+TR-17,EASTMAN DREDGE POND NO 2 NR LEWISTON CA,4.04509E+14,10/23/2000,Environmental,NP,Skimmer Dragonflies,Odonata,Libellulidae,10,2.49,86.7,0.019,0.0108,56.9,Immature
+TR-18,BOLTS HILL MINE TUNNEL INLET NR LEWISTON CA,4.04515E+14,7/18/2000,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,1,0.77,87.5,ND,0.0161,ND,Immature
+TR-18,BOLTS HILL MINE TUNNEL INLET NR LEWISTON CA,4.04515E+14,7/18/2000,Environmental,NP,Spiketail Dragonflies,Odonata,Cordulegastridae,1,1.1,86.8,ND,0.0235,ND,Immature
+TR-18,BOLTS HILL MINE TUNNEL INLET NR LEWISTON CA,4.04515E+14,7/18/2000,Environmental,NP,Predaceous diving beetles,Coleoptera,Dytiscidae,23,1.34,55,0.057,0.0608,106.6,Adult
+TR-19,BOLTS HILL MINE TUNNEL OUTLET NR LEWISTON CA,4.045E+14,7/18/2000,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,1,0.75,75.4,ND,0.0448,ND,Immature
+TR-19,BOLTS HILL MINE TUNNEL OUTLET NR LEWISTON CA,4.045E+14,10/23/2000,Environmental,NP,Spiketail Dragonflies,Odonata,Cordulegastridae,2,1.52,89.6,ND,0.0241,ND,Immature
+TR-19,BOLTS HILL MINE TUNNEL OUTLET NR LEWISTON CA,4.045E+14,10/23/2000,Environmental,NP,Clubtail Dragonflies,Odonata,Gomphidae,8,2.06,78.3,0.048,0.0432,90,Immature
+TR-19,BOLTS HILL MINE TUNNEL OUTLET NR LEWISTON CA,4.045E+14,10/23/2000,Environmental,NP,Predaceous diving beetles,Coleoptera,Dytiscidae,34,0.77,55.9,ND,0.3109,ND,Adult
+TR-19,BOLTS HILL MINE TUNNEL OUTLET NR LEWISTON CA,4.045E+14,7/18/2000,Environmental,NP,Water striders,Hemiptera,Gerridae,12,0.72,59.5,ND,0.0599,ND,Adult
+TR-19,BOLTS HILL MINE TUNNEL OUTLET NR LEWISTON CA,4.045E+14,10/23/2000,Environmental,NP,Water striders,Hemiptera,Gerridae,20,1.11,71.4,ND,0.0575,ND,Adult
+TR-02,TAMARACK C A EF TRINITY R NR MT SHASTA CA,4.10916E+14,8/14/2002,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,3,1.8,75.8,0.02,0.0108,52.6,Immature
+TR-02,TAMARACK C A EF TRINITY R NR MT SHASTA CA,4.10916E+14,9/6/2001,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,10,1.33,74.3,0.015,0.0127,83.5,Immature
+TR-02,TAMARACK C A EF TRINITY R NR MT SHASTA CA,4.10916E+14,8/14/2002,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,9,1.21,69.2,0.02,0.0152,76.9,Immature
+TR-02,TAMARACK C A EF TRINITY R NR MT SHASTA CA,4.10916E+14,9/6/2001,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.28,65.3,0.021,0.02,94.6,Adult
+TR-02,TAMARACK C A EF TRINITY R NR MT SHASTA CA,4.10916E+14,8/14/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,19,1.06,66.3,0.041,0.0374,91.7,Adult
+TR-20,BOLTS HILL MINE TUNNEL MIDPOINT NR LEWISTON CA,4.04507E+14,7/18/2000,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,1,0.9,72.1,ND,0.0552,ND,Immature
+TR-20,BOLTS HILL MINE TUNNEL MIDPOINT NR LEWISTON CA,4.04507E+14,7/18/2000,Environmental,NP,Spiketail Dragonflies,Odonata,Cordulegastridae,1,1.07,92.7,ND,0.0157,ND,Immature
+TR-20,BOLTS HILL MINE TUNNEL MIDPOINT NR LEWISTON CA,4.04507E+14,7/18/2000,Environmental,NP,Predaceous diving beetles,Coleoptera,Dytiscidae,36,2.06,58.5,ND,0.0494,ND,Adult
+TR-20,BOLTS HILL MINE TUNNEL MIDPOINT NR LEWISTON CA,4.04507E+14,7/18/2000,Environmental,NP,Predaceous diving beetles,Coleoptera,Dytiscidae,13,0.75,47.8,ND,0.0814,ND,Adult
+TR-20,BOLTS HILL MINE TUNNEL MIDPOINT NR LEWISTON CA,4.04507E+14,7/18/2000,Environmental,NP,Water striders,Hemiptera,Gerridae,26,1.57,65.7,ND,0.0607,ND,Adult
+TR-21,UNION HILL POND NR DOUGLAS CITY CA,4.03929E+14,10/24/2000,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,2,1.03,83.9,ND,0.0391,ND,Immature
+TR-21,UNION HILL POND NR DOUGLAS CITY CA,4.03929E+14,10/24/2000,Environmental,NP,Skimmer Dragonflies,Odonata,Libellulidae,6,1.58,85.5,ND,0.0299,ND,Immature
+TR-22,UNION HILL GULCH NR DOUGLAS CITY CA,4.03927E+14,10/25/2000,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,3,2.05,80.1,ND,0.0494,ND,Immature
+TR-22,UNION HILL GULCH NR DOUGLAS CITY CA,4.03927E+14,10/25/2000,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,3,2.07,75.5,ND,0.0466,ND,Immature
+TR-22,UNION HILL GULCH NR DOUGLAS CITY CA,4.03927E+14,10/25/2000,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,6,1.26,82.2,ND,0.0276,ND,Immature
+TR-22,UNION HILL GULCH NR DOUGLAS CITY CA,4.03927E+14,10/25/2000,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,9,1.47,82.9,ND,0.0255,ND,Immature
+TR-23,POISON GULCH POND NR WEAVERVILLE CA,4.0441E+14,10/24/2000,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,5,3.71,84.8,0.012,0.0116,96.6,Immature
+TR-24,SLATTERY POND NR WEAVERVILLE CA,4.04402E+14,10/24/2000,Environmental,NP,Skimmer Dragonflies,Odonata,Libellulidae,5,2.14,80.8,ND,0.0114,ND,Immature
+TR-24,SLATTERY POND NR WEAVERVILLE CA,4.04402E+14,10/24/2000,Environmental,NP,Skimmer Dragonflies,Odonata,Libellulidae,4,2.22,87.3,ND,0.0063,ND,Immature
+TR-25,HAS MINE TUNNEL INLET NR JUNCTION CITY CA,4.04345E+14,10/24/2000,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,3,1.33,79.4,0.043,0.0515,119.8,Immature
+TR-26,HOCKER FLAT MINE TUNNEL OUTLET NR JUNCTION CITY CA,4.045E+14,10/24/2000,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,4,3.53,75.4,0.035,0.02,57.1,Immature
+TR-26,HOCKER FLAT MINE TUNNEL OUTLET NR JUNCTION CITY CA,4.045E+14,10/24/2000,Environmental,NP,Spiketail Dragonflies,Odonata,Cordulegastridae,1,0.64,84.1,ND,0.0164,ND,Immature
+TR-26,HOCKER FLAT MINE TUNNEL OUTLET NR JUNCTION CITY CA,4.045E+14,10/24/2000,Environmental,NP,Clubtail Dragonflies,Odonata,Gomphidae,5,0.85,73,ND,0.0217,ND,Immature
+TR-26,HOCKER FLAT MINE TUNNEL OUTLET NR JUNCTION CITY CA,4.045E+14,10/24/2000,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,8,1.78,92,0.01,0.0098,97.6,Immature
+TR-27,TRINITY R A E SIDE RD BR NR CARRVILLE CA,4.10311E+14,10/25/2000,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,4,1.05,78.8,ND,0.0888,ND,Immature
+TR-27,TRINITY R A E SIDE RD BR NR CARRVILLE CA,4.10311E+14,10/25/2000,Environmental,NP,Spiketail Dragonflies,Odonata,Cordulegastridae,2,1.76,85.9,0.038,0.0484,127.3,Immature
+TR-27,TRINITY R A E SIDE RD BR NR CARRVILLE CA,4.10311E+14,10/25/2000,Environmental,NP,Clubtail Dragonflies,Odonata,Gomphidae,6,1.64,72.3,ND,0.0801,ND,Immature
+TR-27,TRINITY R A E SIDE RD BR NR CARRVILLE CA,4.10311E+14,10/25/2000,Environmental,NP,Clubtail Dragonflies,Odonata,Gomphidae,7,1.86,70.4,ND,0.0835,ND,Immature
+TR-27,TRINITY R A E SIDE RD BR NR CARRVILLE CA,4.10311E+14,10/25/2000,Environmental,NP,Predaceous diving beetles,Coleoptera,Dytiscidae,15,1,55.8,ND,0.0959,ND,Adult
+TR-27,TRINITY R A E SIDE RD BR NR CARRVILLE CA,4.10311E+14,10/25/2000,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,10,1.19,71.6,ND,0.0164,ND,Immature
+TR-28,CARRVILLE POND NR CARRVILLE CA,4.10311E+14,10/25/2000,Environmental,NP,Clubtail Dragonflies,Odonata,Gomphidae,3,1.34,75.8,ND,0.053,ND,Immature
+TR-29,COFFEE C A HWY 3 NR CARRVILLE CA,4.10502E+14,7/19/2000,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,3,1.98,73.3,ND,0.012,ND,Immature
+TR-29,COFFEE C A HWY 3 NR CARRVILLE CA,4.10502E+14,7/19/2000,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,3,1.58,70.9,ND,0.0184,ND,Immature
+TR-29,COFFEE C A HWY 3 NR CARRVILLE CA,4.10502E+14,7/19/2000,Environmental,NP,Water striders,Hemiptera,Gerridae,30,1.68,74.7,ND,0.019,ND,Adult
+TR-03,CROW C AB CONFLUENCE OF EF TRINITY R NR TRINITY CE,4.1074E+14,8/13/2002,Environmental,NP,Spiketail Dragonflies,Odonata,Cordulegastridae,2,2.31,80.9,0.094,0.0735,78.4,Immature
+TR-03,CROW C AB CONFLUENCE OF EF TRINITY R NR TRINITY CE,4.1074E+14,8/13/2002,Environmental,NP,Spiketail Dragonflies,Odonata,Cordulegastridae,2,1.2,72.5,0.115,0.093,80.7,Immature
+TR-03,CROW C AB CONFLUENCE OF EF TRINITY R NR TRINITY CE,4.1074E+14,8/13/2002,Environmental,NP,Clubtail Dragonflies,Odonata,Gomphidae,3,0.63,74.8,0.117,0.0854,73.2,Immature
+TR-03,CROW C AB CONFLUENCE OF EF TRINITY R NR TRINITY CE,4.1074E+14,9/6/2001,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,10,1.33,70.4,0.041,0.0274,66.1,Immature
+TR-03,CROW C AB CONFLUENCE OF EF TRINITY R NR TRINITY CE,4.1074E+14,8/13/2002,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,10,1.17,69.8,0.04,0.0314,78.8,Immature
+TR-03,CROW C AB CONFLUENCE OF EF TRINITY R NR TRINITY CE,4.1074E+14,9/6/2001,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.52,64.8,0.119,0.1017,85.5,Adult
+TR-03,CROW C AB CONFLUENCE OF EF TRINITY R NR TRINITY CE,4.1074E+14,8/13/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.38,67.3,0.118,0.123,104.2,Adult
+TR-30,TRINITY R AB COFFEE C NR TRINITY CENTER CA,11523200,7/19/2000,Environmental,NP,Spiketail Dragonflies,Odonata,Cordulegastridae,1,1.09,78.1,ND,0.023,ND,Immature
+TR-30,TRINITY R AB COFFEE C NR TRINITY CENTER CA,11523200,7/19/2000,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,17,0.86,98.6,ND,0.0011,ND,Immature
+TR-30,TRINITY R AB COFFEE C NR TRINITY CENTER CA,11523200,7/19/2000,Environmental,NP,Water striders,Hemiptera,Gerridae,23,1.64,84,ND,0.0282,ND,Adult
+TR-04,EF TRINITY R US ALTOONA MINE DRAIN NR CASTELLA CA,4.10736E+14,7/19/2000,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,2,0.66,92.3,ND,0.0174,ND,Immature
+TR-04,EF TRINITY R US ALTOONA MINE DRAIN NR CASTELLA CA,4.10736E+14,8/13/2002,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,1,1.08,73.4,0.118,0.0609,51.6,Immature
+TR-04,EF TRINITY R US ALTOONA MINE DRAIN NR CASTELLA CA,4.10736E+14,8/13/2002,Environmental,NP,Spiketail Dragonflies,Odonata,Cordulegastridae,2,1.47,83,0.099,0.0711,71.5,Immature
+TR-04,EF TRINITY R US ALTOONA MINE DRAIN NR CASTELLA CA,4.10736E+14,8/13/2002,Environmental,NP,Clubtail Dragonflies,Odonata,Gomphidae,2,0.52,76.2,0.243,0.1428,58.8,Immature
+TR-04,EF TRINITY R US ALTOONA MINE DRAIN NR CASTELLA CA,4.10736E+14,7/19/2000,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,12,1.09,72.9,ND,0.0496,ND,Immature
+TR-04,EF TRINITY R US ALTOONA MINE DRAIN NR CASTELLA CA,4.10736E+14,9/4/2001,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,13,1.01,76.9,0.06,0.0467,78,Immature
+TR-04,EF TRINITY R US ALTOONA MINE DRAIN NR CASTELLA CA,4.10736E+14,8/13/2002,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,12,1.11,74.2,0.061,0.0433,70.9,Immature
+TR-04,EF TRINITY R US ALTOONA MINE DRAIN NR CASTELLA CA,4.10736E+14,7/19/2000,Environmental,NP,Water striders,Hemiptera,Gerridae,24,1.56,92,ND,0.0242,ND,Adult
+TR-04,EF TRINITY R US ALTOONA MINE DRAIN NR CASTELLA CA,4.10736E+14,9/4/2001,Environmental,NP,Water striders,Hemiptera,Gerridae,24,1.42,67.3,0.105,0.0974,92.5,Adult
+TR-04,EF TRINITY R US ALTOONA MINE DRAIN NR CASTELLA CA,4.10736E+14,8/13/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.38,71.1,0.102,0.0948,92.7,Adult
+TR-05,ALTOONA MINE DR A EF TRINITY R NR TRINITY CENTER,4.10734E+14,8/13/2002,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,2,1.7,74.4,0.479,0.2637,55.1,Immature
+TR-05,ALTOONA MINE DR A EF TRINITY R NR TRINITY CENTER,4.10734E+14,8/13/2002,Environmental,NP,Spiketail Dragonflies,Odonata,Cordulegastridae,2,1.5,75.3,0.541,0.2643,48.9,Immature
+TR-05,ALTOONA MINE DR A EF TRINITY R NR TRINITY CENTER,4.10734E+14,9/4/2001,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.5,57.6,0.273,0.2459,89.9,Adult
+TR-05,ALTOONA MINE DR A EF TRINITY R NR TRINITY CENTER,4.10734E+14,8/13/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.61,57.7,0.55,0.4949,90,Adult
+TR-05,ALTOONA MINE DR A EF TRINITY R NR TRINITY CENTER,4.10734E+14,8/13/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.61,62.6,0.531,0.4114,77.5,Adult
+TR-06,EF TRINITY R BL ALTOONA MINE DR NR TRINITY CENTER,4.10731E+14,8/13/2002,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,4,1.59,78.1,0.111,0.0462,41.6,Immature
+TR-06,EF TRINITY R BL ALTOONA MINE DR NR TRINITY CENTER,4.10731E+14,7/19/2000,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,13,1.18,75,ND,0.0588,ND,Immature
+TR-06,EF TRINITY R BL ALTOONA MINE DR NR TRINITY CENTER,4.10731E+14,9/4/2001,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,13,1.33,74.6,0.076,0.0396,51.8,Immature
+TR-06,EF TRINITY R BL ALTOONA MINE DR NR TRINITY CENTER,4.10731E+14,9/4/2001,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,13,0.92,73.7,0.077,0.0537,69.9,Immature
+TR-06,EF TRINITY R BL ALTOONA MINE DR NR TRINITY CENTER,4.10731E+14,8/13/2002,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,12,1.28,71.8,0.083,0.0584,70.6,Immature
+TR-06,EF TRINITY R BL ALTOONA MINE DR NR TRINITY CENTER,4.10731E+14,7/19/2000,Environmental,NP,Water striders,Hemiptera,Gerridae,24,1.8,67.2,0.106,0.1082,102.1,Adult
+TR-06,EF TRINITY R BL ALTOONA MINE DR NR TRINITY CENTER,4.10731E+14,9/4/2001,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.23,70.5,0.093,0.0563,60.4,Adult
+TR-06,EF TRINITY R BL ALTOONA MINE DR NR TRINITY CENTER,4.10731E+14,8/13/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.36,67.4,0.176,0.1653,94.1,Adult
+TR-07,ALTOONA MINE WETLANDS NR TRINITY CENTER CA,4.00502E+14,7/19/2000,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,4,3.01,93,0.12,0.0212,17.7,Immature
+TR-07,ALTOONA MINE WETLANDS NR TRINITY CENTER CA,4.00502E+14,9/4/2001,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,10,3.02,81.4,1.058,0.0671,6.3,Immature
+TR-07,ALTOONA MINE WETLANDS NR TRINITY CENTER CA,4.00502E+14,9/4/2001,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,10,1.77,85.5,5.439,0.2797,5.1,Immature
+TR-07,ALTOONA MINE WETLANDS NR TRINITY CENTER CA,4.00502E+14,8/13/2002,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,6,2.3,84.4,1.778,0.0644,3.6,Immature
+TR-07,ALTOONA MINE WETLANDS NR TRINITY CENTER CA,4.00502E+14,8/13/2002,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,4,2.73,87.3,1.74,0.0531,3.1,Immature
+TR-07,ALTOONA MINE WETLANDS NR TRINITY CENTER CA,4.00502E+14,8/13/2002,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,3,2.53,80.2,1.319,0.0923,7,Immature
+TR-07,ALTOONA MINE WETLANDS NR TRINITY CENTER CA,4.00502E+14,8/13/2002,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,4,2.59,81.9,1.578,0.0661,4.2,Immature
+TR-07,ALTOONA MINE WETLANDS NR TRINITY CENTER CA,4.00502E+14,7/19/2000,Environmental,NP,Predaceous diving beetles,Coleoptera,Dytiscidae,24,1.26,55.7,ND,0.2609,ND,Adult
+TR-07,ALTOONA MINE WETLANDS NR TRINITY CENTER CA,4.00502E+14,7/19/2000,Environmental,NP,Water striders,Hemiptera,Gerridae,27,1.57,59.6,ND,0.2901,ND,Adult
+TR-07,ALTOONA MINE WETLANDS NR TRINITY CENTER CA,4.00502E+14,9/4/2001,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.38,64.5,0.792,0.4757,60.1,Adult
+TR-07,ALTOONA MINE WETLANDS NR TRINITY CENTER CA,4.00502E+14,8/13/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.36,66.1,0.647,0.4136,63.9,Adult
+TR-08,EF TRINITY R 1.2 MI BL DEVILS C NR TRINITY CENTER,4.10259E+14,8/12/2002,Environmental,NP,Dobsonflies,Megaloptera,Corydalidae,4,1.01,76.8,0.14,0.0756,54.1,Immature
+TR-08,EF TRINITY R 1.2 MI BL DEVILS C NR TRINITY CENTER,4.10259E+14,9/5/2001,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,16,1.05,72.9,0.073,0.071,96.7,Immature
+TR-08,EF TRINITY R 1.2 MI BL DEVILS C NR TRINITY CENTER,4.10259E+14,8/12/2002,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,9,1.02,75.6,0.091,0.0627,68.7,Immature
+TR-08,EF TRINITY R 1.2 MI BL DEVILS C NR TRINITY CENTER,4.10259E+14,8/12/2002,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,10,0.63,74,0.082,0.0606,73.5,Immature
+TR-08,EF TRINITY R 1.2 MI BL DEVILS C NR TRINITY CENTER,4.10259E+14,9/5/2001,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.22,69.5,0.08,0.0897,111.8,Adult
+TR-08,EF TRINITY R 1.2 MI BL DEVILS C NR TRINITY CENTER,4.10259E+14,8/12/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.42,66.4,0.093,0.0917,98.2,Adult
+TR-09,EF TRINITY R BL COUNTY RD 106 NR TRINITY CENTER CA,4.10031E+14,8/12/2002,Environmental,NP,Darner Dragonflies,Odonata,Aeshnidae,15,1.25,79.3,0.078,0.0557,71.7,Immature
+TR-09,EF TRINITY R BL COUNTY RD 106 NR TRINITY CENTER CA,4.10031E+14,8/12/2002,Environmental,NP,Clubtail Dragonflies,Odonata,Gomphidae,6,1.05,73.8,0.142,0.0985,69.5,Immature
+TR-09,EF TRINITY R BL COUNTY RD 106 NR TRINITY CENTER CA,4.10031E+14,9/5/2001,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,14,1.6,74.3,0.088,0.0761,86.8,Immature
+TR-09,EF TRINITY R BL COUNTY RD 106 NR TRINITY CENTER CA,4.10031E+14,9/5/2001,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,16,1.2,75.7,0.08,0.0688,86,Immature
+TR-09,EF TRINITY R BL COUNTY RD 106 NR TRINITY CENTER CA,4.10031E+14,8/12/2002,Environmental,NP,Predaceous stonefly,Plecoptera,Perlidae,9,0.83,68.3,0.079,0.0574,72.7,Immature
+TR-09,EF TRINITY R BL COUNTY RD 106 NR TRINITY CENTER CA,4.10031E+14,9/5/2001,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.55,64.4,0.081,0.0616,76.2,Adult
+TR-09,EF TRINITY R BL COUNTY RD 106 NR TRINITY CENTER CA,4.10031E+14,9/5/2001,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.42,63.4,0.085,0.0765,89.7,Adult
+TR-09,EF TRINITY R BL COUNTY RD 106 NR TRINITY CENTER CA,4.10031E+14,8/12/2002,Environmental,NP,Water striders,Hemiptera,Gerridae,25,1.4,69.3,0.107,0.0933,86.9,Adult

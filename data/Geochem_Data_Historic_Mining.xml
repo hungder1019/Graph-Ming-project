@@ -1,0 +1,558 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Charles N. Alpers</origin>
+        <origin>James L. Orlando</origin>
+        <origin>Shanna L. Miller</origin>
+        <origin>Rodger L. Hothem</origin>
+        <origin>Elizabeth B. Stumpner</origin>
+        <origin>Brianne E. Brussee</origin>
+        <origin>Michael P. Hunerlach</origin>
+        <origin>Jason T. May</origin>
+        <origin>Peter D. Dileanis</origin>
+        <origin>Howard E. Taylor</origin>
+        <origin>Ronald C. Antweiler</origin>
+        <origin>John F. DeWild</origin>
+        <origin>Mark C. Marvin-DiPasquale</origin>
+        <pubdate>20240117</pubdate>
+        <title>Geochemical data for water, sediment, and biota in areas affected by historical mining, northwestern Sierra Nevada and Trinity Mountains, California</title>
+        <geoform>spreadsheet</geoform>
+        <onlink>https://doi.org/10.5066/P9EL0UN9</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This dataset includes data for water, sediment, and biota samples collected at 250 locations in the northwestern Sierra Nevada and the Trinity Mountains during 1999–2012. The locations were chosen to assess potential effects from historical mining, with a focus primarily on mercury contamination associated with placer gold mines in the Sierra Nevada and the Trinity Mountains, and a hard-rock mercury mine in the Trinity Mountains. Trace elements and major elements were analyzed in selected samples. All analyses of mercury, methylmercury, and (or) trace and major elements in water and sediment were performed by U.S. Geological Survey laboratories. Biota samples (invertebrates, fish, and frogs) were analyzed for mercury, methylmercury and (or) trace elements at the Trace Element Research Laboratory in College Station, Texas.</abstract>
+      <purpose>The purpose of this study is to provide information to other agencies, primarily the Bureau of Land Management (BLM) and the U.S. Forest Service (USFS), so that potential mine remediation sites can be identified and prioritized for mine-site remediation. In addition to investigating federal lands managed by the BLM and USFS, the USGS performed work during 1999–2012 to assess mercury and metal contamination in other mining-affected areas in cooperation with the California Department of Water Resources (American River watershed), the California State Water Resources Control Board (Bear River watershed), the Nevada County Resource Conservation District (Bear River watershed), and the CALFED Bay-Delta Program (Yuba River watershed). Non-federal funding sources were augmented with contributions from the USGS Cooperative Water Program.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>19990331</begdate>
+          <enddate>20121115</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <descgeog>Trinity and Northern Sierra Nevada mountains in California, United States</descgeog>
+      <bounding>
+        <westbc>-123.7939</westbc>
+        <eastbc>-119.3994</eastbc>
+        <northbc>41.5086</northbc>
+        <southbc>37.2653</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>geoscientificInformation</themekey>
+        <themekey>biota</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>mercury contamination</themekey>
+        <themekey>chemical analysis</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:5f91e00782ce720ee2d33c5b</themekey>
+      </theme>
+      <place>
+        <placekt>Common geographic areas</placekt>
+        <placekey>California</placekey>
+      </place>
+    </keywords>
+    <accconst>None.  Please see 'Distribution Info' for details.</accconst>
+    <useconst>None.  Users are advised to read the dataset's metadata thoroughly to understand appropriate use and data limitations.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>James Orlando</cntper>
+          <cntorg>U.S. Geological Survey, SOUTHWEST REGION</cntorg>
+        </cntperp>
+        <cntpos>Hydrologist</cntpos>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>6000 J Street Placer Hall</address>
+          <city>Sacramento</city>
+          <state>CA</state>
+          <postal>95819</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>916-278-3271</cntvoice>
+        <cntfax>916-278-3070</cntfax>
+        <cntemail>jorlando@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>California Department of Water Resources, California State Water Resources Control Board, Nevada County Resource Conservation District, CALFED Bay-Delta Program, U.S. Bureau of Land Management, U.S. Forest Service</datacred>
+    <native>Microsoft® Excel® for Microsoft 365 MSO (Version 2302 Build 16.0.16130.20690) 32-bit</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>No formal attribute accuracy tests were conducted.</attraccr>
+    </attracc>
+    <logic>All values fall within expected ranges and the data have been evaluated for duplication and missing results.</logic>
+    <complete>Data set is considered complete for the information presented, as described in the abstract. Users are advised to read the rest of the metadata record carefully for additional details.</complete>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Charles N. Alpers</origin>
+            <origin>Michael P. Hunerlach</origin>
+            <origin>Jason T. May</origin>
+            <origin>Rodger L. Hothem</origin>
+            <origin>Howard E. Taylor</origin>
+            <origin>Ronald C. Antweiler</origin>
+            <origin>John F. DeWild</origin>
+            <origin>David A. Lawler</origin>
+            <pubdate>20050101</pubdate>
+            <title>Geochemical characterization of water, sediment, and biota affected by mercury contamination and acidic drainage from historical gold mining, Greenhorn Creek, Nevada County, California, 1999-2001</title>
+            <geoform>publication</geoform>
+            <onlink>https://pubs.usgs.gov/publication/sir20045251</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>19990331</begdate>
+              <enddate>20011221</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Geochemical characterization of water, sediment, and biota affected by mercury contamination and acidic drainage from historical gold mining, Greenhorn Creek, Nevada County, California, 1999-2001</srccitea>
+        <srccontr>Mercury and methylmercury data for water samples.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Elizabeth B. Stumpner</origin>
+            <origin>Charles N. Alpers</origin>
+            <origin>Mark C. Marvin-DiPasquale</origin>
+            <origin>Jennifer L. Agee</origin>
+            <origin>Evangelos Kakouros</origin>
+            <origin>Michelle R. Arias</origin>
+            <origin>Le H. Kieu</origin>
+            <origin>David A. Roth</origin>
+            <origin>Darrell G. Slotton</origin>
+            <origin>Jacob A. Fleck</origin>
+            <pubdate>20180101</pubdate>
+            <title>Geochemical data for water, streambed sediment, and fish tissue from the Sierra Nevada Mercury Impairment Project, 2011–12</title>
+            <geoform>publication</geoform>
+            <onlink>https://pubs.usgs.gov/publication/ds1056</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>20110907</begdate>
+              <enddate>20121115</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Geochemical data for water, streambed sediment, and fish tissue from the Sierra Nevada Mercury Impairment Project, 2011–12</srccitea>
+        <srccontr>Mercury and methylmercury data for water samples.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Field Collection and sample processing: Water, sediment and biota samples were collected and processed as part of several separate research studies. Procedures and methods are described in the following publications.
+
+Alpers, C.N., Hunerlach, M.P., May, J.T., Hothem, R.L., Taylor, H.E., Antweiler, R.C., DeWild, J.F., and Lawler, D.A., 2004, Geochemical Characterization of Water, Sediment, and Biota Affected by Mercury Contamination and Acidic Drainage from historical Gold Mining, Greenhorn Creek, Nevada County, California,  1999-2001: U.S. Geological Survey Scientific Investigations Report 2004-5251
+
+May, J.T., Hothem, R.L., and Alpers, C.N., 2005, Mercury Concentrations in Fishes from Select Water Bodies in Trinity County, California, 2000-2002: U.S. Geological Survey Open-File Report 2005-1321, 14 p.
+
+Stumpner, E.B., Alpers, C.N., Marvin-DiPasquale, M., Agee, J.L., Kakouros, E., Arias, M.R., Kieu, L.H., Roth, D.A., Slotton, D.G., and Fleck, J.A., 2018, Geochemical data for water, streambed sediment, and fish tissue from the Sierra Nevada Mercury Impairment Project, 2011–12: U.S. Geological Survey Data Series 1056, 133 p., https://doi.org/10.3133/ds1056</procdesc>
+        <procdate>20121115</procdate>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Charles N Alpers</cntper>
+              <cntorg>U.S. Geological Survey, SOUTHWEST REGION</cntorg>
+            </cntperp>
+            <cntpos>Research Chemist</cntpos>
+            <cntaddr>
+              <addrtype>mailing address</addrtype>
+              <address>6000 J Street Placer Hall</address>
+              <city>Sacramento</city>
+              <state>CA</state>
+              <postal>95819</postal>
+              <country>US</country>
+            </cntaddr>
+            <cntvoice>916-278-3134</cntvoice>
+            <cntfax>916-278-3070</cntfax>
+            <cntemail>cnalpers@usgs.gov</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Laboratory Methods: Laboratory methods for the analysis of mercury, methylmercury and trace elements are described in the following publications.
+
+DeWild, J.F., Olund, S.D., Olson, M.L. and Tate, M.T., 2004. Methods for the preparation and analysis of solids and suspended solids for methylmercury. US Geological Survey Techniques and Methods, 5-A7., https://doi.org/10.3133/tm5A7
+
+Garbarino, J.R., and Taylor, H.E., 1976, Inductively-coupled plasma-mass spectrometric method for the determination of dissolved trace elements in natural water: U.S. Geological Survey Open-File Report 94-358, 88 p.
+
+USEPA (United States Environmental Protection Agency), 2001. Appendix to Method 1631: Total Mercury in Tissue, Sludge, Sediment, and Soil by Acid Digestion and BrCl Oxidation., https://nepis.epa.gov/Exe/ZyPDF.cgi/40001F6A.PDF?Dockey=40001F6A.PDF
+
+USEPA (United States Environmental Protection Agency), 2002, Method 1631, Revision E: Mercury in water by oxidation, purge and trap, and cold vapor atomic fluorescence spectrometry: U.S. Environmental Protection Agency, Office of Water, EPA-821-R-02-019, Washington D.C., 36 p.</procdesc>
+        <procdate>20121115</procdate>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Charles N Alpers</cntper>
+              <cntorg>U.S. Geological Survey, SOUTHWEST REGION</cntorg>
+            </cntperp>
+            <cntpos>Research Chemist</cntpos>
+            <cntaddr>
+              <addrtype>mailing address</addrtype>
+              <address>6000 J Street Placer Hall</address>
+              <city>Sacramento</city>
+              <state>CA</state>
+              <postal>95819</postal>
+              <country>US</country>
+            </cntaddr>
+            <cntvoice>916-278-3134</cntvoice>
+            <cntfax>916-278-3070</cntfax>
+            <cntemail>cnalpers@usgs.gov</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Data were compiled from various spreadsheets and existing publications and  entered into Microsoft Excel. All final tables were formatted and calculations made within Microsoft Excel. Geometric mean mercury and methylmercury, and normalized mercury values were calculated for each sample type (water, sediment, and biota) and sampling location, following procedures described in the following publication; Alpers, C.N., Hunerlach, M.P., May, J.T., Hothem, R.L., Taylor, H.E., Antweiler, R.C., DeWild, J.F., and Lawler, D.A., 2004, Geochemical Characterization of Water, Sediment, and Biota Affected by Mercury Contamination and Acidic Drainage from historical Gold Mining, Greenhorn Creek, Nevada County, California,  1999-2001: U.S. Geological Survey Scientific Investigations Report 2004-5251.</procdesc>
+        <procdate>20230623</procdate>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>James Orlando</cntper>
+              <cntorg>U.S. Geological Survey, SOUTHWEST REGION</cntorg>
+            </cntperp>
+            <cntpos>Hydrologist</cntpos>
+            <cntaddr>
+              <addrtype>mailing address</addrtype>
+              <address>6000 J Street Placer Hall</address>
+              <city>Sacramento</city>
+              <state>CA</state>
+              <postal>95819</postal>
+              <country>US</country>
+            </cntaddr>
+            <cntvoice>916-278-3271</cntvoice>
+            <cntfax>916-278-3070</cntfax>
+            <cntemail>jorlando@usgs.gov</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>T1_Data_Dictionary.csv</enttypl>
+        <enttypd>This table defines all terms for all data tables (Tables 2-15) in this data release.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Table 1, columns 1-6</attrlabl>
+        <attrdef>Column headers corresponding to: Table No., Table Name, Table Column, Column Heading, Column Description, Extended Description</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>Column headers corresponding to: Table No., Table Name, Table Column, Column Heading, Column Description, Extended Description,</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>T2_Study_Sites.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing data.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Table 2, columns 1- 6</attrlabl>
+        <attrdef>All terms are defined in data dictionary (Table 1).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>All column headings are defined in the data dictionary for all data tables.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>T3_Water_Mercury.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing data.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Table 3, columns 1 - 15</attrlabl>
+        <attrdef>All terms are defined in data dictionary (Table 1).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>All column headings are defined in the data dictionary for all data tables.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>T3_Water_Mercury.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing data.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Table 4, columns 1 - 12</attrlabl>
+        <attrdef>All terms are defined in data dictionary (Table 1).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>All column headings are defined in the data dictionary for all data tables.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>T5_Invertebrates_Mercury.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing data.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Table 5, columns 1 - 16</attrlabl>
+        <attrdef>All terms are defined in data dictionary (Table 1).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>All column headings are defined in the data dictionary for all data tables.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>T6_Frogs_Mercury.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing data.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Table 6, columns 1 - 16</attrlabl>
+        <attrdef>All terms are defined in data dictionary (Table 1).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>All column headings are defined in the data dictionary for all data tables.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>T7_Fish_Mercury.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing data.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Table 7, columns 1 - 17</attrlabl>
+        <attrdef>All terms are defined in data dictionary (Table 1).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>All column headings are defined in the data dictionary for all data tables.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>T8_Water_FieldParameters.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing data.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Table 8, columns 1 - 15</attrlabl>
+        <attrdef>All terms are defined in data dictionary (Table 1).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>All column headings are defined in the data dictionary for all data tables.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>T9_Water_Isotopes_Nutrients_MajorIons.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing data.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Table 9, columns 1 - 25</attrlabl>
+        <attrdef>All terms are defined in data dictionary (Table 1).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>All column headings are defined in the data dictionary for all data tables.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>T10_Water_TraceElements_Filtered.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing data.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Table 10, columns 1 - 60</attrlabl>
+        <attrdef>All terms are defined in data dictionary (Table 1).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>All column headings are defined in the data dictionary for all data tables.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>T11_Water_TraceElements_Unfiltered.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing data.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Table 11, columns 1 - 62</attrlabl>
+        <attrdef>All terms are defined in data dictionary (Table 1).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>All column headings are defined in the data dictionary for all data tables.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>T12_Sediment_TraceElements.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing data.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Table 12, columns 1 - 58</attrlabl>
+        <attrdef>All terms are defined in data dictionary (Table 1).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>All column headings are defined in the data dictionary for all data tables.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>T13_Invertebrates_TraceElements.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing data.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Table 13, columns 1 - 36</attrlabl>
+        <attrdef>All terms are defined in data dictionary (Table 1).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>All column headings are defined in the data dictionary for all data tables.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>T14_Fish_TraceElements.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing data.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Table 14, columns 1 - 35</attrlabl>
+        <attrdef>All terms are defined in data dictionary (Table 1).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>All column headings are defined in the data dictionary for all data tables.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>T15_GeometricMean_MercuryConcentrations.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing data.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Table 15, columns 1 - 16</attrlabl>
+        <attrdef>All terms are defined in data dictionary (Table 1).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>All column headings are defined in the data dictionary for all data tables.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>T16_Normalized_Mercury_Values.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) file containing data.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Table 16, columns 1 - 9</attrlabl>
+        <attrdef>All terms are defined in data dictionary (Table 1).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>All column headings are defined in the data dictionary for all data tables.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>GS ScienceBase</cntper>
+          <cntorg>U.S. Geological Survey</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data for other purposes, nor on all computer systems, nor shall the act of distribution constitute any such warranty.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Digital Data</formname>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P9EL0UN9</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20240117</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>James Orlando</cntper>
+          <cntorg>U.S. Geological Survey, SOUTHWEST REGION</cntorg>
+        </cntperp>
+        <cntpos>Hydrologist</cntpos>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>6000 J Street Placer Hall</address>
+          <city>Sacramento</city>
+          <state>CA</state>
+          <postal>95819</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>916-278-3271</cntvoice>
+        <cntfax>916-278-3070</cntfax>
+        <cntemail>jorlando@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Biological Data Profile of the Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001.1-1999</metstdv>
+  </metainfo>
+</metadata>
