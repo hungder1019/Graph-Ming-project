@@ -1,2 +1,3 @@
 # Coal-Mines
 
+Goal: procrastinate
