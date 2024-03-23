@@ -1,9 +1,12 @@
 import matplotlib.pyplot as plt
 import numpy as np
+import os
+
+here = os.path.dirname(os.path.abspath(__file__))
 
 #File formate: Name latitude(y) longitude(x)
-New_file = open("Nodes_graph.txt", "r")
-img = plt.imread("Map.png")
+New_file = open(os.path.join(here, "Nodes_graph.txt"), "r")
+img = plt.imread(os.path.join(here, "Map.png"))
 x = []
 y = []
 
