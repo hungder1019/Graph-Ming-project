@@ -20,5 +20,4 @@ plt.scatter(np.array(x), np.array(y))
 plt.show()
 
 print("Done")
-print("Done")
 
