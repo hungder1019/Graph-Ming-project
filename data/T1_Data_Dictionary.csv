@@ -11,14 +11,14 @@ Table No.,Table Name,Table Column,Column heading,Column description,Extended Des
 3,T3_Water_Mercury,E,Time,Time sample was collected,
 3,T3_Water_Mercury,F,Sample Type,Type of sample that was analyzed,Environmental Disturbed samples were collected at a site where the stream bottom sediments were disturbed at the time of collection or where there was visible mercury present
 3,T3_Water_Mercury,G,Data References,Reference for publications containing the data,"NP, data have not been previously published"
-3,T3_Water_Mercury,H,"Mercury, Unfiltered (ng/L)",Mercury concentration in nanograms per liter in an unfiltered water sample,"Values with an ""E"" qualifier are estimates and should be interpreted with caution; ND, not determined"
-3,T3_Water_Mercury,I,"Mercury, Unfiltered Data Source",Data source code for laboratory which analyzed the samples and number of samples analyzed ,"ND, not determined; C, USGS laboratory in Boulder, Colorado; F, Frontier Geosciences, Inc., Seattle, Washington; N, USGS National Research Program Laboratory Menlo Park, California; W, USGS laboratory in Middleton, Wisconsin; Q, concentration in table represents quartz fiber filter plus filtrate. Second character: 1, single split analyzed; 2,  two replicate samples analyzed - concentration in table represents average of replicate analyses"
-3,T3_Water_Mercury,J,"Mercury, Filtered (ng/L)",Mercury concentration in nanograms per liter in a filtered water sample,"Values with an ""E"" qualifier are estimates and should be interpreted with caution; ND, not determined"
-3,T3_Water_Mercury,K,"Mercury, Filtered Data Source",Data source code for laboratory which analyzed the samples and number of samples analyzed ,"ND, not determined; C, USGS laboratory in Boulder, Colorado; F, Frontier Geosciences, Inc., Seattle, Washington; N, USGS National Research Program Laboratory Menlo Park, California; W, USGS laboratory in Middleton, Wisconsin; Second character: 1, single split analyzed; 2,  two replicate samples analyzed - concentration in table represents average of replicate analyses"
-3,T3_Water_Mercury,L,"Methylmercury, Unfiltered (ng/L)",Methylmercury concentration in nanograms per liter in an unfiltered water sample,"Values with an ""E"" qualifier are estimates and should be interpreted with caution; ND, not determined"
-3,T3_Water_Mercury,M,"Methylmercury, Unfiltered Data Source",Data source code for laboratory which analyzed the samples and number of samples analyzed ,"ND, not determined; C, USGS laboratory in Boulder, Colorado; F, Frontier Geosciences, Inc., Seattle, Washington; N, USGS National Research Program Laboratory Menlo Park, California; W, USGS laboratory in Middleton, Wisconsin; Second character: 1, single split analyzed; 2,  two replicate samples analyzed - concentration in table represents average of replicate analyses"
-3,T3_Water_Mercury,N,"Methylmercury, Filtered (ng/L)",Methylmercury concentration in nanograms per liter in a filtered water sample,"Values with an ""E"" qualifier are estimates and should be interpreted with caution; ND, not determined"
-3,T3_Water_Mercury,O,"Methylmercury, Filtered Data Source",Data source code for laboratory which analyzed the samples and number of samples analyzed ,"ND, not determined; C, USGS laboratory in Boulder, Colorado; F, Frontier Geosciences, Inc., Seattle, Washington; N, USGS National Research Program Laboratory Menlo Park, California; W, USGS laboratory in Middleton, Wisconsin; Second character: 1, single split analyzed; 2,  two replicate samples analyzed - concentration in table represents average of replicate analyses"
+3,T3_Water_Mercury,H,"Mercury, Unfiltered (ng/L)",Mercury concentration in nanograms per liter in an unfiltered water sample,"Values with an ""E"" qualifier are estimates and should be interpreted with caution; 0, not determined"
+3,T3_Water_Mercury,I,"Mercury, Unfiltered Data Source",Data source code for laboratory which analyzed the samples and number of samples analyzed ,"0, not determined; C, USGS laboratory in Boulder, Colorado; F, Frontier Geosciences, Inc., Seattle, Washington; N, USGS National Research Program Laboratory Menlo Park, California; W, USGS laboratory in Middleton, Wisconsin; Q, concentration in table represents quartz fiber filter plus filtrate. Second character: 1, single split analyzed; 2,  two replicate samples analyzed - concentration in table represents average of replicate analyses"
+3,T3_Water_Mercury,J,"Mercury, Filtered (ng/L)",Mercury concentration in nanograms per liter in a filtered water sample,"Values with an ""E"" qualifier are estimates and should be interpreted with caution; 0, not determined"
+3,T3_Water_Mercury,K,"Mercury, Filtered Data Source",Data source code for laboratory which analyzed the samples and number of samples analyzed ,"0, not determined; C, USGS laboratory in Boulder, Colorado; F, Frontier Geosciences, Inc., Seattle, Washington; N, USGS National Research Program Laboratory Menlo Park, California; W, USGS laboratory in Middleton, Wisconsin; Second character: 1, single split analyzed; 2,  two replicate samples analyzed - concentration in table represents average of replicate analyses"
+3,T3_Water_Mercury,L,"Methylmercury, Unfiltered (ng/L)",Methylmercury concentration in nanograms per liter in an unfiltered water sample,"Values with an ""E"" qualifier are estimates and should be interpreted with caution; 0, not determined"
+3,T3_Water_Mercury,M,"Methylmercury, Unfiltered Data Source",Data source code for laboratory which analyzed the samples and number of samples analyzed ,"0, not determined; C, USGS laboratory in Boulder, Colorado; F, Frontier Geosciences, Inc., Seattle, Washington; N, USGS National Research Program Laboratory Menlo Park, California; W, USGS laboratory in Middleton, Wisconsin; Second character: 1, single split analyzed; 2,  two replicate samples analyzed - concentration in table represents average of replicate analyses"
+3,T3_Water_Mercury,N,"Methylmercury, Filtered (ng/L)",Methylmercury concentration in nanograms per liter in a filtered water sample,"Values with an ""E"" qualifier are estimates and should be interpreted with caution; 0, not determined"
+3,T3_Water_Mercury,O,"Methylmercury, Filtered Data Source",Data source code for laboratory which analyzed the samples and number of samples analyzed ,"0, not determined; C, USGS laboratory in Boulder, Colorado; F, Frontier Geosciences, Inc., Seattle, Washington; N, USGS National Research Program Laboratory Menlo Park, California; W, USGS laboratory in Middleton, Wisconsin; Second character: 1, single split analyzed; 2,  two replicate samples analyzed - concentration in table represents average of replicate analyses"
 4,T4_Sediment_Mercury,A,Station Map ID,Map reference identification number ,
 4,T4_Sediment_Mercury,B,USGS Station Name,U.S. Geological Survey station name,
 4,T4_Sediment_Mercury,C,USGS Station Number,U.S. Geological Survey station number,
@@ -26,11 +26,11 @@ Table No.,Table Name,Table Column,Column heading,Column description,Extended Des
 4,T4_Sediment_Mercury,E,Time,Time sample was collected,
 4,T4_Sediment_Mercury,F,Sample Type,Type of sample that was analyzed,
 4,T4_Sediment_Mercury,G,Data References,Reference for publications containing the data,"NP, data have not been previously published"
-4,T4_Sediment_Mercury,H,"Total Mercury, Dry (ng/g)",Total mercury concentration in nanograms per gram of dry sediment,"Values with an ""E"" qualifier are estimates and should be interpreted with caution; ND, not determined"
-4,T4_Sediment_Mercury,I,Total Mercury Data Source,Data source code for laboratory which analyzed the samples and number of samples analyzed ,"ND, not determined; C, USGS laboratory in Boulder, Colorado; F, Frontier Geosciences, Inc., Seattle, Washington; N, USGS National Research Program Laboratory Menlo Park, California; W, USGS laboratory in Middleton, Wisconsin; Second character: 1, single split analyzed"
-4,T4_Sediment_Mercury,J,"Methylmercury, Dry (ng/g)",Methylmercury concentration in nanograms per gram of dry sediment,"Values with an ""E"" qualifier are estimates and should be interpreted with caution; ND, not determined"
-4,T4_Sediment_Mercury,K,Methylmercury Data Source,Data source code for laboratory which analyzed the samples and number of samples analyzed ,"ND, not determined; C, USGS laboratory in Boulder, Colorado; F, Frontier Geosciences, Inc., Seattle, Washington; N, USGS National Research Program Laboratory Menlo Park, California; W, USGS laboratory in Middleton, Wisconsin; Second character: 1, single split analyzed"
-4,T4_Sediment_Mercury,L,Loss On Ignition (percent),Sample mass percentage lost through heating,"ND, not determined"
+4,T4_Sediment_Mercury,H,"Total Mercury, Dry (ng/g)",Total mercury concentration in nanograms per gram of dry sediment,"Values with an ""E"" qualifier are estimates and should be interpreted with caution; 0, not determined"
+4,T4_Sediment_Mercury,I,Total Mercury Data Source,Data source code for laboratory which analyzed the samples and number of samples analyzed ,"0, not determined; C, USGS laboratory in Boulder, Colorado; F, Frontier Geosciences, Inc., Seattle, Washington; N, USGS National Research Program Laboratory Menlo Park, California; W, USGS laboratory in Middleton, Wisconsin; Second character: 1, single split analyzed"
+4,T4_Sediment_Mercury,J,"Methylmercury, Dry (ng/g)",Methylmercury concentration in nanograms per gram of dry sediment,"Values with an ""E"" qualifier are estimates and should be interpreted with caution; 0, not determined"
+4,T4_Sediment_Mercury,K,Methylmercury Data Source,Data source code for laboratory which analyzed the samples and number of samples analyzed ,"0, not determined; C, USGS laboratory in Boulder, Colorado; F, Frontier Geosciences, Inc., Seattle, Washington; N, USGS National Research Program Laboratory Menlo Park, California; W, USGS laboratory in Middleton, Wisconsin; Second character: 1, single split analyzed"
+4,T4_Sediment_Mercury,L,Loss On Ignition (percent),Sample mass percentage lost through heating,"0, not determined"
 5,T5_Invertebrates_Mercury,A,Station Map ID,Map reference identification number ,
 5,T5_Invertebrates_Mercury,B,USGS Station Name,U.S. Geological Survey station name,
 5,T5_Invertebrates_Mercury,C,USGS Station Number,U.S. Geological Survey station number,
@@ -43,10 +43,10 @@ Table No.,Table Name,Table Column,Column heading,Column description,Extended Des
 5,T5_Invertebrates_Mercury,J,Sample Size,Number of organisms in the sample,
 5,T5_Invertebrates_Mercury,K,Total Sample Weight (g),Total weight of the sample in grams,
 5,T5_Invertebrates_Mercury,L,Moisture (percent),Sample moisture in percent,
-5,T5_Invertebrates_Mercury,M,"Total mercury, Wet (micrograms/g)",Total mercury concentration in micrograms per gram for undried sample,"ND, not determined"
+5,T5_Invertebrates_Mercury,M,"Total mercury, Wet (micrograms/g)",Total mercury concentration in micrograms per gram for undried sample,"0, not determined"
 5,T5_Invertebrates_Mercury,N,"Methylmercury, Wet (micrograms/g)",Methylmercury concentration in micrograms per gram for undried sample,
-5,T5_Invertebrates_Mercury,O,MeHg/THg (percent),Ratio of methylmercury to total mercury concentrations in percent,"ND, not determined"
-5,T5_Invertebrates_Mercury,P,Age,Age classification of the sample ,"This is an approximate classification into either ""adult"" or ""immature"". ND, not determined"
+5,T5_Invertebrates_Mercury,O,MeHg/THg (percent),Ratio of methylmercury to total mercury concentrations in percent,"0, not determined"
+5,T5_Invertebrates_Mercury,P,Age,Age classification of the sample ,"This is an approximate classification into either ""adult"" or ""immature"". 0, not determined"
 6,T6_Frogs_Mercury,A,Station Map ID,Map reference identification number ,
 6,T6_Frogs_Mercury,B,USGS Station Name,U.S. Geological Survey station name,
 6,T6_Frogs_Mercury,C,USGS Station Number,U.S. Geological Survey station number,
@@ -56,13 +56,13 @@ Table No.,Table Name,Table Column,Column heading,Column description,Extended Des
 6,T6_Frogs_Mercury,G,Common Name,Invertebrate common name,
 6,T6_Frogs_Mercury,H,Genus and Species,Genus and species of the sample,
 6,T6_Frogs_Mercury,I,Sample Size,Number of organisms in the sample,
-6,T6_Frogs_Mercury,J,Live Weight (g),Weight of the sample at collection in grams,"ND, not determined"
-6,T6_Frogs_Mercury,K,Sample Weight (g),Sample weight in grams,"ND, not determined"
-6,T6_Frogs_Mercury,L,Total Length (mm),Total length of the sample in milimeters,"ND, not determined"
+6,T6_Frogs_Mercury,J,Live Weight (g),Weight of the sample at collection in grams,"0, not determined"
+6,T6_Frogs_Mercury,K,Sample Weight (g),Sample weight in grams,"0, not determined"
+6,T6_Frogs_Mercury,L,Total Length (mm),Total length of the sample in milimeters,"0, not determined"
 6,T6_Frogs_Mercury,M,Moisture (percent),Sample moisture in percent,
-6,T6_Frogs_Mercury,N,"Total Mercury, Wet (micrograms/g)",Total mercury concentration in micrograms per gram for undried sample,"ND, not determined"
+6,T6_Frogs_Mercury,N,"Total Mercury, Wet (micrograms/g)",Total mercury concentration in micrograms per gram for undried sample,"0, not determined"
 6,T6_Frogs_Mercury,O,Age ,Age classification of the sample ,"This is an approximate classification into either ""adult"" or ""juvenile""."
-6,T6_Frogs_Mercury,P,Gender,Gender of the sample,"This is an categorical classification into either ""male"" or ""female"".ND, not determined"
+6,T6_Frogs_Mercury,P,Gender,Gender of the sample,"This is an categorical classification into either ""male"" or ""female"".0, not determined"
 7,T7_Fish_Mercury,A,Station Map ID,Map reference identification number ,
 7,T7_Fish_Mercury,B,USGS Station Name,U.S. Geological Survey station name,
 7,T7_Fish_Mercury,C,USGS Station Number,U.S. Geological Survey station number,
@@ -73,67 +73,67 @@ Table No.,Table Name,Table Column,Column heading,Column description,Extended Des
 7,T7_Fish_Mercury,H,Sample Size,Number of organisms in the sample,
 7,T7_Fish_Mercury,I,Body Part,Body part analyzed,
 7,T7_Fish_Mercury,J,Total Length (mm),Total length of the sample in milimeters,If more than one fish was analyzed than this value is the average length of all the fish analyzed
-7,T7_Fish_Mercury,K,Total Length Standard Deviation,Standard deviation of the lengths of the fish analyzed,"ND, not determined"
+7,T7_Fish_Mercury,K,Total Length Standard Deviation,Standard deviation of the lengths of the fish analyzed,"0, not determined"
 7,T7_Fish_Mercury,L,Total Weight (g) ,Total weight of the sample in grams,If more than one fish was analyzed than this value is the average weight of all the fish analyzed
-7,T7_Fish_Mercury,M,Total weight Standard Deviation,Standard deviation of the weights of the fish analyzed,"ND, not determined"
+7,T7_Fish_Mercury,M,Total weight Standard Deviation,Standard deviation of the weights of the fish analyzed,"0, not determined"
 7,T7_Fish_Mercury,N,"Total Mercury, Dry (mg/kg)",Total mercury concentration in miligrams per kilogram for dried sample,
 7,T7_Fish_Mercury,O,"Total Mercury, Wet (mg/kg)",Total mercury concentration in miligrams per kilogram for undried sample,
 7,T7_Fish_Mercury,P,Moisture (percent),Sample moisture in percent,
-7,T7_Fish_Mercury,Q,Gender,Gender of the sample,"This is an categorical classification into either ""male"" or ""female"".ND, not determined"
+7,T7_Fish_Mercury,Q,Gender,Gender of the sample,"This is an categorical classification into either ""male"" or ""female"".0, not determined"
 8,T8_Water_FieldParameters,A,Station Map ID,Map reference identification number ,
 8,T8_Water_FieldParameters,B,USGS Station Name,U.S. Geological Survey station name,
 8,T8_Water_FieldParameters,C,USGS Station Number,U.S. Geological Survey station number,
 8,T8_Water_FieldParameters,D,Date,Date sample was collected,
 8,T8_Water_FieldParameters,E,Time,Time sample was collected,
 8,T8_Water_FieldParameters,F,Sample Type,Type of sample that was analyzed,
-8,T8_Water_FieldParameters,G,Water Temperature (degrees Celsius),Water temperatre at time of collection in degrees Celsius,"ND, not determined"
-8,T8_Water_FieldParameters,H,pH,Water pH at time of sample collection,"ND, not determined"
-8,T8_Water_FieldParameters,I,Specific conductance (microsiemens/cm),Water specific conductance at time of sample collection,"ND, not determined"
-8,T8_Water_FieldParameters,J,Dissolved oxygen (mg/L),Water dissolved oxygen in milligrams per liter at time of sample collection,"ND, not determined"
-8,T8_Water_FieldParameters,K,"Discharge, instantaneous, cubic feet per second",Stream discharge in cubic feet per second ,"ND, not determined"
-8,T8_Water_FieldParameters,L,Barometric pressure (millimeters of mercury),Barometric pressure in millimeters of mercury at time of sample collection,"ND, not determined"
-8,T8_Water_FieldParameters,M,"Dissolved oxygen, water, unfiltered, percent of saturation",Percent saturation of dissolved oxygen at time of sample collection,"ND, not determined"
-8,T8_Water_FieldParameters,N,Suspended sediment concentration (mg/L),Suspended sediment concentration in milligrams per liter ,"ND, not determined"
-8,T8_Water_FieldParameters,O,"Suspended sediment, percentage finer than 0.063 mm",Suspended sediment percentage finer than 0.063 millimters,"ND, not determined"
+8,T8_Water_FieldParameters,G,Water Temperature (degrees Celsius),Water temperatre at time of collection in degrees Celsius,"0, not determined"
+8,T8_Water_FieldParameters,H,pH,Water pH at time of sample collection,"0, not determined"
+8,T8_Water_FieldParameters,I,Specific conductance (microsiemens/cm),Water specific conductance at time of sample collection,"0, not determined"
+8,T8_Water_FieldParameters,J,Dissolved oxygen (mg/L),Water dissolved oxygen in milligrams per liter at time of sample collection,"0, not determined"
+8,T8_Water_FieldParameters,K,"Discharge, instantaneous, cubic feet per second",Stream discharge in cubic feet per second ,"0, not determined"
+8,T8_Water_FieldParameters,L,Barometric pressure (millimeters of mercury),Barometric pressure in millimeters of mercury at time of sample collection,"0, not determined"
+8,T8_Water_FieldParameters,M,"Dissolved oxygen, water, unfiltered, percent of saturation",Percent saturation of dissolved oxygen at time of sample collection,"0, not determined"
+8,T8_Water_FieldParameters,N,Suspended sediment concentration (mg/L),Suspended sediment concentration in milligrams per liter ,"0, not determined"
+8,T8_Water_FieldParameters,O,"Suspended sediment, percentage finer than 0.063 mm",Suspended sediment percentage finer than 0.063 millimters,"0, not determined"
 9,T9_Water_Isotopes_Nutrients_MajorIons,A,Station Map ID,Map reference identification number ,
 9,T9_Water_Isotopes_Nutrients_MajorIons,B,USGS Station Name,U.S. Geological Survey station name,
 9,T9_Water_Isotopes_Nutrients_MajorIons,C,USGS Station Number,U.S. Geological Survey station number,
 9,T9_Water_Isotopes_Nutrients_MajorIons,D,Date,Date sample was collected,
 9,T9_Water_Isotopes_Nutrients_MajorIons,E,Time,Time sample was collected,
 9,T9_Water_Isotopes_Nutrients_MajorIons,F,Sample Type,Type of sample that was analyzed,
-9,T9_Water_Isotopes_Nutrients_MajorIons,G,Delta-18O SO4 (per mil VSMOW),"Delta-oxygen-18 in aqueous sulfate, per mil, Vienna Standard Mean Ocean Water","ND, not determined"
-9,T9_Water_Isotopes_Nutrients_MajorIons,H,Delta-34S SO4 (per mil CDT),"Delta-sulfur-34 in aqueous sulfate per mil, per thousand, Canyon Diablo Meteorite","ND, not determined"
-9,T9_Water_Isotopes_Nutrients_MajorIons,I,Delta-18O H2O (per mil VSMOW),"Delta-oxygen-18 in water, per mil, Vienna Standard Mean Ocean Water","ND, not determined"
-9,T9_Water_Isotopes_Nutrients_MajorIons,J,Delta-D H2O (per mil VSMOW),"Delta-deuterium in water, per mil, Vienna Standard Mean Ocean Water","ND, not determined"
-9,T9_Water_Isotopes_Nutrients_MajorIons,K,"Nitrogen, ammonia, filtered (mg/L)",Nitrogen as ammonia concentration of the filtered water sample in milligrams per liter,"ND, not determined"
-9,T9_Water_Isotopes_Nutrients_MajorIons,L,"Nigrogen, ammonia plus organic, filtered (mg/L)",Nitrogen as ammonia plus organic nitrogen concentration of the filtered water sample in milligrams per liter,"ND, not determined"
-9,T9_Water_Isotopes_Nutrients_MajorIons,M,"Nitrogen, ammonia plus organic, unfiltered (mg/L)",Nitrogen as ammonia plus organic nitrogen concentration of the unfiltered water sample in milligrams per liter,"ND, not determined"
-9,T9_Water_Isotopes_Nutrients_MajorIons,N,"Nitrogen, nitrite plus nitrate, filtered (mg/L)",Nitrogen as nitrite plus nitrate concentration of the dissolved fraction of the water sample in milligrams per liter,"ND, not determined"
-9,T9_Water_Isotopes_Nutrients_MajorIons,O,"Nitrogen, nitrite, filtered (mg/L)",Nitrogen as nitrite concentration of the dissolved fraction of the water sample in milligrams per liter,"ND, not determined"
-9,T9_Water_Isotopes_Nutrients_MajorIons,P,"Total nitrogen, particulate (mg/L)",Total nitrogen concentration of the particulate fraction of the water sample in milligrams per liter,"ND, not determined"
-9,T9_Water_Isotopes_Nutrients_MajorIons,Q,"Total phosphorus, filtered (mg/L)",Total phosphours concentration of the dissolved fraction of the water sample in milligrams per liter,"ND, not determined"
-9,T9_Water_Isotopes_Nutrients_MajorIons,R,"Phosphorous, orthophosphate, filtered (mg/)",Phosphours as orthophosphate concentration of the dissolved fraction of the water sample in milligrams per liter,"ND, not determined"
-9,T9_Water_Isotopes_Nutrients_MajorIons,S,"Total phosphorus, unfiltered (mg/L)",Total phosphours concentration of the particulate fraction of the water sample in milligrams per liter,"ND, not determined"
-9,T9_Water_Isotopes_Nutrients_MajorIons,T,"Carbon, inorganic plus organic, particulate (mg/L)",Combined organic and inorganic carbon concentration of the particulate fraction of the water sample in milligrams per liter,"ND, not determined"
-9,T9_Water_Isotopes_Nutrients_MajorIons,U,"Carbon, organic, filtered (mg/L)",Organic carbon concentration of the dissolved fraction of the water sample in milligrams per liter,"ND, not determined"
-9,T9_Water_Isotopes_Nutrients_MajorIons,V,"Carbon, organic, particulate (mg/L)",Organic carbon concentration of the particulate fraction of the water sample in milligrams per liter,"ND, not determined"
-9,T9_Water_Isotopes_Nutrients_MajorIons,W,"Alkalinity, laboratory (mg/L as CaCO3)",Alkalanity of the water sample as measured in milligrams per liter of calcium carbonate at the laboratory,"ND, not determined"
-9,T9_Water_Isotopes_Nutrients_MajorIons,X,Chloride (mg/L),Chloride concentration in water in milligrams per liter,"ND, not determined"
-9,T9_Water_Isotopes_Nutrients_MajorIons,Y,Sulfate (mg/L),Sulfate concentration in water in milligrams per liter,"ND, not determined"
+9,T9_Water_Isotopes_Nutrients_MajorIons,G,Delta-18O SO4 (per mil VSMOW),"Delta-oxygen-18 in aqueous sulfate, per mil, Vienna Standard Mean Ocean Water","0, not determined"
+9,T9_Water_Isotopes_Nutrients_MajorIons,H,Delta-34S SO4 (per mil CDT),"Delta-sulfur-34 in aqueous sulfate per mil, per thousand, Canyon Diablo Meteorite","0, not determined"
+9,T9_Water_Isotopes_Nutrients_MajorIons,I,Delta-18O H2O (per mil VSMOW),"Delta-oxygen-18 in water, per mil, Vienna Standard Mean Ocean Water","0, not determined"
+9,T9_Water_Isotopes_Nutrients_MajorIons,J,Delta-D H2O (per mil VSMOW),"Delta-deuterium in water, per mil, Vienna Standard Mean Ocean Water","0, not determined"
+9,T9_Water_Isotopes_Nutrients_MajorIons,K,"Nitrogen, ammonia, filtered (mg/L)",Nitrogen as ammonia concentration of the filtered water sample in milligrams per liter,"0, not determined"
+9,T9_Water_Isotopes_Nutrients_MajorIons,L,"Nigrogen, ammonia plus organic, filtered (mg/L)",Nitrogen as ammonia plus organic nitrogen concentration of the filtered water sample in milligrams per liter,"0, not determined"
+9,T9_Water_Isotopes_Nutrients_MajorIons,M,"Nitrogen, ammonia plus organic, unfiltered (mg/L)",Nitrogen as ammonia plus organic nitrogen concentration of the unfiltered water sample in milligrams per liter,"0, not determined"
+9,T9_Water_Isotopes_Nutrients_MajorIons,N,"Nitrogen, nitrite plus nitrate, filtered (mg/L)",Nitrogen as nitrite plus nitrate concentration of the dissolved fraction of the water sample in milligrams per liter,"0, not determined"
+9,T9_Water_Isotopes_Nutrients_MajorIons,O,"Nitrogen, nitrite, filtered (mg/L)",Nitrogen as nitrite concentration of the dissolved fraction of the water sample in milligrams per liter,"0, not determined"
+9,T9_Water_Isotopes_Nutrients_MajorIons,P,"Total nitrogen, particulate (mg/L)",Total nitrogen concentration of the particulate fraction of the water sample in milligrams per liter,"0, not determined"
+9,T9_Water_Isotopes_Nutrients_MajorIons,Q,"Total phosphorus, filtered (mg/L)",Total phosphours concentration of the dissolved fraction of the water sample in milligrams per liter,"0, not determined"
+9,T9_Water_Isotopes_Nutrients_MajorIons,R,"Phosphorous, orthophosphate, filtered (mg/)",Phosphours as orthophosphate concentration of the dissolved fraction of the water sample in milligrams per liter,"0, not determined"
+9,T9_Water_Isotopes_Nutrients_MajorIons,S,"Total phosphorus, unfiltered (mg/L)",Total phosphours concentration of the particulate fraction of the water sample in milligrams per liter,"0, not determined"
+9,T9_Water_Isotopes_Nutrients_MajorIons,T,"Carbon, inorganic plus organic, particulate (mg/L)",Combined organic and inorganic carbon concentration of the particulate fraction of the water sample in milligrams per liter,"0, not determined"
+9,T9_Water_Isotopes_Nutrients_MajorIons,U,"Carbon, organic, filtered (mg/L)",Organic carbon concentration of the dissolved fraction of the water sample in milligrams per liter,"0, not determined"
+9,T9_Water_Isotopes_Nutrients_MajorIons,V,"Carbon, organic, particulate (mg/L)",Organic carbon concentration of the particulate fraction of the water sample in milligrams per liter,"0, not determined"
+9,T9_Water_Isotopes_Nutrients_MajorIons,W,"Alkalinity, laboratory (mg/L as CaCO3)",Alkalanity of the water sample as measured in milligrams per liter of calcium carbonate at the laboratory,"0, not determined"
+9,T9_Water_Isotopes_Nutrients_MajorIons,X,Chloride (mg/L),Chloride concentration in water in milligrams per liter,"0, not determined"
+9,T9_Water_Isotopes_Nutrients_MajorIons,Y,Sulfate (mg/L),Sulfate concentration in water in milligrams per liter,"0, not determined"
 10,T10_Water_TraceElements_Filtered,A,Station Map ID,Map reference identification number ,
 10,T10_Water_TraceElements_Filtered,B,USGS Station Name,U.S. Geological Survey station name,
 10,T10_Water_TraceElements_Filtered,C,USGS Station Number,U.S. Geological Survey station number,
 10,T10_Water_TraceElements_Filtered,D,Date,Date sample was collected,
 10,T10_Water_TraceElements_Filtered,E,Time,Time sample was collected,
 10,T10_Water_TraceElements_Filtered,F,Sample Type,Type of sample that was analyzed,
-10,T10_Water_TraceElements_Filtered,G,Silver Filtered (micrograms/L),Sliver concentration in micrograms per liter in the filtered water sample,"ND, not determined"
-10,T10_Water_TraceElements_Filtered,H,Aluminum Filtered (micrograms/L),Aluminum concentration in micrograms per liter in the filtered water sample,"ND, not determined"
+10,T10_Water_TraceElements_Filtered,G,Silver Filtered (micrograms/L),Sliver concentration in micrograms per liter in the filtered water sample,"0, not determined"
+10,T10_Water_TraceElements_Filtered,H,Aluminum Filtered (micrograms/L),Aluminum concentration in micrograms per liter in the filtered water sample,"0, not determined"
 10,T10_Water_TraceElements_Filtered,I,Arsenic Filtered  (micrograms/L),Arsenic concentration in micrograms per liter in the filtered water sample,
 10,T10_Water_TraceElements_Filtered,J,Boron Filtered (micrograms/L),Boron concentration in micrograms per liter in the filtered water sample,
 10,T10_Water_TraceElements_Filtered,K,Barium Filtered  (micrograms/L),Barium concentration in micrograms per liter in the filtered water sample,
 10,T10_Water_TraceElements_Filtered,L,Beryllium Filtered  (micrograms/L),Beryllium concentration in micrograms per liter in the filtered water sample,
 10,T10_Water_TraceElements_Filtered,M,Bismuth Filtered  (micrograms/L),Bismuth concentration in micrograms per liter in the filtered water sample,
-10,T10_Water_TraceElements_Filtered,N,Calcium Filtered  (mg/L),Calcium concentration in milligrams per liter in the filtered water sample,"ND, not determined"
+10,T10_Water_TraceElements_Filtered,N,Calcium Filtered  (mg/L),Calcium concentration in milligrams per liter in the filtered water sample,"0, not determined"
 10,T10_Water_TraceElements_Filtered,O,Cadmium Filtered (micrograms/L),Cadmium concentration in micrograms per liter in the filtered water sample,
 10,T10_Water_TraceElements_Filtered,P,Cerium Filtered (micrograms/L),Cerium concentration in micrograms per liter in the filtered water sample,
 10,T10_Water_TraceElements_Filtered,Q,Cobalt Filtered (micrograms/L),Cobalt concentration in micrograms per liter in the filtered water sample,
@@ -143,30 +143,30 @@ Table No.,Table Name,Table Column,Column heading,Column description,Extended Des
 10,T10_Water_TraceElements_Filtered,U,Dysprosium Filtered (micrograms/L),Dysprosium concentration in micrograms per liter in the filtered water sample,
 10,T10_Water_TraceElements_Filtered,V,Erbium Filtered (micrograms/L),Erbium concentration in micrograms per liter in the filtered water sample,
 10,T10_Water_TraceElements_Filtered,W,Europium  Filtered (micrograms/L),Europium concentration in micrograms per liter in the filtered water sample,
-10,T10_Water_TraceElements_Filtered,X,Iron Filtered (micrograms/L),Iron concentration in micrograms per liter in the filtered water sample,"ND, not determined"
+10,T10_Water_TraceElements_Filtered,X,Iron Filtered (micrograms/L),Iron concentration in micrograms per liter in the filtered water sample,"0, not determined"
 10,T10_Water_TraceElements_Filtered,Y,Gadolinium Filtered (micrograms/L),Gadolinium concentration in micrograms per liter in the filtered water sample,
 10,T10_Water_TraceElements_Filtered,Z,Holmium  Filtered (micrograms/L),Holmium concentration in micrograms per liter in the filtered water sample,
-10,T10_Water_TraceElements_Filtered,AA,Potassium  Filtered (mg/L),Potassium concentration in milligrams per liter in the filtered water sample,"ND, not determined"
+10,T10_Water_TraceElements_Filtered,AA,Potassium  Filtered (mg/L),Potassium concentration in milligrams per liter in the filtered water sample,"0, not determined"
 10,T10_Water_TraceElements_Filtered,AB,Lanthanum  Filtered (micrograms/L),Lanthanum concentration in micrograms per liter in the filtered water sample,
 10,T10_Water_TraceElements_Filtered,AC,Lithium Filtered (micrograms/L),Lithium concentration in micrograms per liter in the filtered water sample,
 10,T10_Water_TraceElements_Filtered,AD,Lutetium Filtered (micrograms/L),Luetium concentration in micrograms per liter in the filtered water sample,
-10,T10_Water_TraceElements_Filtered,AE,Magnesium  Filtered (mg/L),Magnesium concentration in milligrams per liter in the filtered water sample,"ND, not determined"
+10,T10_Water_TraceElements_Filtered,AE,Magnesium  Filtered (mg/L),Magnesium concentration in milligrams per liter in the filtered water sample,"0, not determined"
 10,T10_Water_TraceElements_Filtered,AF,Manganese  Filtered (micrograms/L),Manganese concentration in micrograms per liter in the filtered water sample,
-10,T10_Water_TraceElements_Filtered,AG,Molybdenum Filtered (micrograms/L),Molybdenum concentration in micrograms per liter in the filtered water sample,"ND, not determined"
-10,T10_Water_TraceElements_Filtered,AH,Sodium Filtered (mg/L),Sodium concentration in milligrams per liter in the filtered water sample,"ND, not determined"
+10,T10_Water_TraceElements_Filtered,AG,Molybdenum Filtered (micrograms/L),Molybdenum concentration in micrograms per liter in the filtered water sample,"0, not determined"
+10,T10_Water_TraceElements_Filtered,AH,Sodium Filtered (mg/L),Sodium concentration in milligrams per liter in the filtered water sample,"0, not determined"
 10,T10_Water_TraceElements_Filtered,AI,Neodymium  Filtered (micrograms/L),Neodymium concentration in micrograms per liter in the filtered water sample,
 10,T10_Water_TraceElements_Filtered,AJ,Nickel Filtered  (micrograms/L),Nickel concentration in micrograms per liter in the filtered water sample,
 10,T10_Water_TraceElements_Filtered,AK,Lead Filtered (micrograms/L),Lead concentration in micrograms per liter in the filtered water sample,
 10,T10_Water_TraceElements_Filtered,AL,Praesodymium  Filtered (micrograms/L),Praesodymium concentration in micrograms per liter in the filtered water sample,
 10,T10_Water_TraceElements_Filtered,AM,Rubidium Filtered (micrograms/L),Rubidium concentration in micrograms per liter in the filtered water sample,
 10,T10_Water_TraceElements_Filtered,AN,Rhenium  Filtered (micrograms/L),Rhenium concentration in micrograms per liter in the filtered water sample,
-10,T10_Water_TraceElements_Filtered,AO,Sulfur Filtered (mg/L),Sulfur concentration in milligrams per liter in the filtered water sample,"ND, not determined"
+10,T10_Water_TraceElements_Filtered,AO,Sulfur Filtered (mg/L),Sulfur concentration in milligrams per liter in the filtered water sample,"0, not determined"
 10,T10_Water_TraceElements_Filtered,AP,Antimony  Filtered (micrograms/L),Antimony concentration in micrograms per liter in the filtered water sample,
-10,T10_Water_TraceElements_Filtered,AQ,Scandium Filtered (micrograms/L),Scandium concentration in micrograms per liter in the filtered water sample,"ND, not determined"
+10,T10_Water_TraceElements_Filtered,AQ,Scandium Filtered (micrograms/L),Scandium concentration in micrograms per liter in the filtered water sample,"0, not determined"
 10,T10_Water_TraceElements_Filtered,AR,Selenium  Filtered (micrograms/L),Selenium concentration in micrograms per liter in the filtered water sample,
-10,T10_Water_TraceElements_Filtered,AS,Silica Filtered (mg/L as SiO2),Silica concentration in milligrams per liter of sillicon dioxide in the filtered water sample,"ND, not determined"
+10,T10_Water_TraceElements_Filtered,AS,Silica Filtered (mg/L as SiO2),Silica concentration in milligrams per liter of sillicon dioxide in the filtered water sample,"0, not determined"
 10,T10_Water_TraceElements_Filtered,AT,Samarium  Filtered (micrograms/L),Samarium concentration in micrograms per liter in the filtered water sample,
-10,T10_Water_TraceElements_Filtered,AU,Tin Filtered (micrograms/L),Tin concentration in micrograms per liter in the filtered water sample,"ND, not determined"
+10,T10_Water_TraceElements_Filtered,AU,Tin Filtered (micrograms/L),Tin concentration in micrograms per liter in the filtered water sample,"0, not determined"
 10,T10_Water_TraceElements_Filtered,AV,Strontium  Filtered (micrograms/L),Strontium concentration in micrograms per liter in the filtered water sample,
 10,T10_Water_TraceElements_Filtered,AW,Terbium  Filtered (micrograms/L),Terbium concentration in micrograms per liter in the filtered water sample,
 10,T10_Water_TraceElements_Filtered,AX,Tellurium Filtered  (micrograms/L),Tellurium concentration in micrograms per liter in the filtered water sample,
@@ -175,18 +175,18 @@ Table No.,Table Name,Table Column,Column heading,Column description,Extended Des
 10,T10_Water_TraceElements_Filtered,BA,Thulium Filtered (micrograms/L),Thulium concentration in micrograms per liter in the filtered water sample,
 10,T10_Water_TraceElements_Filtered,BB,Uranium  Filtered (micrograms/L),Uranium concentration in micrograms per liter in the filtered water sample,
 10,T10_Water_TraceElements_Filtered,BC,Vanadium Filtered (micrograms/L),Vanadium concentration in micrograms per liter in the filtered water sample,
-10,T10_Water_TraceElements_Filtered,BD,Tungsten Filtered (micrograms/L),Tungsten concentration in micrograms per liter in the filtered water sample,"ND, not determined"
+10,T10_Water_TraceElements_Filtered,BD,Tungsten Filtered (micrograms/L),Tungsten concentration in micrograms per liter in the filtered water sample,"0, not determined"
 10,T10_Water_TraceElements_Filtered,BE,Yttrium Filtered (micrograms/L),Yttrium concentration in micrograms per liter in the filtered water sample,
 10,T10_Water_TraceElements_Filtered,BF,Ytterbium Filtered (micrograms/L),Ytterbium concentration in micrograms per liter in the filtered water sample,
 10,T10_Water_TraceElements_Filtered,BG,Zinc Filtered (micrograms/L),Zinc concentration in micrograms per liter in the filtered water sample,
-10,T10_Water_TraceElements_Filtered,BH,Zirconium Filtered (micrograms/L),Zirconium concentration in micrograms per liter in the filtered water sample,"ND, not determined"
+10,T10_Water_TraceElements_Filtered,BH,Zirconium Filtered (micrograms/L),Zirconium concentration in micrograms per liter in the filtered water sample,"0, not determined"
 11,T11_Water_TraceElements_Unfiltered,A,Station Map ID,Map reference identification number ,
 11,T11_Water_TraceElements_Unfiltered,B,USGS Station Name,U.S. Geological Survey station name,
 11,T11_Water_TraceElements_Unfiltered,C,USGS Station Number,U.S. Geological Survey station number,
 11,T11_Water_TraceElements_Unfiltered,D,Date,Date sample was collected,
 11,T11_Water_TraceElements_Unfiltered,E,Time,Time sample was collected,
 11,T11_Water_TraceElements_Unfiltered,F,Sample Type,Type of sample that was analyzed,Environmental Disturbed samples were collected at a site where the stream bottom sediments were disturbed at the time of collection or where there was visible mercury present
-11,T11_Water_TraceElements_Unfiltered,G,Silver Unfiltered (micrograms/L),Sliver concentration in micrograms per liter in the unfiltered water sample,"ND, not determined"
+11,T11_Water_TraceElements_Unfiltered,G,Silver Unfiltered (micrograms/L),Sliver concentration in micrograms per liter in the unfiltered water sample,"0, not determined"
 11,T11_Water_TraceElements_Unfiltered,H,Aluminum Unfiltered (micrograms/L),Aluminum concentration in micrograms per liter in the unfiltered water sample,
 11,T11_Water_TraceElements_Unfiltered,I,Arsenic Unfiltered (micrograms/L),Arsenic concentration in micrograms per liter in the unfiltered water sample,
 11,T11_Water_TraceElements_Unfiltered,J,Boron Unfiltered (micrograms/L),Boron concentration in micrograms per liter in the unfiltered water sample,
@@ -220,28 +220,28 @@ Table No.,Table Name,Table Column,Column heading,Column description,Extended Des
 11,T11_Water_TraceElements_Unfiltered,AL,Praesodymium Unfiltered (micrograms/L),Praesodymium concentration in micrograms per liter in the unfiltered water sample,
 11,T11_Water_TraceElements_Unfiltered,AM,Rubidium Unfiltered (micrograms/L),Rubidium concentration in micrograms per liter in the unfiltered water sample,
 11,T11_Water_TraceElements_Unfiltered,AN,Rhenium Unfiltered (micrograms/L),Rhenium concentration in micrograms per liter in the unfiltered water sample,
-11,T11_Water_TraceElements_Unfiltered,AO,Sulfur Unfiltered (mg/L),Sulfur concentration in milligrams per liter in the unfiltered water sample,"ND, not determined"
+11,T11_Water_TraceElements_Unfiltered,AO,Sulfur Unfiltered (mg/L),Sulfur concentration in milligrams per liter in the unfiltered water sample,"0, not determined"
 11,T11_Water_TraceElements_Unfiltered,AP,Antimony Unfiltered (micrograms/L),Antimony concentration in micrograms per liter in the unfiltered water sample,
-11,T11_Water_TraceElements_Unfiltered,AQ,Scandium Unfiltered (micrograms/L),Scandium concentration in micrograms per liter in the unfiltered water sample,"ND, not determined"
+11,T11_Water_TraceElements_Unfiltered,AQ,Scandium Unfiltered (micrograms/L),Scandium concentration in micrograms per liter in the unfiltered water sample,"0, not determined"
 11,T11_Water_TraceElements_Unfiltered,AR,Selenium Unfiltered (micrograms/L),Selenium concentration in micrograms per liter in the unfiltered water sample,
 11,T11_Water_TraceElements_Unfiltered,AS,Silica Unfiltered (mg/L as SiO2),Silica concentration in milligrams per liter of sillicon dioxide in the unfiltered water sample,
 11,T11_Water_TraceElements_Unfiltered,AT,Samarium Unfiltered (micrograms/L),Samarium concentration in micrograms per liter in the unfiltered water sample,
-11,T11_Water_TraceElements_Unfiltered,AU,Tin Unfiltered (micrograms/L),Tin concentration in micrograms per liter in the unfiltered water sample,"ND, not determined"
+11,T11_Water_TraceElements_Unfiltered,AU,Tin Unfiltered (micrograms/L),Tin concentration in micrograms per liter in the unfiltered water sample,"0, not determined"
 11,T11_Water_TraceElements_Unfiltered,AV,Strontium Unfiltered (micrograms/L),Strontium concentration in micrograms per liter in the unfiltered water sample,
-11,T11_Water_TraceElements_Unfiltered,AW,Tantalum Unfiltered (micrograms/L),Tantalum concentration in micrograms per liter in the unfiltered water sample,"ND, not determined"
+11,T11_Water_TraceElements_Unfiltered,AW,Tantalum Unfiltered (micrograms/L),Tantalum concentration in micrograms per liter in the unfiltered water sample,"0, not determined"
 11,T11_Water_TraceElements_Unfiltered,AX,Terbium Unfiltered (micrograms/L),Terbium concentration in micrograms per liter in the unfiltered water sample,
 11,T11_Water_TraceElements_Unfiltered,AY,Tellurium Unfiltered (micrograms/L),Tellurium concentration in micrograms per liter in the unfiltered water sample,
 11,T11_Water_TraceElements_Unfiltered,AZ,Thorium Unfiltered (micrograms/L),Thorium concentration in micrograms per liter in the unfiltered water sample,
-11,T11_Water_TraceElements_Unfiltered,BA,Titanium Unfiltered (micrograms/L),Titanium concentration in micrograms per liter in the unfiltered water sample,"ND, not determined"
+11,T11_Water_TraceElements_Unfiltered,BA,Titanium Unfiltered (micrograms/L),Titanium concentration in micrograms per liter in the unfiltered water sample,"0, not determined"
 11,T11_Water_TraceElements_Unfiltered,BB,Thallium Unfiltered (micrograms/L),Thallium concentration in micrograms per liter in the unfiltered water sample,
 11,T11_Water_TraceElements_Unfiltered,BC,Thulium Unfiltered (micrograms/L),Thulium concentration in micrograms per liter in the unfiltered water sample,
 11,T11_Water_TraceElements_Unfiltered,BD,Uranium Unfiltered (micrograms/L),Uranium concentration in micrograms per liter in the unfiltered water sample,
 11,T11_Water_TraceElements_Unfiltered,BE,Vanadium Unfiltered (micrograms/L),Vanadium concentration in micrograms per liter in the unfiltered water sample,
-11,T11_Water_TraceElements_Unfiltered,BF,Tungsten Unfiltered (micrograms/L),Tungsten concentration in micrograms per liter in the unfiltered water sample,"ND, not determined"
+11,T11_Water_TraceElements_Unfiltered,BF,Tungsten Unfiltered (micrograms/L),Tungsten concentration in micrograms per liter in the unfiltered water sample,"0, not determined"
 11,T11_Water_TraceElements_Unfiltered,BG,Yttrium Unfiltered (micrograms/L),Yttrium concentration in micrograms per liter in the unfiltered water sample,
 11,T11_Water_TraceElements_Unfiltered,BH,Ytterbium Unfiltered (micrograms/L),Ytterbium concentration in micrograms per liter in the unfiltered water sample,
 11,T11_Water_TraceElements_Unfiltered,BI,Zinc Unfiltered (micrograms/L),Zinc concentration in micrograms per liter in the unfiltered water sample,
-11,T11_Water_TraceElements_Unfiltered,BJ,Zirconium Unfiltered (micrograms/L),Zirconium concentration in micrograms per liter in the unfiltered water sample,"ND, not determined"
+11,T11_Water_TraceElements_Unfiltered,BJ,Zirconium Unfiltered (micrograms/L),Zirconium concentration in micrograms per liter in the unfiltered water sample,"0, not determined"
 12,T12_Sediment_TraceElements,A,Station Map ID,Map reference identification number ,
 12,T12_Sediment_TraceElements,B,USGS Station Name,U.S. Geological Survey station name,
 12,T12_Sediment_TraceElements,C,USGS Station Number,U.S. Geological Survey station number,
@@ -277,14 +277,14 @@ Table No.,Table Name,Table Column,Column heading,Column description,Extended Des
 12,T12_Sediment_TraceElements,AG,"Sodium, (weight percent)",Weight percent of sodium in a sediment sample ,
 12,T12_Sediment_TraceElements,AH,"Neodymium, (micrograms/g)",Neodymium concentration in micrograms per gram of a sediment sample,
 12,T12_Sediment_TraceElements,AI,"Nickel, (micrograms/g)",Nickel concentration in micrograms per gram of a sediment sample,
-12,T12_Sediment_TraceElements,AJ,"Phosphorus, (micrograms/g)",Phosphorus concentration in micrograms per gram of a sediment sample,"ND, not determined"
+12,T12_Sediment_TraceElements,AJ,"Phosphorus, (micrograms/g)",Phosphorus concentration in micrograms per gram of a sediment sample,"0, not determined"
 12,T12_Sediment_TraceElements,AK,"Lead, (micrograms/g)",Lead concentration in micrograms per gram of a sediment sample,
 12,T12_Sediment_TraceElements,AL,"Praesodymium, (micrograms/g)",Praesodymium concentration in micrograms per gram of a sediment sample,
 12,T12_Sediment_TraceElements,AM,"Rubidium, (micrograms/g)",Rubidium concentration in micrograms per gram of a sediment sample,
 12,T12_Sediment_TraceElements,AN,"Rhenium, (micrograms/g)",Rhenium concentration in micrograms per gram of a sediment sample,
 12,T12_Sediment_TraceElements,AO,"Sulfur, (weight percent)",Weight percent of sulfur in a sediment sample ,
 12,T12_Sediment_TraceElements,AP,"Antimony, (micrograms/g)",Antimony concentration in micrograms per gram of a sediment sample,
-12,T12_Sediment_TraceElements,AQ,"Scandium, (micrograms/g)",Scandium concentration in micrograms per gram of a sediment sample,"ND, not determined"
+12,T12_Sediment_TraceElements,AQ,"Scandium, (micrograms/g)",Scandium concentration in micrograms per gram of a sediment sample,"0, not determined"
 12,T12_Sediment_TraceElements,AR,"Selenium, (micrograms/g)",Selenium concentration in micrograms per gram of a sediment sample,
 12,T12_Sediment_TraceElements,AS,"Samarium, (micrograms/g)",Samarium concentration in micrograms per gram of a sediment sample,
 12,T12_Sediment_TraceElements,AT,"Strontium, (micrograms/g)",Strontium concentration in micrograms per gram of a sediment sample,
@@ -376,23 +376,23 @@ Table No.,Table Name,Table Column,Column heading,Column description,Extended Des
 15,T15_GeometricMean_MercuryConcentrations,C,USGS Station Number,U.S. Geological Survey station number,
 15,T15_GeometricMean_MercuryConcentrations,D,Latitude (NAD83),Station latitude referenced to the North American Datum of 1983,
 15,T15_GeometricMean_MercuryConcentrations,E,Longitude (NAD83),Station longitude referenced to the North American Datum of 1983,
-15,T15_GeometricMean_MercuryConcentrations,F,Geometric Mean Water Mercury Unfiltered (ng/L),Geometric mean mercury concentration of all unfiltered water samples from a particular site in nanograms per liter,"ND, not determined"
-15,T15_GeometricMean_MercuryConcentrations,G,Geometric Mean Water Mercury Filtered (ng/L),Geometric mean mercury concentration of all filtered water samples from a particular site in nanograms per liter,"ND, not determined"
-15,T15_GeometricMean_MercuryConcentrations,H,Geometric Mean Water Methylmercury Unfiltered (ng/L),Geometric mean methylmercury concentration of all unfiltered water samples from a particular site in nanograms per liter,"ND, not determined"
-15,T15_GeometricMean_MercuryConcentrations,I,Geometric Mean Water Methylmercury Filtered (ng/L),Geometric mean methylmercury concentration of all filtered water samples from a particular site in nanograms per liter,"ND, not determined"
-15,T15_GeometricMean_MercuryConcentrations,J,"Geometric Mean Sediment Total Mercury, Dry (ng/g)",Geometric mean total mercury concentration of all dry sediment samples from a particular site in nanograms per gram,"ND, not determined"
-15,T15_GeometricMean_MercuryConcentrations,K,"Geometric Mean Sediment Methylmercury, Dry (ng/g)",Geometric mean methylmercury concentration of all dry sediment samples from a particular site in nanograms per gram,"ND, not determined"
-15,T15_GeometricMean_MercuryConcentrations,L,"Geometric Mean Invertebrates Total Mercury, Wet (micrograms/g)",Geometric mean total mercury concentration of all invertebrate wet samples from a particular site in micrograms per gram,"ND, not determined"
-15,T15_GeometricMean_MercuryConcentrations,M,"Geometric Mean Invertebrates Methylmercury, Wet (micrograms/g)",Geometric mean methylmercury concentration of all invertebrate wet samples from a particular site in micrograms per gram,"ND, not determined"
-15,T15_GeometricMean_MercuryConcentrations,N,"Geometric Mean Frogs Total Mercury, Wet (micrograms/g)",Geometric mean total mercury concentration of all frog wet samples from a particular site in micrograms per gram,"ND, not determined"
-15,T15_GeometricMean_MercuryConcentrations,O,"Geometric Mean Fish Total Mercury, Dry (mg/kg)",Geometric mean total mercury concentration of all dry fish samples from a particular site in milligams per kilogram,"ND, not determined"
-15,T15_GeometricMean_MercuryConcentrations,P,"Geometric Mean Fish Total Mercury, Wet (mg/kg)",Geometric mean total mercury concentration of all wet fish samples from a particular site in milligams per kilogram,"ND, not determined"
+15,T15_GeometricMean_MercuryConcentrations,F,Geometric Mean Water Mercury Unfiltered (ng/L),Geometric mean mercury concentration of all unfiltered water samples from a particular site in nanograms per liter,"0, not determined"
+15,T15_GeometricMean_MercuryConcentrations,G,Geometric Mean Water Mercury Filtered (ng/L),Geometric mean mercury concentration of all filtered water samples from a particular site in nanograms per liter,"0, not determined"
+15,T15_GeometricMean_MercuryConcentrations,H,Geometric Mean Water Methylmercury Unfiltered (ng/L),Geometric mean methylmercury concentration of all unfiltered water samples from a particular site in nanograms per liter,"0, not determined"
+15,T15_GeometricMean_MercuryConcentrations,I,Geometric Mean Water Methylmercury Filtered (ng/L),Geometric mean methylmercury concentration of all filtered water samples from a particular site in nanograms per liter,"0, not determined"
+15,T15_GeometricMean_MercuryConcentrations,J,"Geometric Mean Sediment Total Mercury, Dry (ng/g)",Geometric mean total mercury concentration of all dry sediment samples from a particular site in nanograms per gram,"0, not determined"
+15,T15_GeometricMean_MercuryConcentrations,K,"Geometric Mean Sediment Methylmercury, Dry (ng/g)",Geometric mean methylmercury concentration of all dry sediment samples from a particular site in nanograms per gram,"0, not determined"
+15,T15_GeometricMean_MercuryConcentrations,L,"Geometric Mean Invertebrates Total Mercury, Wet (micrograms/g)",Geometric mean total mercury concentration of all invertebrate wet samples from a particular site in micrograms per gram,"0, not determined"
+15,T15_GeometricMean_MercuryConcentrations,M,"Geometric Mean Invertebrates Methylmercury, Wet (micrograms/g)",Geometric mean methylmercury concentration of all invertebrate wet samples from a particular site in micrograms per gram,"0, not determined"
+15,T15_GeometricMean_MercuryConcentrations,N,"Geometric Mean Frogs Total Mercury, Wet (micrograms/g)",Geometric mean total mercury concentration of all frog wet samples from a particular site in micrograms per gram,"0, not determined"
+15,T15_GeometricMean_MercuryConcentrations,O,"Geometric Mean Fish Total Mercury, Dry (mg/kg)",Geometric mean total mercury concentration of all dry fish samples from a particular site in milligams per kilogram,"0, not determined"
+15,T15_GeometricMean_MercuryConcentrations,P,"Geometric Mean Fish Total Mercury, Wet (mg/kg)",Geometric mean total mercury concentration of all wet fish samples from a particular site in milligams per kilogram,"0, not determined"
 16,T16_Normalized_Mercury_Values,A,Station Map ID,Map reference identification number ,
 16,T16_Normalized_Mercury_Values,B,USGS Station Name,U.S. Geological Survey station name,
 16,T16_Normalized_Mercury_Values,C,USGS Station Number,U.S. Geological Survey station number,
 16,T16_Normalized_Mercury_Values,D,Latitude,Station latitude referenced to the North American Datum of 1983,
 16,T16_Normalized_Mercury_Values,E,Longitude,Station longitude referenced to the North American Datum of 1983,
-16,T16_Normalized_Mercury_Values,F,Water Mercury Normalized Average,Normalized average mercury value for water samples at a single site,"ND, not determined"
-16,T16_Normalized_Mercury_Values,G,Sediment Mercury Normalized Average,Normalized average mercury value for sediment samples at a single site,"ND, not determined"
-16,T16_Normalized_Mercury_Values,H,Biota Mercury Normalized Average,Normalized average mercury value for biota samples at a single site,"ND, not determined"
+16,T16_Normalized_Mercury_Values,F,Water Mercury Normalized Average,Normalized average mercury value for water samples at a single site,"0, not determined"
+16,T16_Normalized_Mercury_Values,G,Sediment Mercury Normalized Average,Normalized average mercury value for sediment samples at a single site,"0, not determined"
+16,T16_Normalized_Mercury_Values,H,Biota Mercury Normalized Average,Normalized average mercury value for biota samples at a single site,"0, not determined"
 16,T16_Normalized_Mercury_Values,I,Integrated Mercury Average,"Average integrated mercury value based on the normalized average mercury values for water, sediment and biota",
