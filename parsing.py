@@ -141,7 +141,7 @@ for site in scoreSites:
         for k in keyList:
             if(G.nodes[m]['data/T15_GeometricMean_MercuryConcentrations.csv'][k][0] != ''):
                 mercValSum += float(G.nodes[m]['data/T15_GeometricMean_MercuryConcentrations.csv'][k][0])
-    G.nodes[site]['score'] = (log(mercValSum)/distSum) * 10000
+    G.nodes[site]['score'] = (log(mercValSum/distSum)) * 4
     print(site + ": " + str(G.nodes[site]['score']))
 
 here = os.path.dirname(os.path.abspath(__file__))
