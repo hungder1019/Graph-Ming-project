@@ -154,12 +154,6 @@ for site in scoreSites:
     longitudes.append(G.nodes[site]['Longitude'])
     colorVars.append(G.nodes[site]['score'])
 scale = 255.0 * min(colorVars)
-lat_c = []
-lon_c = []
-for i in latitudes:
-    lat_c.append(i)
-for i in longitudes:
-    lon_c.append(i)
 #Mines
 New_file = open(os.path.join(here, "visual_footprints/Nodes_graph.txt"), "r")
 x = []
@@ -193,26 +187,7 @@ for i in range(len(text)):
     plt.text(longitudes[i], latitudes[i], text[i], color = "red")
 plt.show()
 
-
-elevation_file = open(os.path.join(here, "elevation.txt"), "r")
-elevation = [float(i) for i in elevation_file]
-city_file = open(os.path.join(here, "city_elevation.txt"), "r")
-city_elevation = [float(i) for i in city_file]
-total_elevation = city_elevation + elevation
-
-#plt.clf()
-
-fig = plt.figure()
-ax = fig.add_subplot(projection='3d')
-for shape, ele, lo, la in [('o', elevation, x, y), ('^', city_elevation, lon_c, lat_c)]:
-    xs = lo
-    ys = la
-    zs = ele
-    print(len(xs))
-    print(len(ys))
-    print(len(zs))
-    ax.scatter(xs, ys, zs, marker=shape)
-ax.set_xlabel('longitude')
-ax.set_ylabel('latitude')
-ax.set_zlabel('elevation (m) above sea')
-plt.show()
+#elevation
+ele_file = open(os.path.join(here, "elevation.txt"))
+elevation = [float(i) for i in ele_file]
+plt.scatter(np.array(longitudes), np.array(latitudes), np.array(elevation))
