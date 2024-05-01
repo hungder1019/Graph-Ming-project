@@ -123,6 +123,7 @@ with open('data/T0_City_Sites.csv', 'r') as csvfile:
             scoreSites.append(row[0])
             G.nodes[row[0]]['Latitude'] = float(row[1])
             G.nodes[row[0]]['Longitude'] = float(row[2])
+            G.nodes[row[0]]['Elevation'] = float(row[3])
             for n in mineNodes:
                 curLat = float(G.nodes[n]['data/T2_Study_Sites.csv']['Latitude'][0])
                 curLong = float(G.nodes[n]['data/T2_Study_Sites.csv']['Longitude'][0])
@@ -136,12 +137,16 @@ keyList = ['Geometric Mean Water Mercury Unfiltered (ng/L)', 'Geometric Mean Wat
 for site in scoreSites:
     distSum = 0.0
     mercValSum = 0.0
+    siteElev = G.nodes[site]['Elevation']
     for m in mineNodes:
-        distSum += G.nodes[site][m]
-        for k in keyList:
-            if(G.nodes[m]['data/T15_GeometricMean_MercuryConcentrations.csv'][k][0] != ''):
-                mercValSum += float(G.nodes[m]['data/T15_GeometricMean_MercuryConcentrations.csv'][k][0])
-    G.nodes[site]['score'] = (log(mercValSum/distSum)) * 4
+        mineElev = float(G.nodes[m]['data/T2_Study_Sites.csv']['Elevation'][0])
+        if(siteElev <= mineElev):
+            distSum += G.nodes[site][m]
+            for k in keyList:
+                if(G.nodes[m]['data/T15_GeometricMean_MercuryConcentrations.csv'][k][0] != ''):
+                    mercValSum += float(G.nodes[m]['data/T15_GeometricMean_MercuryConcentrations.csv'][k][0])
+    if(distSum == 0.0): G.nodes[site]['score'] = 0.01
+    else: G.nodes[site]['score'] = (log(mercValSum/distSum)) * 4
     print(site + ": " + str(G.nodes[site]['score']))
 
 here = os.path.dirname(os.path.abspath(__file__))
