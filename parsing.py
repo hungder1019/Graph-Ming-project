@@ -123,6 +123,7 @@ with open('data/T0_City_Sites.csv', 'r') as csvfile:
             scoreSites.append(row[0])
             G.nodes[row[0]]['Latitude'] = float(row[1])
             G.nodes[row[0]]['Longitude'] = float(row[2])
+            G.nodes[row[0]]['Elevation'] = float(row[3])
             for n in mineNodes:
                 curLat = float(G.nodes[n]['data/T2_Study_Sites.csv']['Latitude'][0])
                 curLong = float(G.nodes[n]['data/T2_Study_Sites.csv']['Longitude'][0])
@@ -136,12 +137,18 @@ keyList = ['Geometric Mean Water Mercury Unfiltered (ng/L)', 'Geometric Mean Wat
 for site in scoreSites:
     distSum = 0.0
     mercValSum = 0.0
+    siteElev = G.nodes[site]['Elevation']
     for m in mineNodes:
-        distSum += G.nodes[site][m]
-        for k in keyList:
-            if(G.nodes[m]['data/T15_GeometricMean_MercuryConcentrations.csv'][k][0] != ''):
-                mercValSum += float(G.nodes[m]['data/T15_GeometricMean_MercuryConcentrations.csv'][k][0])
-    G.nodes[site]['score'] = (log(mercValSum/distSum)) * 4
+        mineElev = float(G.nodes[m]['data/T2_Study_Sites.csv']['Elevation'][0])
+        if(siteElev <= mineElev):
+            distSum += G.nodes[site][m]
+            for k in keyList:
+                if(G.nodes[m]['data/T15_GeometricMean_MercuryConcentrations.csv'][k][0] != ''):
+                    mercValSum += float(G.nodes[m]['data/T15_GeometricMean_MercuryConcentrations.csv'][k][0])
+    if(distSum == 0.0): G.nodes[site]['score'] = 0.01
+    else: 
+        s = 200
+        G.nodes[site]['score'] = (log(s * mercValSum/distSum)) * 4
     print(site + ": " + str(G.nodes[site]['score']))
 
 here = os.path.dirname(os.path.abspath(__file__))
@@ -153,7 +160,11 @@ for site in scoreSites:
     latitudes.append(G.nodes[site]['Latitude'])
     longitudes.append(G.nodes[site]['Longitude'])
     colorVars.append(G.nodes[site]['score'])
-scale = 255.0 * min(colorVars)
+print(colorVars)
+min_color = min(colorVars) if min(colorVars) >= 0 else min(colorVars) * -1
+score_cp = []
+for i in colorVars:
+    score_cp.append(i + min_color + 1)
 lat_c = []
 lon_c = []
 for i in latitudes:
@@ -164,9 +175,11 @@ for i in longitudes:
 New_file = open(os.path.join(here, "visual_footprints/Nodes_graph.txt"), "r")
 x = []
 y = []
-
+scale = min(score_cp)
 s2 = [45 for n in range(len(longitudes))]
-c2 = [[((1/score)*scale), ((1/score)*scale), ((1/score)*scale)] for score in colorVars]
+print(scale)
+print(score_cp)
+c2 = [[(scale/score), (scale/score), (scale/score)] for score in score_cp]
 for i in New_file:
     z = i.split()
     x.append(float(z[2]))
@@ -174,7 +187,7 @@ for i in New_file:
 longitudes += x
 latitudes += y
 s1 = [15 for n in range(len(x))]
-c1 = [[0, 0, 155] for n in range(len(x))]
+c1 = [[0, 0, 1.0] for n in range(len(x))]
 s2 += s1
 c2 += c1
 
@@ -185,7 +198,7 @@ text += text1
 
 fig, ax = plt.subplots()
 ax.imshow(img, extent=[-123.7939, -118, 36, 41.5086])
-plt.scatter(np.array(longitudes), np.array(latitudes), s = np.array(s2), c = (np.array(c2)/255.0), edgecolors='black', linewidths=.5)
+plt.scatter(np.array(longitudes), np.array(latitudes), s = np.array(s2), c = (np.array(c2)/1.0), edgecolors='black', linewidths=.5)
 plt.title("Score of chosen area in relation of distancce")
 plt.xlabel("Longitudes")
 plt.ylabel("Latitudes")
