@@ -1,3 +1,3 @@
 # Graph-mining-project
 
-Goal: procrastinate
+run parsing.py and logistic.py for get produces results
