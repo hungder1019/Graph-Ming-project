@@ -1,3 +1,3 @@
-# Coal-Mines
+# Graph-mining-project
 
 Goal: procrastinate
