@@ -140,14 +140,18 @@ for site in scoreSites:
     siteElev = G.nodes[site]['Elevation']
     for m in mineNodes:
         mineElev = float(G.nodes[m]['data/T2_Study_Sites.csv']['Elevation'][0])
-        if(siteElev <= mineElev):
-            distSum += G.nodes[site][m]
-            for k in keyList:
-                if(G.nodes[m]['data/T15_GeometricMean_MercuryConcentrations.csv'][k][0] != ''):
-                    mercValSum += float(G.nodes[m]['data/T15_GeometricMean_MercuryConcentrations.csv'][k][0])
+        distSum += G.nodes[site][m]
+        for k in keyList:
+            if(G.nodes[m]['data/T15_GeometricMean_MercuryConcentrations.csv'][k][0] != ''):
+                modifier = 1.0
+                rawVal = float(G.nodes[m]['data/T15_GeometricMean_MercuryConcentrations.csv'][k][0])
+                if(siteElev < mineElev): modifier += 0.25
+                else: modifier -= 0.25
+                print("Modifier: " + str(modifier) + "\n")
+                mercValSum += rawVal * modifier
     if(distSum == 0.0): G.nodes[site]['score'] = 0.01
     else: 
-        s = 200
+        s = 1
         G.nodes[site]['score'] = (log(s * mercValSum/distSum)) * 4
     print(site + ": " + str(G.nodes[site]['score']))
 
