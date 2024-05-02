@@ -166,7 +166,7 @@ print(colorVars)
 min_color = min(colorVars) if min(colorVars) >= 0 else min(colorVars) * -1
 score_cp = []
 for i in colorVars:
-    score_cp.append(i + min_color + 1)
+    score_cp.append(i + min_color + 2.7)
 lat_c = []
 lon_c = []
 for i in latitudes:
