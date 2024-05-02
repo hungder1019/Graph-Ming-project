@@ -147,7 +147,6 @@ for site in scoreSites:
                 rawVal = float(G.nodes[m]['data/T15_GeometricMean_MercuryConcentrations.csv'][k][0])
                 if(siteElev < mineElev): modifier += 0.25
                 else: modifier -= 0.25
-                print("Modifier: " + str(modifier) + "\n")
                 mercValSum += rawVal * modifier
     if(distSum == 0.0): G.nodes[site]['score'] = 0.01
     else: 
