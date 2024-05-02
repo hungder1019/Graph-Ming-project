@@ -148,7 +148,6 @@ for site in scoreSites:
                 if(siteElev < mineElev): modifier += 0.25
                 else: modifier -= 0.25
                 mercValSum += rawVal * modifier
-    if(distSum == 0.0): G.nodes[site]['score'] = 0.01
     else: 
         s = 1
         G.nodes[site]['score'] = (log(s * mercValSum/distSum)) * 4
@@ -182,6 +181,7 @@ scale = min(score_cp)
 s2 = [45 for n in range(len(longitudes))]
 print(scale)
 print(score_cp)
+
 c2 = [[(scale/score), (scale/score), (scale/score)] for score in score_cp]
 for i in New_file:
     z = i.split()
